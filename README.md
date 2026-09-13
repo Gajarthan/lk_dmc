@@ -4,14 +4,14 @@
 
 **Automatically collect official reports, turn PDFs into usable data, and publish the results on GitHub.** Add OpenCode to create AI summaries from the extracted text.
 
-[**Data dashboard**](#archive-coverage) ? [**How it works**](#how-it-works) ? [**Quick start**](#quick-start) ? [**OpenCode**](#add-opencode-analysis) ? [**Automation**](#run-automatically-on-github) ? [**Help**](#troubleshooting)
+[**Data dashboard**](#archive-coverage) · [**How it works**](#how-it-works) · [**Quick start**](#quick-start) · [**OpenCode**](#add-opencode-analysis) · [**Automation**](#run-automatically-on-github) · [**Help**](#troubleshooting)
 
 [![Collection pipeline](https://github.com/Gajarthan/lk_dmc/actions/workflows/pipeline.yml/badge.svg)](https://github.com/Gajarthan/lk_dmc/actions/workflows/pipeline.yml)
 [![Tests](https://github.com/Gajarthan/lk_dmc/actions/workflows/tests.yml/badge.svg)](https://github.com/Gajarthan/lk_dmc/actions/workflows/tests.yml)
 [![Dashboard refresh](https://github.com/Gajarthan/lk_dmc/actions/workflows/build_global_readme.yml/badge.svg)](https://github.com/Gajarthan/lk_dmc/actions/workflows/build_global_readme.yml)
 [![OpenCode check](https://github.com/Gajarthan/lk_dmc/actions/workflows/opencode-check.yml/badge.svg)](https://github.com/Gajarthan/lk_dmc/actions/workflows/opencode-check.yml)
 
-| ?? Collect | ?? Read | ? Understand | ?? Share |
+| 📥 Collect | 📄 Read | ✨ Understand | 📦 Share |
 |---|---|---|---|
 | Reports from Sri Lanka's DMC | Original PDFs, text and tables | Optional AI summaries with OpenCode | Data files and indexes on GitHub |
 
@@ -21,12 +21,12 @@
 
 ```mermaid
 flowchart TD
-    A["1 ? DMC publishes a report"] --> B["2 ? Collect report details and PDF"]
-    B --> C["3 ? Extract text and tables"]
-    C --> D["4 ? Prepare data files"]
+    A["1 · DMC publishes a report"] --> B["2 · Collect report details and PDF"]
+    B --> C["3 · Extract text and tables"]
+    C --> D["4 · Prepare data files"]
     C -. "Optional" .-> E["OpenCode creates an AI summary"]
     E --> D
-    D --> F["5 ? GitHub Actions publishes the archive"]
+    D --> F["5 · GitHub Actions publishes the archive"]
     F --> G["README dashboard refreshes"]
     classDef source fill:#123C59,color:#F7FBFD,stroke:#80DBCB
     classDef process fill:#E8F4F8,color:#123C59,stroke:#36748D
@@ -223,11 +223,11 @@ A collection error skips analysis; requested exports still preserve available re
 
 ## Run automatically on GitHub
 
-The repository's **pipeline** workflow collects all four datasets on a two-hour schedule. You can also start it from [**Actions ? pipeline ? Run workflow**](https://github.com/Gajarthan/lk_dmc/actions/workflows/pipeline.yml).
+The repository's **pipeline** workflow collects all four datasets on a two-hour schedule. You can also start it from [**Actions → pipeline → Run workflow**](https://github.com/Gajarthan/lk_dmc/actions/workflows/pipeline.yml).
 
 | Workflow | When it runs | What it does |
 |---|---|---|
-| [Collection](.github/workflows/pipeline.yml) | Every two hours or manually | Collect ? extract ? optionally analyze ? export ? publish |
+| [Collection](.github/workflows/pipeline.yml) | Every two hours or manually | Collect → extract → optionally analyze → export → publish |
 | [Dashboard](.github/workflows/build_global_readme.yml) | After collection completes, every two hours, or manually | Read published summaries and update this page |
 | [Tests](.github/workflows/tests.yml) | Code pushes and pull requests | Test Python 3.11/3.13 on Windows and Linux |
 | [OpenCode check](.github/workflows/opencode-check.yml) | Manually | Check access and analyze one synthetic report |
@@ -236,7 +236,7 @@ The repository's **pipeline** workflow collects all four datasets on a two-hour 
 
 1. Provide four `data_<dataset-label>` branches. Each stores its archive under `data/<dataset-label>/`. Empty branches with that archive folder can begin a new collection; historical data is not bundled with the code.
 2. Allow the workflow's built-in `GITHUB_TOKEN` to write repository contents.
-3. To enable analysis, add the following under **Settings ? Secrets and variables ? Actions**:
+3. To enable analysis, add the following under **Settings → Secrets and variables → Actions**:
 
    | Type | Name | Value |
    |---|---|---|
@@ -270,21 +270,21 @@ A dataset is a folder of reports plus indexes and exports. **JSONL** means one J
 
 ```text
 data/<dataset>/
-??? summary.json              Counts used by this dashboard
-??? run.json                  Latest collection run and errors
-??? README.md                 Dataset overview
-??? docs_all.tsv              Report index
-??? exports/
-?   ??? docs.jsonl            Report details, text and valid AI results
-?   ??? chunks.jsonl          Smaller text pieces for search or analysis
-??? <decade>/<year>/<document-id>/
-    ??? doc.json              Report details and source URL
-    ??? doc.pdf               Original PDF
-    ??? doc.txt               Extracted text
-    ??? blocks.json           Text grouped by page
-    ??? processing.json       PDF processing result
-    ??? analysis.json         Optional AI result and source information
-    ??? tabular/*.csv          Extracted tables, when available
+├── summary.json              Counts used by this dashboard
+├── run.json                  Latest collection run and errors
+├── README.md                 Dataset overview
+├── docs_all.tsv               Report index
+├── exports/
+│   ├── docs.jsonl             Report details, text and valid AI results
+│   └── chunks.jsonl           Smaller text pieces for search or analysis
+└── <decade>/<year>/<document-id>/
+    ├── doc.json              Report details and source URL
+    ├── doc.pdf               Original PDF
+    ├── doc.txt               Extracted text
+    ├── blocks.json           Text grouped by page
+    ├── processing.json       PDF processing result
+    ├── analysis.json         Optional AI result and source information
+    └── tabular/*.csv          Extracted tables, when available
 ```
 
 Files appear as their processing stage completes. Local `data/` is ignored by Git in the code checkout; published files live on the separate dataset branches.
