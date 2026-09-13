@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="310" viewBox="0 0 1040 310" role="img" aria-labelledby="title desc">
+  <title id="title">lk_dmc — Sri Lanka disaster report archive</title>
+  <desc id="desc">An archive of four Disaster Management Centre report categories: situation reports, weather forecasts, river and flood warnings, and landslide warnings. A blue survey board with document, weather, river and slope symbols.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#F7FBFD" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect width="1040" height="310" rx="14" fill="#123C59"/>
+  <rect width="1040" height="310" rx="14" fill="url(#grid)"/>
+  <path d="M32 49H1008" stroke="#80DBCB" stroke-opacity="0.4"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="1.2" fill="#80DBCB">
+    <text x="32" y="31">GAJARTHAN / LK_DMC</text>
+    <text x="1008" y="31" text-anchor="end">SOURCE REPORTS · SRI LANKA</text>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="43" fill="#F7FBFD">
+    <text x="32" y="105">Sri Lanka disaster</text>
+    <text x="32" y="154">report archive.</text>
+  </g>
+  <path d="M578 78V172" stroke="#80DBCB" stroke-opacity="0.4"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#F7FBFD">
+    <text x="610" y="102" font-size="18">Original PDFs. Extracted evidence.</text>
+    <text x="610" y="132" font-size="18">Structured data for reuse.</text>
+    <text x="610" y="164" font-size="14" fill="#F3DBAA">From the Disaster Management Centre</text>
+  </g>
+  <g fill="#1C5671">
+    <rect x="24" y="198" width="242" height="88" rx="6"/>
+    <rect x="274" y="198" width="242" height="88" rx="6"/>
+    <rect x="524" y="198" width="242" height="88" rx="6"/>
+    <rect x="774" y="198" width="242" height="88" rx="6"/>
+  </g>
+  <g stroke="#80DBCB" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 221H65L74 230V254H44ZM65 221V231H74M51 239H67M51 246H63"/>
+    <path d="M294 242H324C334 242 334 228 324 228C322 214 302 215 302 229C290 227 287 241 294 242ZM300 250L297 256M311 250L308 256M322 250L319 256"/>
+    <path d="M548 231C555 224 562 238 569 231S583 238 590 231M548 242C555 235 562 249 569 242S583 249 590 242M548 253C555 246 562 260 569 253S583 260 590 253"/>
+    <path d="M796 255L814 227L833 255ZM811 243L815 246L818 240M825 218L831 222L827 228L821 224ZM836 236L841 238L838 243L833 241"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#F7FBFD">
+    <text x="90" y="237">Situation</text>
+    <text x="90" y="261">reports</text>
+    <text x="346" y="237">Weather</text>
+    <text x="346" y="261">forecasts</text>
+    <text x="606" y="237">River &amp; flood</text>
+    <text x="606" y="261">warnings</text>
+    <text x="855" y="237">Landslide</text>
+    <text x="855" y="261">warnings</text>
+  </g>
+</svg>

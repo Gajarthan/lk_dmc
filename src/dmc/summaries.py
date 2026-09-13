@@ -6,6 +6,8 @@ import json
 from datetime import UTC, datetime
 from pathlib import Path
 
+from dmc.dashboard import render_dashboard
+from dmc.publishing import _current_analysis
 from dmc.sources import SOURCES, Source
 from dmc.storage import Storage, atomic_write, write_json
 
@@ -17,11 +19,52 @@ def build_summary(store: Storage, source: Source) -> dict:
     documents = list(store.documents())
     records = [record for record, _ in documents]
     dates = [record["date_str"] for record in records]
+    analyzed = set()
+    for record, path in documents:
+        text_path = path.with_name("doc.txt")
+        if path.with_name("analysis.json").is_file() and text_path.is_file():
+            text = text_path.read_text(encoding="utf-8")
+            if (
+                text.strip()
+                and _current_analysis(path.with_name("analysis.json"), text) is not None
+            ):
+                analyzed.add(record["doc_id"])
+    collection_status = "Not reported"
+    try:
+        run = json.loads((store.directory / "run.json").read_text(encoding="utf-8"))
+        if (
+            isinstance(run, dict)
+            and isinstance(run.get("errors"), list)
+            and isinstance(run.get("limited"), bool)
+        ):
+            collection_status = (
+                "Needs attention"
+                if run.get("errors")
+                else "Bounded run"
+                if run.get("limited")
+                else "Complete"
+            )
+    except (OSError, ValueError):
+        pass
     summary = {
         "doc_class_label": source.label,
         "doc_class_description": source.description,
         "time_updated": datetime.now(UTC).isoformat(),
         "n_docs": len(records),
+        "n_docs_with_analysis": len(analyzed),
+        "collection_status": collection_status,
+        "latest_reports": [
+            {
+                **{
+                    key: record.get(key)
+                    for key in ("doc_id", "description", "date_str", "time_str", "url_pdf")
+                },
+                "analyzed": record["doc_id"] in analyzed,
+            }
+            for record in sorted(
+                records, key=lambda r: (r["date_str"], r.get("time_str", "")), reverse=True
+            )[:8]
+        ],
         "n_docs_with_pdfs": sum(path.with_name("doc.pdf").is_file() for _, path in documents),
         "n_docs_with_text": sum(
             path.with_name("doc.txt").is_file() and path.with_name("doc.txt").stat().st_size > 0
@@ -70,22 +113,21 @@ def build_summary(store: Storage, source: Source) -> dict:
     return summary
 
 
-def build_global_readme(path: Path, summaries: list[dict]) -> None:
-    if not summaries:
-        raise ValueError("No dataset summaries available; README was not changed")
-    rows = ["| Dataset | Documents | Date range |", "|---|---:|---|"]
-    for summary in summaries:
-        label = summary["doc_class_label"]
-        if label not in SOURCES:
-            raise ValueError(f"Unknown dataset summary: {label}")
-        rows.append(
-            f"| {SOURCES[label].title} | {summary['n_docs']:,} | "
-            f"{summary.get('date_str_min') or '—'} – "
-            f"{summary.get('date_str_max') or '—'} |"
-        )
-    section = START + "\n\n" + "\n".join(rows) + "\n\n" + END
+def build_global_readme(
+    path: Path,
+    summaries: list[dict],
+    *,
+    repository: str | None = None,
+) -> None:
+    section = START + "\n\n" + render_dashboard(summaries, repository) + "\n\n" + END
     existing = path.read_text(encoding="utf-8") if path.exists() else "# DMC datasets\n"
-    if START in existing and END in existing:
+    if START in existing or END in existing:
+        if (
+            existing.count(START) != 1
+            or existing.count(END) != 1
+            or existing.index(START) > existing.index(END)
+        ):
+            raise ValueError("Malformed dashboard markers; README was not changed")
         before, rest = existing.split(START, 1)
         _, after = rest.split(END, 1)
         content = before + section + after

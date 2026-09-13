@@ -128,7 +128,6 @@ def run_pipeline(
                 write_json(status_path, {"status": "error", "error": str(exc)})
                 result.errors.append(f"{record['doc_id']}: {exc}")
 
-    build_summary(store, source)
     write_json(
         store.directory / "run.json",
         {
@@ -140,4 +139,5 @@ def run_pipeline(
             "errors": result.errors,
         },
     )
+    build_summary(store, source)
     return result

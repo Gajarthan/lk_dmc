@@ -14,7 +14,8 @@ from dmc.opencode import OpenCodeClient, OpenCodeConfig
 from dmc.pipeline import run_pipeline
 from dmc.publishing import export_dataset
 from dmc.sources import SOURCES
-from dmc.summaries import build_global_readme, load_local_summaries
+from dmc.storage import Storage
+from dmc.summaries import build_global_readme, build_summary, load_local_summaries
 
 
 def main(argv=None) -> int:
@@ -52,7 +53,7 @@ def main(argv=None) -> int:
     export.add_argument("dataset", choices=SOURCES)
     export.add_argument("--data-dir", type=Path, default=Path("data"))
     commands.add_parser("opencode-health", help="Check the configured OpenCode service")
-    readme = commands.add_parser("readme", help="Update the dataset statistics in README")
+    readme = commands.add_parser("readme", help="Update the archive dashboard in README")
     readme.add_argument("--data-dir", type=Path, default=Path("data"))
     readme.add_argument("--output", type=Path, default=Path("README.md"))
     readme.add_argument("--repository", help="Read summaries from owner/repository data branches")
@@ -94,6 +95,12 @@ def main(argv=None) -> int:
         if should_export:
             paths = export_dataset(args.data_dir / args.dataset)
             print(json.dumps({"exported": [str(path) for path in paths]}))
+        if should_analyze or should_export:
+            # Collected archives already have a summary. Refresh it after enrichment
+            # so the dashboard sees this run's analysis rather than the previous run.
+            store = Storage(args.data_dir, args.dataset)
+            if (store.directory / "summary.json").is_file():
+                build_summary(store, SOURCES[args.dataset])
         if args.command == "opencode-health":
             with OpenCodeClient(config) as client:
                 print(json.dumps(client.health()))
@@ -115,7 +122,7 @@ def main(argv=None) -> int:
                     ]
             else:
                 summaries = load_local_summaries(args.data_dir)
-            build_global_readme(args.output, summaries)
+            build_global_readme(args.output, summaries, repository=args.repository)
     except Exception as exc:
         logging.error("%s", exc)
         return 1
