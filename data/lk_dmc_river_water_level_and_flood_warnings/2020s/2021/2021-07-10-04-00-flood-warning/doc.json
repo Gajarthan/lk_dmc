@@ -1,0 +1,12 @@
+{
+  "doc_id": "2021-07-10-04-00-flood-warning",
+  "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+  "num": "04-00-flood-warning",
+  "date_str": "2021-07-10",
+  "description": "Flood Warning",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2290",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_Gin_Ganga_(Minor)_Report_at_0400hrs_on_2021__1625871112.pdf",
+  "time_str": "04:00",
+  "ut": 1625869800,
+  "lang": "und"
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "2021-12-09-10-00-river-water-level",
+  "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+  "num": "10-00-river-water-level",
+  "date_str": "2021-12-09",
+  "description": "River Water Level",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2210",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_Level_&_Rainfall_2021__1639027628.pdf",
+  "time_str": "10:00",
+  "ut": 1639024200,
+  "lang": "und"
+}

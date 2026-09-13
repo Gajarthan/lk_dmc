@@ -1,3 +1,11 @@
 # River and flood warnings
 
-Initialized empty. The scheduled pipeline writes reports to `data/lk_dmc_river_water_level_and_flood_warnings`.
+River water levels and flood warnings for Sri Lanka.
+
+Documents: **2,454**
+
+Date range: 2018-05-24 to 2026-09-13
+
+Source: [Disaster Management Centre](https://www.dmc.gov.lk).
+
+See `summary.json` and `docs_all.tsv` for the generated index.

@@ -1,0 +1,12 @@
+{
+  "doc_id": "2019-09-16-18-00-water-level",
+  "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+  "num": "18-00-water-level",
+  "date_str": "2019-09-16",
+  "description": "Water Level",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2620",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_Level_1800hrs__1568642097.PDF",
+  "time_str": "18:00",
+  "ut": 1568637000,
+  "lang": "und"
+}

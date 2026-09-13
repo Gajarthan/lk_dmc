@@ -1,0 +1,12 @@
+{
+  "doc_id": "2022-09-01-12-00-water-level",
+  "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+  "num": "12-00-water-level",
+  "date_str": "2022-09-01",
+  "description": "Water Level",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2070",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2022__1662017148.pdf",
+  "time_str": "12:00",
+  "ut": 1662013800,
+  "lang": "und"
+}

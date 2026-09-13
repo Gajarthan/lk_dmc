@@ -1,0 +1,12 @@
+{
+  "doc_id": "2021-06-05-02-00-flood-warning",
+  "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+  "num": "02-00-flood-warning",
+  "date_str": "2021-06-05",
+  "description": "Flood Warning",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2330",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Kalu_River-_Flood_warning_message_0200hrs__1622840031.pdf",
+  "time_str": "02:00",
+  "ut": 1622838600,
+  "lang": "und"
+}
