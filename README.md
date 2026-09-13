@@ -170,10 +170,11 @@ Setup in the repository where these workflows will run:
 4. For a larger historical backfill, manually run the pipeline with an increased
    `max_dt` time budget.
 
-The README workflow reads summaries from the current repository's public data
-branches. It only updates the marked statistics section below, preserving setup
-instructions. For private repositories, use locally checked-out summaries with
-`dmc readme --data-dir PATH` instead of the public-URL workflow.
+The README workflow reads summaries from the current repository's data branches
+through the GitHub Contents API, using the built-in token for private repositories.
+It only updates the marked statistics section below, preserving setup instructions.
+For local access to private repositories, set `GITHUB_TOKEN`, or use locally
+checked-out summaries with `dmc readme --data-dir PATH`.
 
 The test workflow covers Python 3.11 and 3.13 on Windows and Linux.
 

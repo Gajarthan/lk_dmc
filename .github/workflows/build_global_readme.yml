@@ -29,6 +29,7 @@ jobs:
       - name: Generate dataset statistics
         env:
           REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: uv run --frozen dmc readme --repository "$REPOSITORY"
       - name: Commit README
         env:

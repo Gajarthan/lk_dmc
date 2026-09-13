@@ -43,3 +43,26 @@ def test_no_summaries_cannot_replace_readme(tmp_path):
     with pytest.raises(ValueError):
         build_global_readme(path, [])
     assert path.read_text() == "existing"
+
+
+def test_private_repository_readme_uses_authenticated_contents_api(tmp_path, monkeypatch):
+    from unittest.mock import MagicMock
+
+    from dmc import cli
+    from dmc.sources import SOURCES
+
+    client = MagicMock()
+    client.session.headers = {}
+    client.__enter__.return_value = client
+    client.get_json.side_effect = [{"doc_class_label": label, "n_docs": 0} for label in SOURCES]
+    monkeypatch.setattr(cli, "Client", lambda: client)
+    monkeypatch.setenv("GITHUB_TOKEN", "test-access-token")
+    output = tmp_path / "README.md"
+    assert main(["readme", "--repository", "owner/project", "--output", str(output)]) == 0
+    assert client.session.headers["Authorization"] == "Bearer test-access-token"
+    assert client.session.headers["Accept"] == "application/vnd.github.raw+json"
+    for call, label in zip(client.get_json.call_args_list, SOURCES, strict=True):
+        assert call.args[0] == (
+            f"https://api.github.com/repos/owner/project/contents/data/{label}/summary.json"
+            f"?ref=data_{label}"
+        )

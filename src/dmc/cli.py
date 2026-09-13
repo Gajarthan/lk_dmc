@@ -63,10 +63,14 @@ def main(argv=None) -> int:
                 if not re.fullmatch(r"[\w.-]+/[\w.-]+", args.repository):
                     raise ValueError("Repository must be owner/name")
                 with Client() as client:
+                    client.session.headers["Accept"] = "application/vnd.github.raw+json"
+                    github_token = os.environ.get("GITHUB_TOKEN")
+                    if github_token:
+                        client.session.headers["Authorization"] = f"Bearer {github_token}"
                     summaries = [
                         client.get_json(
-                            f"https://raw.githubusercontent.com/{args.repository}/"
-                            f"refs/heads/data_{label}/data/{label}/summary.json"
+                            f"https://api.github.com/repos/{args.repository}/contents/"
+                            f"data/{label}/summary.json?ref=data_{label}"
                         )
                         for label in SOURCES
                     ]
