@@ -1,0 +1,54 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 20-Nov-2023 TIME : 3:30 PM
+Gauging Station
+Water Water Water Level 6 Hr RF in
+Minor Major
+River Basin Tributory/River Alert Level at Level at Remarks Rising or mm at 3.00
+Station Unit Flood Flood
+Level 2:00 pm 3.00 pm Falling pm
+Level Level
+Kelani Ganga N' Street ft 4.00 5.00 7.00 3.10 3.10 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 5.71 5.56 Normal 0.0
+Kelani Ganga Glencourse m 15.00 16.50 19.00 12.86 12.62 Normal 0.0
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 2.00 1.92 Normal 0.0
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 1.82 1.76 Normal 0.0
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 0.86 0.85 Normal 0.0
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 1.30 1.28 Normal 0.0
+Kalu Ganga Putupaula m 3.00 4.00 5.00 1.58 1.57 Normal 0.0
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 8.03 7.98 Normal 0.0
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 3.79 3.69 Normal 0.0
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 1.52 1.50 Normal 0.0
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 3.51 3.50 Normal 0.0
+(Millakanda)
+Gin Ganga Baddegama m 3.50 4.00 5.00 1.38 1.36 Normal 0.0
+Gin Ganga
+(RB 09)
+Gin Ganga Tawalama m 4.00 6.00 7.50 1.70 1.72 Normal 0.0
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.45 1.45 Alert 0.0
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 4.77 4.72 Normal 0.0
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 1.41 1.40 Normal 0.0
+Urubokka Ganga Urawa m 2.50 4.00 6.00 0.99 0.99 Normal 0.0
+Malwathu Oya
+Malwathu Oya Tantirimale m 5.00 6.80 7.80 4.36 4.40 Normal 0.0
+(RB 90)
+Deduru Oya
+Deduru Oya Moragaswewa m 4.75 6.00 7.00 6.03 6.04 Minor Flood Rising 0.0
+(RB 99)
+Maha Oya Badalgama m 5.00 6.20 9.60 8.18 7.97 Minor Flood Falling 0.0
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 4.63 4.40 Normal 0.0
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 3.26 3.22 Normal 0.0
+(RB 103)
+Prepared by : H.P.S.W.Gunawardhana (H.A.)
+Checked by : W.A.S.Saumya ( H.D.S(Act))
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

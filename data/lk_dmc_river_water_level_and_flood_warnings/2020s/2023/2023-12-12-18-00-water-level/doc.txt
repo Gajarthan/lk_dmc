@@ -1,0 +1,55 @@
+0
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 12-Dec-2023 TIME : 6:30 PM
+Gauging Station
+Water Water Water Level 09 Hr RF
+Minor Major
+River Basin Tributory/River Alert Level at Level at Remarks Rising or in mm at
+Station Unit Flood Flood
+Level 5:00 pm 6:00 pm Falling 6.00 P.M
+Level Level
+Kelani Ganga N' Street ft 4.00 5.00 7.00 1.60 1.60 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 3.45 3.40 Normal 1.2
+Kelani Ganga Glencourse m 15.00 16.50 19.00 10.63 10.68 Normal 6.5
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 1.89 1.85 Normal 6.1
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 0.90 0.88 Normal 0.0
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 0.99 0.97 Normal 9.9
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 0.98 0.96 Normal 2.0
+Kalu Ganga Putupaula m 3.00 4.00 5.00 2.26 2.25 Normal 45.0
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 7.46 7.40 Normal 5.1
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 2.56 2.49 Normal 3.1
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 4.80 4.92 Alert Rising 10.0
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 6.28 6.32 Alert Rising 57.5
+(Millakanda)
+Gin Ganga Baddegama m 3.50 4.00 5.00 3.26 3.31 Normal 20.2
+Gin Ganga
+(RB 09)
+Gin Ganga Tawalama m 4.00 6.00 7.50 3.55 4.12 Alert Rising 32.0
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.88 1.90 Minor Flood Rising 83.3
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 6.77 6.82 Minor Flood Rising 40.9
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 2.98 3.65 Normal 41.1
+Urubokka Ganga Urawa m 2.50 4.00 6.00 3.15 3.77 Alert Rising 65.9
+Walawe Ganga
+Walawe Ganga Moraketiya m 3.00 5.00 7.00 1.85 1.84 Normal 1.5
+(RB 18)
+Yan Oya
+Yan Oya Horowpatana m 6.00 7.50 10.50 5.35 5.23 Normal 0.0
+(RB 67)
+Maha Oya Badalgama m 5.00 6.20 9.60 3.02 3.01 Normal 0.0
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 1.74 1.73 Normal 0.0
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 2.30 2.26 Normal 0.0
+(RB 103)
+Prepared by : K.K.C.U.Dilshan (H.A.)
+Checked by : G.A.S.A.Jayamal (H.A.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

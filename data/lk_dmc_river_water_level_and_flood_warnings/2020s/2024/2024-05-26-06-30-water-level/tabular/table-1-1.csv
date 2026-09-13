@@ -1,0 +1,70 @@
+River Basin,Tributory/River,Gauging Station,,,,,"Water
+Level at
+5:00 am","Water
+Level at
+6:00 am",Remarks,"Water
+Level
+Rising or
+Falling","21 Hr RF
+in mm at
+6.00 am",
+,,Station,Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,,
+,Kelani Ganga,N' Street,ft,4.00,5.00,7.00,3.10,3.40,Normal,,-,
+,Kelani Ganga,Hanwella,m,7.00,8.00,10.00,6.97,6.96,Normal,,48.,2
+,Kelani Ganga,Glencourse,m,15.00,16.50,19.00,14.65,14.50,Normal,,44.,8
+"Kelani Ganga
+(RB 01)",Kelani Ganga,Kitulgala,m,3.00,4.00,6.00,1.95,1.90,Normal,,67.9,
+,Gurugoda Oya,Holombuwa,m,3.00,3.40,5.00,2.14,2.09,Normal,,33.9,
+,Seethawaka Ganga,Deraniyagala,m,4.80,5.80,6.40,1.73,1.67,Normal,,68.0,
+,Kehelgamu Oya,Norwood,m,1.50,3.00,4.50,1.60,1.56,Alert,Falling,44.,3
+"Kalu Ganga
+(RB 03)",Kalu Ganga,Putupaula,m,3.00,4.00,5.00,2.80,2.79,Normal,,25.3,
+,Kalu Ganga,Ellagawa,m,10.00,10.70,12.20,8.52,8.52,Normal,,33.2,
+,Kalu Ganga,Ratnapura,m,5.20,7.50,9.50,5.50,5.43,Alert,Falling,28.9,
+,Maguru Ganga,Magura,m,4.00,6.00,7.50,3.27,3.30,Normal,,8.2,
+,Kuda Ganga,"Kalawellawa
+(Millakanda)",m,5.00,6.50,8.00,6.48,6.47,Alert,Falling,30.3,
+Gin Ganga,Gin Ganga,Baddegama,m,3.50,4.00,5.00,3.20,3.19,Normal,,5.9,
+(RB 09),Gin Ganga,Tawalama,m,4.00,6.00,7.50,3.50,3.43,Normal,,43.,8
+"Nilwala Ganga
+(RB 12)",Nilwala Ganga,Thalgahagoda,m,1.40,1.70,2.80,1.45,1.45,Alert,,5.7,
+,Nilwala Ganga,Panadugama,m,5.00,6.00,7.50,5.11,5.18,Alert,Rising,10.3,
+,Nilwala Ganga,Pitabeddara,m,4.00,5.00,6.50,1.67,1.69,Normal,,12.9,
+,Urubokka Ganga,Urawa,m,2.50,4.00,6.00,1.39,1.37,Normal,,30.0,
+"Walawe Ganga
+(RB 18)",Walawe Ganga,Moraketiya,m,3.00,5.00,7.00,1.69,1.75,Normal,,5.6,
+"Kirindi Oya
+(RB 22)",Kirindi Oya,Tanamalwila,m,4.00,5.00,5.50,0.58,0.58,Normal,,17.4,
+,Kirindi Oya,Wellawaya,m,4.40,5.40,5.90,0.78,0.78,Normal,,1.3,
+,Kuda Oya,Kuda Oya,m,6.90,8.40,8.80,1.34,1.34,Normal,,4.5,
+"Menik Ganga
+(RB 26)",Menik Ganga,Katharagama,m,4.00,4.60,6.50,-0.10,-0.10,Normal,,22.4,
+"Kumbukkan Oya
+(RB 31)",Kumbukkan Oya,Nakkala,m,5.00,6.00,7.50,0.79,0.78,Normal,,0.0,
+"Heda Oya
+(RB 36)",Heda Oya,Siyambalanduwa,m,4.50,6.00,7.00,0.47,0.47,Normal,,0.0,
+"Maduru Oya
+(RB 54)",Maduru Oya,Padiyatalawa,m,4.00,4.50,6.00,0.42,0.42,Normal,,3.8,
+,Mahaweli Ganga,Manampitiya (HMIS),m,3.00,4.30,6.00,0.44,0.30,Normal,,1.4,
+,Mahaweli Ganga,Weragantota,m,5.00,6.00,8.00,-2.53,-2.70,Normal,,1.3,
+"Mahaweli Ganga
+(RB 60)",Mahaweli Ganga,Peradeniya,m,5.00,7.00,9.00,3.92,3.71,Normal,,26.5,
+,Mahaweli Ganga,Nawalapitiya,m,3.50,5.00,6.00,2.10,2.06,Normal,,74.9,
+,Badulu Oya,Taldena,m,3.00,4.00,5.00,0.34,0.33,Normal,,2.4,
+"Yan Oya
+(RB 67)",Yan Oya,Horowpatana,m,6.00,7.50,10.50,1.81,1.81,Normal,,5.0,
+Maa Oya (RB 69),Mukunu Oya,Yakawewa,m,4.00,5.00,6.00,0.53,0.53,Normal,,3.2,
+"Malwathu Oya
+(RB 90)",Malwathu Oya,Tantirimale,m,5.00,6.80,7.80,1.63,1.63,Normal,,3.4,
+"Deduru Oya
+(RB 99)",Deduru Oya,Moragaswewa,m,4.75,6.00,7.00,5.58,5.47,Alert,Falling,8.5,
+"Maha Oya
+(RB 102)",Maha Oya,Badalgama,m,5.00,6.20,9.60,4.43,4.43,Normal,,29.8,
+,Maha Oya,Giriulla,m,5.50,6.50,7.50,3.78,3.72,Normal,,33.6,
+"Attanagalu Oya
+(RB 103)",Attanagalu Oya,Dunamale,m,3.30,4.40,5.50,4.80,4.80,Minor Flood,,16.4,

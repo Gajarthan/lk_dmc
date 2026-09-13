@@ -1,0 +1,50 @@
+River Basin,Tributory/River,Gauging Station,,,,,"Water
+Level at
+2:00 pm","Water
+Level at
+3.00 pm",Remarks,"Water
+Level
+Rising or
+Falling","6 Hr RF in
+mm at
+3.00 pm"
+,,Station,Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,
+"Kelani Ganga
+(RB 01)",Kelani Ganga,N' Street,ft,4.00,5.00,7.00,2.90,2.60,Normal,,-
+,Kelani Ganga,Hanwella,m,7.00,8.00,10.00,4.26,4.19,Normal,,0.0
+,Kelani Ganga,Glencourse,m,15.00,16.50,19.00,11.36,11.34,Normal,,0.0
+,Kelani Ganga,Kitulgala,m,3.00,4.00,6.00,1.63,2.35,Normal,,0.0
+,Gurugoda Oya,Holombuwa,m,3.00,3.40,5.00,1.13,1.11,Normal,,0.0
+,Seethawaka Ganga,Deraniyagala,m,4.80,5.80,6.40,0.83,0.83,Normal,,0.0
+,Kehelgamu Oya,Norwood,m,1.50,3.00,4.50,1.20,1.22,Normal,,0.0
+"Kalu Ganga
+(RB 03)",Kalu Ganga,Putupaula,m,3.00,4.00,5.00,2.57,2.56,Normal,,0.0
+,Kalu Ganga,Ellagawa,m,10.00,10.70,12.20,8.42,8.36,Normal,,0.0
+,Kalu Ganga,Ratnapura,m,5.20,7.50,9.50,3.75,3.65,Normal,,0.0
+,Maguru Ganga,Magura,m,4.00,6.00,7.50,2.67,2.60,Normal,,0.0
+,Kuda Ganga,"Kalawellawa
+(Millakanda)",m,5.00,6.50,8.00,5.98,5.96,Alert,Falling,10.1
+"Gin Ganga
+(RB 09)",Gin Ganga,Baddegama,m,3.50,4.00,5.00,3.22,3.19,Normal,,0.0
+,Gin Ganga,Tawalama,m,4.00,6.00,7.50,1.98,1.97,Normal,,0.0
+"Nilwala Ganga
+(RB 12)",Nilwala Ganga,Thalgahagoda,m,1.40,1.70,2.80,1.71,1.71,Minor Flood,,2.6
+,Nilwala Ganga,Panadugama,m,5.00,6.00,7.50,5.40,5.35,Alert,Falling,0.0
+,Nilwala Ganga,Pitabeddara,m,4.00,5.00,6.50,1.52,1.50,Normal,,0.0
+,Urubokka Ganga,Urawa,m,2.50,4.00,6.00,1.11,1.10,Normal,,0.0
+"Walawe Ganga
+(RB 18)",Walawe Ganga,Moraketiya,m,3.00,5.00,7.00,3.49,3.49,Alert,,0.0
+"Malwathu Oya
+(RB 90)",Malwathu Oya,Tantirimale,m,5.00,6.80,7.80,3.54,3.53,Normal,,0.0
+"Deduru Oya
+(RB 99)",Deduru Oya,Moragaswewa,m,4.75,6.00,7.00,2.98,2.90,Normal,,0.0
+"Maha Oya
+(RB 102)",Maha Oya,Badalgama,m,5.00,6.20,9.60,3.65,3.63,Normal,,0.0
+,Maha Oya,Giriulla,m,5.50,6.50,7.50,2.49,2.47,Normal,,0.0
+"Attanagalu Oya
+(RB 103)",Attanagalu Oya,Dunamale,m,3.30,4.40,5.50,4.69,4.65,Minor Flood,Falling,0.0

@@ -1,0 +1,54 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 22-Nov-2023 TIME : 3:30 PM
+Gauging Station
+Water Water Water Level 6 Hr RF in
+Minor Major
+River Basin Tributory/River Alert Level at Level at Remarks Rising or mm at
+Station Unit Flood Flood
+Level 02:00 pm 03.00 pm Falling 03.00 pm
+Level Level
+Kelani Ganga N' Street ft 4.00 5.00 7.00 2.70 2.60 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 4.93 4.86 Normal 0.0
+Kelani Ganga Glencourse m 15.00 16.50 19.00 12.32 12.20 Normal 0.0
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 2.15 2.10 Normal 0.0
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 1.38 1.36 Normal 0.6
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 0.95 1.04 Normal 26.7
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 1.54 1.58 Alert Rising 23.6
+Kalu Ganga Putupaula m 3.00 4.00 5.00 1.37 1.37 Normal 27.2
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 7.18 7.20 Normal 0.0
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 4.17 4.06 Normal 4.8
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 1.91 1.98 Normal 7.5
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 4.04 4.00 Normal 6.3
+(Millakanda)
+Gin Ganga Baddegama m 3.50 4.00 5.00 2.38 2.35 Normal 5.2
+Gin Ganga
+(RB 09)
+Gin Ganga Tawalama m 4.00 6.00 7.50 1.94 2.19 Normal 71.6
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.22 1.21 Normal 4.5
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 4.46 4.54 Normal 30.6
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 1.62 1.68 Normal 18.5
+Urubokka Ganga Urawa m 2.50 4.00 6.00 1.09 1.08 Normal 5.0
+Malwathu Oya
+Malwathu Oya Tantirimale m 5.00 6.80 7.80 4.20 4.16 Normal 0.0
+(RB 90)
+Deduru Oya
+Deduru Oya Moragaswewa m 4.75 6.00 7.00 5.80 5.75 Alert Falling 0.0
+(RB 99)
+Maha Oya Badalgama m 5.00 6.20 9.60 5.12 5.05 Alert Falling 0.0
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 4.05 3.91 Normal 4.5
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 5.09 5.12 Minor Flood Rising 0.0
+(RB 103)
+Prepared by : K.K.C.U.Dilshan (H.A.)
+Checked by : W.A.S.Saumya ( H.D.S(Act))
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

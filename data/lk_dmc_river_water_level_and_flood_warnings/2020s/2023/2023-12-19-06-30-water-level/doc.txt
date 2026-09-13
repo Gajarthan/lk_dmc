@@ -1,0 +1,58 @@
+0
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 19-Dec-2023 TIME : 6:30 PM
+Gauging Station
+Water Water Water Level 9 Hr RF in
+Minor Major
+River Basin Tributory/River Alert Level at Level at Remarks Rising or mm at
+Station Unit Flood Flood
+Level 5:00 pm 6:00 pm Falling 6.00 pm
+Level Level
+Kelani Ganga N' Street ft 4.00 5.00 7.00 2.00 2.10 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 3.44 3.38 Normal 0.0
+Kelani Ganga Glencourse m 15.00 16.50 19.00 10.93 10.90 Normal 0.0
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 2.02 1.89 Normal 0.0
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 1.14 1.14 Normal 0.0
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 0.81 0.81 Normal 0.0
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 1.05 1.05 Normal 0.0
+Kalu Ganga Putupaula m 3.00 4.00 5.00 1.82 1.90 Normal 4.7
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 8.00 8.03 Normal 26.3
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 3.34 3.26 Normal 1.4
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 2.65 2.71 Normal 2.7
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 5.38 5.42 Alert Rising 45.8
+(Millakanda)
+Gin Ganga Baddegama m 3.50 4.00 5.00 3.82 3.80 Alert Falling 26.6
+Gin Ganga
+(RB 09)
+Gin Ganga Tawalama m 4.00 6.00 7.50 3.01 3.12 Normal 25.9
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.96 1.96 Minor Flood 4.0
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 6.20 6.18 Minor Flood Falling 2.3
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 1.81 1.89 Normal 1.8
+Urubokka Ganga Urawa m 2.50 4.00 6.00 1.10 1.09 Normal 0.0
+Walawe Ganga
+Walawe Ganga Moraketiya m 3.00 5.00 7.00 3.52 3.51 Alert Falling 0.0
+(RB 18)
+Yan Oya
+Yan Oya Horowpatana m 6.00 7.50 10.50 6.03 5.98 Normal 7.7
+(RB 67)
+Malwathu Oya
+Malwathu Oya Tantirimale m 5.00 6.80 7.80 7.03 7.00 Minor Flood Falling 0.6
+(RB 90)
+Maha Oya Badalgama m 5.00 6.20 9.60 3.70 3.63 Normal 2.0
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 2.54 2.45 Normal 0.0
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 4.64 4.60 Minor Flood Falling 0.0
+(RB 103)
+Prepared by : K.K.C.U.Dilshan (H.A)
+Checked by : K.G.D.C.Dissanayaka ( H.A.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)
