@@ -1,0 +1,35 @@
+Disaster Management Center
+Situation Report on 2025.11.29 at 09.00 a.m
+Saftey
+No. Districts Families Persons Deaths Missing Families Persons
+centres
+1 Puttlam 22,124 83,217 - 2 25 1,937 7,641
+2 Badulla 2,099 6,863 35 27 97 1,244 2,938
+3 Moneragala 593 1,980 2 - 8 207 738
+4 Matale 325 1,800 8 3 12 286 919
+5 Colombo 20,743 82,266 - - 26 1,037 2,491
+6 Batticola 5,328 16,338 - 1 18 725 2,178
+7 Kegalle 2,040 7,907 9 24 16 233 989
+8 Trincomalee 3,844 11,350 - - 4 204 589
+9 Anuradhapura 1,537 4,737 1 - 26 668 1,750
+10 Mullaitivu 670 782 - - 18 476 1,540
+11 Kilinochchi 542 1,678 - - 9 135 409
+12 Ampara 6,412 20,377 5 - 11 642 1,490
+13 Jaffna 231 746 1 - 1 2 9
+14 Polonnaruwa 4,218 14,943 - - - - -
+15 Kandy 1,512 5,927 51 67 76 954 2,639
+16 Rathnapura 298 1,124 - - 6 49 154
+17 Kurunegala 2,805 9,572 3 - 30 566 815
+18 Nuwara Eliya 250 920 6 4 49 380 1,603
+19 Mathara 334 1,168 - - - - -
+20 Hambanthota 1,753 6,336 1 - 7 - -
+21 Galle 252 841 1 2 - - -
+22 Kaluthara 72 287 - - 3 49 386
+23 Mannar 33 134 - - - 48 126
+24 Gampaha 23,634 87,977 - - 28 3,481 13,242
+25 Vavuniya 1,228 4,158 - - 18 367 1,279
+Total 102,877 373,428 123 130 488 13,690 43,925
+Janaka Handunpatiraja
+Assistant Director
+Disaster Manahement Center
+For Director Genaral
