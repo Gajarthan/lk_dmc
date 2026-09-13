@@ -100,7 +100,9 @@ class OpenCodeClient:
         self.config = config
         self.session = session if session is not None else requests.Session()
         self.session.auth = (config.username, config.password)
-        self.session.headers.update({"Accept": "application/json"})
+        self.session.headers.update(
+            {"Accept": "application/json", "User-Agent": "DMC-Report-Collector/3.0"}
+        )
 
     def __enter__(self):
         return self
@@ -177,8 +179,14 @@ class OpenCodeClient:
         if not isinstance(session_id, str) or not re.fullmatch(r"ses[\w-]+", session_id):
             raise ValueError("OpenCode returned an invalid session ID")
         payload = {
-            "system": SYSTEM_PROMPT,
-            "format": {"type": "json_schema", "schema": ANALYSIS_SCHEMA, "retryCount": 1},
+            "system": (
+                SYSTEM_PROMPT
+                + " Return only a raw JSON object, with no markdown. Output JSON schema: "
+                + json.dumps(ANALYSIS_SCHEMA)
+            ),
+            # Native json_schema mode depends on the server's StructuredOutput tool.
+            # Request JSON as text so analysis works with tools denied; validate below.
+            "format": {"type": "text"},
             "parts": [{"type": "text", "text": text}],
         }
         if self.config.model:

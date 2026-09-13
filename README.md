@@ -145,10 +145,14 @@ uv run dmc analyze lk_dmc_situation_reports --max-documents 1 --export
 
 An example variable list is in `.env.example`; the CLI does not automatically
 load dotenv files. Store the password in environment variables or GitHub Actions
-secrets. Model-provider credentials belong on the OpenCode server.
+secrets. Model-provider credentials belong on the OpenCode server. The HTTP client identifies
+itself as `DMC-Report-Collector/3.0`; generic Python User-Agents can be rejected by
+reverse-proxy bot filters before reaching OpenCode.
 
 Analysis uses the OpenCode session API: `POST /session`, then
-`POST /session/{sessionID}/message` with a JSON schema. Sessions deny all tool
+`POST /session/{sessionID}/message`, requesting raw JSON text with the schema
+in the system prompt. The client validates the result locally. This avoids
+depending on the server's native structured-output tool. Sessions deny all tool
 permissions. The prompt treats report contents as untrusted data and requests
 only source-supported facts. Returned fields are validated before saving:
 `summary`, `disaster_types`, `locations`, `report_date`, `impacts`, and `warnings`.
