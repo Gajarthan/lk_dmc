@@ -1,0 +1,46 @@
+name: OpenCode check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@bec219d24cd3e171d82865faccec33120bb574f4 # v10.1.0
+        with:
+          version: "0.9.30"
+          python-version: "3.13"
+      - run: uv sync --locked --no-dev
+      - name: Check health and analyze one synthetic report
+        env:
+          OPENCODE_BASE_URL: ${{ vars.OPENCODE_BASE_URL }}
+          OPENCODE_USERNAME: ${{ vars.OPENCODE_USERNAME || 'opencode' }}
+          OPENCODE_PASSWORD: ${{ secrets.OPENCODE_PASSWORD }}
+          OPENCODE_MODEL: ${{ vars.OPENCODE_MODEL }}
+        run: |
+          uv run --frozen --no-dev python - <<'PY'
+          import json
+          from dataclasses import replace
+          from dmc.opencode import OpenCodeClient, OpenCodeConfig
+
+          try:
+              config = OpenCodeConfig.from_env()
+              with OpenCodeClient(replace(config, timeout=30)) as client:
+                  print(json.dumps(client.health()), flush=True)
+              with OpenCodeClient(config) as client:
+                  result = client.analyze(
+                      "Synthetic test report, not a real alert. Report date: 2026-09-13. "
+                      "Flood warning for Colombo. No confirmed impacts reported.",
+                      "connectivity-test",
+                  )
+                  print(json.dumps({"analysis_valid": True, "result": result["result"]}))
+          except ValueError as exc:
+              print(str(exc), flush=True)
+              raise SystemExit(1)
+          PY

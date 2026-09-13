@@ -1,13 +1,30 @@
-"""Export document datasets and upload them to a configured Hugging Face namespace."""
+"""Export document datasets to local JSONL files."""
 
 import hashlib
 import json
 import os
-import re
 import tempfile
 from pathlib import Path
 
-from huggingface_hub import HfApi
+from .opencode import validate_analysis
+
+
+def _current_analysis(path: Path, text: str):
+    """Include only completed analysis for the exported source text."""
+    try:
+        analysis = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return None
+    if (
+        isinstance(analysis, dict)
+        and analysis.get("status") == "complete"
+        and analysis.get("text_sha256") == hashlib.sha256(text.encode("utf-8")).hexdigest()
+    ):
+        try:
+            return validate_analysis(analysis.get("result"))
+        except ValueError:
+            return None
+    return None
 
 
 def _export_jsonl(dataset_dir: Path, output: Path) -> None:
@@ -35,7 +52,12 @@ def _export_jsonl(dataset_dir: Path, output: Path) -> None:
                 text = text_path.read_text(encoding="utf-8") if text_path.is_file() else ""
                 metadata.setdefault("doc_type", dataset_dir.name)
                 language = metadata.get("language") or metadata.get("lang") or "und"
-                doc = {**metadata, "language": language, "text": text}
+                doc = {
+                    **metadata,
+                    "language": language,
+                    "text": text,
+                    "analysis": _current_analysis(metadata_path.with_name("analysis.json"), text),
+                }
                 docs.write(json.dumps(doc, ensure_ascii=False) + "\n")
                 if not text.strip():
                     continue
@@ -60,50 +82,17 @@ def _export_jsonl(dataset_dir: Path, output: Path) -> None:
             os.replace(staging / f"{kind}.jsonl", output / f"{kind}.jsonl")
 
 
-def publish_dataset(dataset_dir: Path, namespace: str, token: str) -> list[str]:
-    """Publish every metadata record and chunks for nonempty extracted text.
+def export_dataset(dataset_dir: Path) -> list[Path]:
+    """Export every metadata record and chunks for nonempty extracted text.
 
     Missing text is exported as an empty string. Chunks contain at most 2,000
     characters with 200-character overlap. Existing metadata fields are retained;
-    malformed records and upload errors are not suppressed.
+    malformed source records are not suppressed. Analysis is included only when
+    completed for the current text. Both exports are staged before replacement.
     """
-    if not namespace or not re.fullmatch(
-        r"[A-Za-z0-9](?:[A-Za-z0-9_-]{0,94}[A-Za-z0-9])?", namespace.strip()
-    ):
-        raise ValueError("The Hugging Face namespace must be one account or organization name")
-    if not token or not token.strip():
-        raise ValueError("A Hugging Face token is required")
     if not dataset_dir.is_dir():
         raise ValueError(f"Dataset directory does not exist: {dataset_dir}")
 
-    output = dataset_dir / "hugging_face_data"
+    output = dataset_dir / "exports"
     _export_jsonl(dataset_dir, output)
-
-    api = HfApi(token=token)
-    repos = []
-    for kind in ("docs", "chunks"):
-        repo_id = f"{namespace.strip()}/{dataset_dir.name.replace('_', '-')}-{kind}"
-        api.create_repo(repo_id=repo_id, repo_type="dataset", exist_ok=True)
-        api.upload_file(
-            path_or_fileobj=str(output / f"{kind}.jsonl"),
-            path_in_repo=f"{kind}.jsonl",
-            repo_id=repo_id,
-            repo_type="dataset",
-        )
-        card = (
-            "---\nconfigs:\n- config_name: default\n  data_files:\n"
-            f"  - split: train\n    path: {kind}.jsonl\n---\n\n"
-            f"# {dataset_dir.name.replace('_', ' ')}: {kind}\n\n"
-            "Sri Lankan Disaster Management Centre reports. Text is extracted from "
-            "PDF text layers; scanned pages require separate OCR.\n"
-            "The documents dataset retains every metadata record, with an empty string "
-            "when extracted text is unavailable. Chunks include only nonempty text.\n"
-        )
-        api.upload_file(
-            path_or_fileobj=card.encode("utf-8"),
-            path_in_repo="README.md",
-            repo_id=repo_id,
-            repo_type="dataset",
-        )
-        repos.append(repo_id)
-    return repos
+    return [output / "docs.jsonl", output / "chunks.jsonl"]

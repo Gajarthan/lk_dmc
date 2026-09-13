@@ -1,7 +1,8 @@
 # Sri Lanka disaster report datasets
 
 A standalone Python pipeline for collecting reports from the Sri Lankan Disaster
-Management Centre, extracting PDF text and tables, and publishing datasets.
+Management Centre, extracting PDF text and tables, analyzing reports with OpenCode,
+and publishing datasets on GitHub.
 
 | Dataset label | Content |
 |---|---|
@@ -20,14 +21,18 @@ flowchart LR
     C --> E[Dataset indexes and summaries]
     D --> E
     E --> F[GitHub data branches]
-    D --> G[Optional Hugging Face publication]
-    C --> G
+    D --> G[OpenCode structured analysis]
+    G --> H[JSONL exports]
+    D --> H
+    H --> F
 ```
 
 The CLI coordinates independent modules in `src/dmc`. `sources.py` configures the
 four categories; `client.py` handles HTTP; `parser.py` produces report metadata;
 `storage.py` handles atomic file writes; `processing.py` extracts text and tables;
-`summaries.py` builds indexes; and `publishing.py` exports and uploads datasets.
+`summaries.py` builds indexes; `opencode.py` talks to the analysis service;
+`analysis.py` saves resumable results; and `publishing.py` creates local JSONL
+exports. GitHub Actions commits these files to the dataset branches.
 
 Runtime dependencies and their versions are declared in `pyproject.toml`.
 `uv.lock` records the complete resolved environment. The pipeline runs on standard
@@ -83,6 +88,7 @@ data/<dataset>/<decade>/<year>/<document-id>/
     doc.txt           Extracted text
     blocks.json       Page text records: page and text
     processing.json   Extraction status and pages without text
+    analysis.json     OpenCode result, provenance, source hash, and status
     tabular/*.csv     Extracted ruled tables, when available
 ```
 
@@ -121,33 +127,87 @@ New metadata uses `lang: "und"` when document language is unknown, rather than
 inferring it from website navigation. DMC listing times are interpreted as Sri
 Lanka time (UTC+05:30). Existing metadata language and timestamps remain intact.
 
-## Hugging Face publishing
+## OpenCode analysis
 
-Set `HUGGING_FACE_USERNAME` to your account or organization and set a write-enabled
-`HUGGING_FACE_TOKEN` (or `HF_TOKEN`) in your environment. Never commit the token.
-Then publish the local archive:
+Configure your HTTPS OpenCode server using process environment variables:
 
 ```powershell
-uv run dmc publish lk_dmc_situation_reports
+$env:OPENCODE_BASE_URL = "https://your-opencode-server.example"
+$env:OPENCODE_USERNAME = "opencode"
+# Read the password without echoing it or recording it in shell history:
+$credential = Get-Credential -UserName "opencode" -Message "OpenCode credentials"
+$env:OPENCODE_PASSWORD = $credential.GetNetworkCredential().Password
+# Optional: select a configured provider/model; otherwise use the server default.
+$env:OPENCODE_MODEL = "provider/model"
+uv run dmc opencode-health
+uv run dmc analyze lk_dmc_situation_reports --max-documents 1 --export
 ```
 
-Alternatively, pass `--hf-namespace YOUR_NAMESPACE`. Add `--publish` to a scrape
-command to publish after a collection run without errors.
+An example variable list is in `.env.example`; the CLI does not automatically
+load dotenv files. Store the password in environment variables or GitHub Actions
+secrets. Model-provider credentials belong on the OpenCode server.
 
-The publisher creates two dataset repositories per label:
+Analysis uses the OpenCode session API: `POST /session`, then
+`POST /session/{sessionID}/message` with a JSON schema. Sessions deny all tool
+permissions. The prompt treats report contents as untrusted data and requests
+only source-supported facts. Returned fields are validated before saving:
+`summary`, `disaster_types`, `locations`, `report_date`, `impacts`, and `warnings`.
+Unknown dates are null and unknown lists are empty. These are AI-generated
+interpretations; the original PDF and text remain the authoritative source.
+See the [OpenCode server documentation](https://dev.opencode.ai/docs/server/).
 
-- `<namespace>/<label-with-hyphens>-docs`: all metadata records and available text.
-- `<namespace>/<label-with-hyphens>-chunks`: nonempty text in chunks of up to 2,000
-  characters with 200-character overlap.
+`analysis.json` records the result, source SHA-256, configuration hash, schema
+version, timestamp, and available session/model identifiers. Unchanged successful
+results are skipped. Changed text, endpoint, explicit model, or schema version
+causes reanalysis. Use `--force` to reanalyze after changing the server's default
+model. Errors are saved and retried on later runs. New work is processed before errors;
+failed reports rotate by last-attempt time so one persistent failure cannot block
+all later reports. Empty or missing text is
+skipped; OpenCode does not add OCR to scanned PDFs. Sessions and submitted report
+text remain on your OpenCode server under its retention policy.
 
-Exports stream into `hugging_face_data/docs.jsonl` and `chunks.jsonl`. Metadata
-without extracted text remains in the docs dataset with an empty text field.
-Dataset cards select these JSONL files as the train split; historical Parquet
-files, if present remotely, are not deleted but are excluded by this configuration.
-This changes the published serialization from the former Parquet export.
-Uploads use the [Hugging Face Hub API](https://huggingface.co/docs/huggingface_hub/guides/upload).
-An upload failure propagates to the caller. The two repository uploads are separate
-operations, so one can succeed before the other fails; rerun publication to retry.
+Default analysis limits are ten attempted reports, 300 seconds per run, and
+40,000 characters per report. Set `--max-documents`, `--max-seconds`, and
+`--max-characters` on `analyze` to change them. Oversized reports fail explicitly;
+text is never silently truncated. Limits are cooperative and socket timeouts
+bound individual waits. POST requests are not automatically replayed after a
+transport error, since the server may already have accepted them. Retrying a
+failed run can create another session and incur additional model usage.
+
+To collect, analyze, and export in one command:
+
+```powershell
+uv run dmc scrape lk_dmc_situation_reports --max-pages 1 --max-documents 1 --analyze --analysis-max-documents 1 --export
+```
+
+For `scrape`, analysis limits use the `--analysis-max-documents`,
+`--analysis-max-seconds`, and `--analysis-max-characters` flags. A collection error
+skips analysis; requested exports still retain the available local records.
+
+## Dataset publishing
+
+OpenCode supplies analysis. Dataset files are published on the repository's
+`data_<dataset-label>` branches, including each report's `analysis.json`.
+Prepare JSONL exports locally without service credentials:
+
+```powershell
+uv run dmc export lk_dmc_situation_reports
+```
+
+`exports/docs.jsonl` contains all metadata, available text, and a matching
+completed `analysis` result (or null). `exports/chunks.jsonl` contains nonempty
+text chunks of at most 2,000 characters with 200-character overlap. Whitespace
+windows are omitted. Metadata-only reports remain in the document export.
+Invalid source metadata stops export before replacing existing files; invalid
+or stale analysis is omitted without losing the source record. The exporter
+prepares local files; the GitHub workflow commits and pushes them to the data
+branch. For manual publication, commit and push your data branch checkout after
+exporting into it.
+
+Version 3 removes the old `publish` command, `--publish`, and the previous
+hub-specific settings. Use `analyze --export` for enriched output or `export`
+for source data alone. Existing source archives remain readable; previously
+published remote datasets are not deleted by this migration.
 
 ## GitHub Actions
 
@@ -155,7 +215,10 @@ The collection workflow runs every two hours, with one job per dataset. It uses
 standard Python, installs the locked environment, and runs tests before scraping.
 It serializes updates to each data branch, saves successful collection progress
 when a run has errors, and uses ordinary pushes. Rebase conflicts stop the push.
-Hugging Face publication is skipped after collection errors and the job fails.
+OpenCode analysis runs after successful collection when configured, followed by
+JSONL export and a GitHub push. Collection, analysis, or export errors fail the job
+after successful progress has been saved. Each run analyzes at most ten pending
+reports per dataset. Source collection continues even if the analysis service fails.
 
 Setup in the repository where these workflows will run:
 
@@ -163,10 +226,11 @@ Setup in the repository where these workflows will run:
    archive under `data/<dataset-label>`. These archives are not bundled with the
    source download. Empty data branches can be used to begin collecting anew.
 2. Allow the workflow's built-in `GITHUB_TOKEN` to write repository contents.
-3. For Hugging Face publication, set the repository variable
-   `HUGGING_FACE_USERNAME` and secret `HUGGING_FACE_TOKEN`. If both are absent,
-   collection and GitHub publication still run; partially configured publication
-   fails with a clear error.
+3. For OpenCode analysis, set repository variable `OPENCODE_BASE_URL` and secret
+   `OPENCODE_PASSWORD`. Optionally set `OPENCODE_USERNAME` (default `opencode`)
+   and `OPENCODE_MODEL` (`provider/model`). If URL and password are both absent,
+   collection, export, and GitHub publication still run. Partial configuration
+   fails with a clear error. The endpoint must be accessible from hosted runners.
 4. For a larger historical backfill, manually run the pipeline with an increased
    `max_dt` time budget.
 
@@ -176,7 +240,10 @@ It only updates the marked statistics section below, preserving setup instructio
 For local access to private repositories, set `GITHUB_TOKEN`, or use locally
 checked-out summaries with `dmc readme --data-dir PATH`.
 
-The test workflow covers Python 3.11 and 3.13 on Windows and Linux.
+The test workflow covers Python 3.11 and 3.13 on Windows and Linux. The manual
+**OpenCode check** workflow tests authenticated health access from a hosted runner
+and analyzes one clearly labeled synthetic report. It does not publish that test
+report into a dataset.
 
 ## Dataset statistics
 

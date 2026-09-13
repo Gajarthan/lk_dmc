@@ -8,11 +8,11 @@
 PDF processing, summaries, optional publisher, and CLI. Preserve historical document
 IDs and directories; separate extraction status from source metadata.
 
-**Stack:** Python 3.11+, requests, Beautiful Soup, pdfplumber, huggingface-hub,
+**Stack:** Python 3.11+, requests, Beautiful Soup, pdfplumber,
 pytest, Ruff. Lock resolved versions. Use standard Python GitHub Actions runners.
 
-This directory is a downloaded archive without `.git`; work directly in the
-authorized workspace without commits or worktrees.
+Historical plan for the initial downloaded archive. It was subsequently published
+to GitHub. The current migration is tracked in 2026-09-13-opencode.md.
 
 - [x] Add packaging, a locked environment, and parser/storage regression tests.
   Verify missing implementation fails before replacing imports. Preserve IDs:
@@ -25,9 +25,9 @@ authorized workspace without commits or worktrees.
 - [x] Implement and test `processing.py` and `publishing.py` independently.
   `process_pdf(pdf_path: Path) -> dict` writes text, blocks, and table CSVs next
   to the PDF and returns extraction status, including pages without text.
-  `publish_dataset(dataset_dir: Path, namespace: str, token: str) -> list[str]`
-  exports metadata and text chunks to two dataset repositories, with explicit
-  destinations, exceptions propagated, and no real uploads during tests.
+  The original external publisher was tested with fake uploads. Version 3 replaces
+  it with `export_dataset(dataset_dir: Path) -> list[Path]` for local JSONL files;
+  the GitHub workflow publishes those files to data branches.
 - [x] Implement `pipeline.py`, `summaries.py`, and `cli.py`; replace old class
   inheritance with source configuration. Retain script entry points. Exercise
   resume and bounded scraping through injected HTTP fixtures and actual PDFs.

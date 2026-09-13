@@ -1,6 +1,7 @@
 # Standalone report pipeline proposal
 
-Status: implemented and locally verified. See ../verification.md for evidence and limits.
+Historical design: implemented and locally verified. Publication is superseded by
+2026-09-13-opencode-design.md; see ../verification.md for original verification limits.
 
 ## Objective
 
@@ -31,7 +32,7 @@ src/dmc/
   storage.py      Metadata and document files, atomic writes, resume support
   processing.py   PDF text/table extraction and processing status
   summaries.py    Dataset statistics and neutral Markdown generation
-  publishing.py   Optional Hugging Face publication
+  publishing.py   Neutral JSONL dataset exports
   pipeline.py     Orchestration, time budget, and failure reporting
   cli.py          Command-line options and validation
 tests/

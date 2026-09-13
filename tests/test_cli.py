@@ -11,12 +11,91 @@ def test_cli_help_without_credentials(capsys):
     assert "scrape" in capsys.readouterr().out
 
 
-def test_publish_requires_credentials_before_collecting(monkeypatch):
-    monkeypatch.delenv("HUGGING_FACE_TOKEN", raising=False)
-    monkeypatch.delenv("HF_TOKEN", raising=False)
+def test_analysis_requires_credentials_before_collecting(monkeypatch):
+    from unittest.mock import MagicMock
+
+    from dmc import cli
+
+    monkeypatch.delenv("OPENCODE_BASE_URL", raising=False)
+    monkeypatch.delenv("OPENCODE_PASSWORD", raising=False)
+    pipeline = MagicMock()
+    monkeypatch.setattr(cli, "run_pipeline", pipeline)
     with pytest.raises(SystemExit) as exc:
-        main(["scrape", "lk_dmc_situation_reports", "--publish", "--hf-namespace", "team"])
+        main(["scrape", "lk_dmc_situation_reports", "--analyze"])
     assert exc.value.code == 2
+    pipeline.assert_not_called()
+
+
+def test_export_needs_no_service_credentials(tmp_path, monkeypatch):
+    import json
+
+    monkeypatch.delenv("OPENCODE_PASSWORD", raising=False)
+    dataset = tmp_path / "lk_dmc_situation_reports"
+    dataset.mkdir()
+    (dataset / "doc.json").write_text(json.dumps({"doc_id": "a"}))
+    assert main(["export", dataset.name, "--data-dir", str(tmp_path)]) == 0
+    assert (dataset / "exports" / "docs.jsonl").is_file()
+
+
+def test_collection_failure_skips_analysis_but_exports_progress(tmp_path, monkeypatch):
+    from unittest.mock import MagicMock
+
+    from dmc import cli
+    from dmc.pipeline import RunResult
+
+    monkeypatch.setenv("OPENCODE_BASE_URL", "https://example.org")
+    monkeypatch.setenv("OPENCODE_PASSWORD", "secret")
+    monkeypatch.setattr(cli, "run_pipeline", lambda *a, **k: RunResult(errors=["failure"]))
+    analyze = MagicMock()
+    export = MagicMock(return_value=[])
+    monkeypatch.setattr(cli, "analyze_dataset", analyze)
+    monkeypatch.setattr(cli, "export_dataset", export)
+    assert (
+        main(
+            [
+                "scrape",
+                "lk_dmc_situation_reports",
+                "--analyze",
+                "--export",
+                "--data-dir",
+                str(tmp_path),
+            ]
+        )
+        == 1
+    )
+    analyze.assert_not_called()
+    export.assert_called_once()
+
+
+def test_analysis_failure_returns_nonzero_and_exports_progress(tmp_path, monkeypatch):
+    from unittest.mock import MagicMock
+
+    from dmc import cli
+    from dmc.analysis import AnalysisResult
+
+    monkeypatch.setenv("OPENCODE_BASE_URL", "https://example.org")
+    monkeypatch.setenv("OPENCODE_PASSWORD", "secret")
+    monkeypatch.setattr(cli, "OpenCodeClient", MagicMock())
+    analyze = MagicMock(return_value=AnalysisResult(errors=["HTTP 520"]))
+    export = MagicMock(return_value=[])
+    monkeypatch.setattr(cli, "analyze_dataset", analyze)
+    monkeypatch.setattr(cli, "export_dataset", export)
+    assert (
+        main(
+            [
+                "analyze",
+                "lk_dmc_situation_reports",
+                "--max-documents",
+                "2",
+                "--export",
+                "--data-dir",
+                str(tmp_path),
+            ]
+        )
+        == 1
+    )
+    assert analyze.call_args.kwargs["max_documents"] == 2
+    export.assert_called_once()
 
 
 def test_invalid_dataset_fails_helpfully():

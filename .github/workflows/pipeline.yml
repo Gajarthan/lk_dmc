@@ -59,6 +59,25 @@ jobs:
         id: collect
         continue-on-error: true
         run: uv run --frozen dmc scrape "$DATASET" --data-dir ../dataset/data --max-seconds "$MAX_SECONDS"
+      - name: Analyze reports with OpenCode when configured
+        id: analyze
+        if: steps.collect.outcome == 'success'
+        continue-on-error: true
+        env:
+          OPENCODE_BASE_URL: ${{ vars.OPENCODE_BASE_URL }}
+          OPENCODE_USERNAME: ${{ vars.OPENCODE_USERNAME || 'opencode' }}
+          OPENCODE_PASSWORD: ${{ secrets.OPENCODE_PASSWORD }}
+          OPENCODE_MODEL: ${{ vars.OPENCODE_MODEL }}
+        run: |
+          if [ -z "$OPENCODE_BASE_URL" ] && [ -z "$OPENCODE_PASSWORD" ]; then
+            echo "OpenCode analysis is not configured."
+            exit 0
+          fi
+          uv run --frozen dmc analyze "$DATASET" --data-dir ../dataset/data --max-documents 10 --max-seconds "$MAX_SECONDS"
+      - name: Export datasets for GitHub
+        id: export
+        continue-on-error: true
+        run: uv run --frozen dmc export "$DATASET" --data-dir ../dataset/data
       - name: Push collected data
         run: |
           cd ../dataset
@@ -72,19 +91,8 @@ jobs:
           git fetch origin "data_$DATASET"
           git rebase "origin/data_$DATASET"
           git push origin "HEAD:data_$DATASET"
-      - name: Publish Hugging Face datasets when configured
-        if: steps.collect.outcome == 'success'
-        env:
-          HUGGING_FACE_USERNAME: ${{ vars.HUGGING_FACE_USERNAME }}
-          HUGGING_FACE_TOKEN: ${{ secrets.HUGGING_FACE_TOKEN }}
+      - name: Report incomplete stages
+        if: steps.collect.outcome == 'failure' || steps.analyze.outcome == 'failure' || steps.export.outcome == 'failure'
         run: |
-          if [ -z "$HUGGING_FACE_USERNAME" ] && [ -z "$HUGGING_FACE_TOKEN" ]; then
-            echo "Hugging Face publication is not configured."
-            exit 0
-          fi
-          uv run --frozen dmc publish "$DATASET" --data-dir ../dataset/data
-      - name: Report incomplete collection
-        if: steps.collect.outcome == 'failure'
-        run: |
-          echo "Collection had errors; saved progress, skipped publication."
+          echo "A pipeline stage failed; successful progress was saved to the data branch."
           exit 1

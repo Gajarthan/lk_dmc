@@ -1,6 +1,7 @@
 # Verification: standalone pipeline
 
-Completed 2026-09-13 in the local Windows workspace.
+Historical verification of the initial rewrite, completed 2026-09-13 in the local
+Windows workspace. See opencode-verification.md for the subsequent migration.
 
 - Python 3.13: 51 tests passed.
 - Python 3.11 isolated environment: 51 tests passed.
@@ -20,15 +21,16 @@ Completed 2026-09-13 in the local Windows workspace.
 
 ## Execution boundaries
 
-No Hugging Face upload, remote Git push, or bulk historical download was performed.
-Publication tests use a fake Hub API. Real publication requires the repository
+No external dataset upload, remote Git push, or bulk historical download was
+performed during this initial verification.
+Publication tests use a fake external API. Real publication requires the repository
 branches and account configuration described in the project README. GitHub Actions
 was validated locally, not executed on hosted Windows or Linux runners.
 
 The downloaded source contains no historical data branches, so migration behavior
 was verified against local records matching the inspected historical schema, not
 against the entire published archive. Legacy document IDs, metadata, PDF names,
-and directory layout are preserved; extracted blocks and Hugging Face output
+and directory layout are preserved; extracted blocks and exported dataset
 serialization change as documented in README. PDF extraction does not include OCR.
 
 Live-check output is retained in ignored `smoke-data/`. Build artifacts are in

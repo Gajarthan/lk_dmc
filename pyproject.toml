@@ -4,15 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "lk-dmc"
-version = "2.0.0"
-description = "Collect and publish Sri Lankan disaster management reports"
+version = "3.0.0"
+description = "Collect Sri Lankan disaster reports, analyze with OpenCode, and publish on GitHub"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4==4.15.0",
     "requests==2.34.2",
     "pdfplumber==0.11.10",
-    "huggingface-hub==1.31.0",
 ]
 
 [project.scripts]
