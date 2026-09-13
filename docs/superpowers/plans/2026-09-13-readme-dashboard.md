@@ -18,5 +18,12 @@ existing DATASETS marker contract so automated refreshes retain the static layou
   updates and safe serialized ordinary Git pushes.
 - [x] Test unknown/empty/legacy data, current analysis hashes, safe links, input
   failure preservation, and marker idempotence. Run regressions, Ruff, actionlint.
-- [ ] Render the actual published summaries, review GitHub display, commit and
+- [x] Render the actual published summaries, review GitHub display, commit and
   publish the authorized repository update. Verify hosted refresh and CI.
+
+Verification: 113 tests passed locally. Ruff and actionlint passed. GitHub
+rendering checked in Chrome, including the banner and dataset table. Hosted
+[Windows/Linux Python 3.11/3.13 tests](https://github.com/Gajarthan/lk_dmc/actions/runs/34750276388)
+and [dashboard refresh](https://github.com/Gajarthan/lk_dmc/actions/runs/34750276357)
+passed for implementation commit `c002a42`. Published summaries contained zero
+reports, reflected accurately in the dashboard.
