@@ -1,0 +1,61 @@
+ශ්‍රී ලංකාව සඳහා සාමානයය කාලගුණ අනාවැකිය
+GENERAL WEATHER FORECAST FOR SRI LANKA
+ජාතික කාලගුණ විදයා මධයස්ථානවේ, අනාවැකි අංශය මගිේ නිකුත් කරන ලදි
+Issued by Forecasting Division, National Meteorological Centre
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය
+2026 ජූලි මස 24 දින්‍ සවස 04.00 ට නිකුත් කරන්‍ ලදි
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ික්කවලත් වැසි ස්වල්පයක් ඇති වේ.
+දිවයිවේ වසසු ප්‍රවේශවල ප්‍රධාන වශවයේ වියලි කාලගුණික තත්ත්වයක් පවතී.
+උතුරු සහ උතුරු-මැද පළාත්වලත්, හම්බේවතාට, ිකුණාමලය සහ පුත්තලම දිස්ික්කවලත් විටිේ විට
+හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+Issued at 04.00 p.m. on 24 July 2026
+A few showers will occur in the Western, Sabaragamuwa and North-western provinces and in Galle
+and Matara districts.
+Mainly dry weather will prevail over the other areas of the island.
+Fairly strong winds about (30-40) kmph can be expected at times over Northern and North-central
+provinces and in Hambantota, Trincomalee and Puttalam districts.
+
+Weather Forecast for Main Cities
+Date : 25-Jul-2026
+Temperature (0C) Relative Humidity (%)
+City Weather
+Max Min Max Min
+Anuradhapura 35 25 90 50 Mainly fair
+Batticaloa 34 25 90 65 Mainly fair
+Colombo 32 26 85 65 A few showers
+Galle 30 27 90 75 A few showers
+Jaffna 33 27 85 65 Mainly fair
+Kandy 31 22 95 60 Mainly fair
+Nuwara-Eliya 22 14 90 70 Mainly fair
+Ratnapura 34 24 95 60 A few showers
+Trincomalee 37 26 85 40 Mainly fair
+Mannar 32 27 85 75 Mainly fair
+දින්‍ය : 2026-07-25
+උෂ්ණත්වය(සස. අංශක) සාසේක්ෂ ආර්ද්‍රතාවය(%)
+න්‍ගරය කාලගුණය
+උපරිම අවම උපරිම අවම
+අනුරාධපුරය 35 25 90 50 ප්‍රධාන වශවයේ වැසි රහිත
+මඩකලපුව 34 25 90 65 ප්‍රධාන වශවයේ වැසි රහිත
+වකාළඹ 32 26 85 65 වැසි ස්වල්පයක්
+ගාල්ල 30 27 90 75 වැසි ස්වල්පයක්
+යාපනය 33 27 85 65 ප්‍රධාන වශවයේ වැසි රහිත
+මහනුවර 31 22 95 60 ප්‍රධාන වශවයේ වැසි රහිත
+නුවරඑළිය 22 14 90 70 ප්‍රධාන වශවයේ වැසි රහිත
+රත්නපුරය 34 24 95 60 වැසි ස්වල්පයක්
+ිකුණාමලය 37 26 85 40 ප්‍රධාන වශවයේ වැසි රහිත
+මේනාරම 32 27 85 75 ප්‍රධාන වශවයේ වැසි රහිත
+பிரதான நகரங்களுக்கான வானிலை முன்னறிவித்தல் தி க தி : 2 0 2 6 - 0 7 - 2 5
+வவப்பநிலை (0C) சாரீரப்பதன் (%)
+நகரம் வானிலை
+உச்ச குலைந்த உச்ச குலைந்த
+அனுராதபுரம் 35 25 90 50 பிரதானமாக சீரான வானிலை
+மட்டக்களப்பு 34 25 90 65 பிரதானமாக சீரான வானிலை
+வகாழும்பு 32 26 85 65 சிறிதளவில் மலை வபய்யும்
+காலி 30 27 90 75 சிறிதளவில் மலை வபய்யும்
+யாழ்ப்பாணம் 33 27 85 65 பிரதானமாக சீரான வானிலை
+கண்டி 31 22 95 60 பிரதானமாக சீரான வானிலை
+நுவவரலியா 22 14 90 70 பிரதானமாக சீரான வானிலை
+இரத்தினபுரி 34 24 95 60 சிறிதளவில் மலை வபய்யும்
+திருககாணமலை 37 26 85 40 பிரதானமாக சீரான வானிலை
+மன்னார் 32 27 85 75 பிரதானமாக சீரான வானிலை
