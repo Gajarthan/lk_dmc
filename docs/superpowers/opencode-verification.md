@@ -12,9 +12,14 @@ Verified locally on 2026-09-13:
 - The live server specification was inspected through the authenticated browser:
   session creation, permissions, model selection, structured prompts and responses.
 - Direct authenticated health requests from the local process failed to connect.
-  Live inference is therefore not claimed by the local test results. The manual
-  OpenCode check workflow can validate health and a synthetic prompt from GitHub.
+  The hosted [OpenCode check](https://github.com/Gajarthan/lk_dmc/actions/runs/34743883991)
+  also failed at health with HTTP 520. It did not submit a prompt. Live inference
+  remains unverified until the service accepts automated authenticated requests.
 
 The integration stores service credentials only in process environment variables
 or GitHub Actions secrets. No credentials are embedded in the repository. Source
 data remains in GitHub data branches; OpenCode supplies generated analysis.
+
+Repository configuration: OPENCODE_PASSWORD is stored as a GitHub Actions secret;
+OPENCODE_BASE_URL and OPENCODE_USERNAME are configured as repository variables.
+The server default model is used. Code and documentation were published to main.
