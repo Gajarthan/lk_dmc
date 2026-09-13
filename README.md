@@ -257,6 +257,11 @@ PDF archive, so no historical totals are claimed here.
 
 <!-- DATASETS:START -->
 
-No dataset summaries have been generated for this checkout.
+| Dataset | Documents | Date range |
+|---|---:|---|
+| Situation reports | 0 | — – — |
+| Weather forecasts | 0 | — – — |
+| River and flood warnings | 0 | — – — |
+| Landslide warnings | 0 | — – — |
 
 <!-- DATASETS:END -->
