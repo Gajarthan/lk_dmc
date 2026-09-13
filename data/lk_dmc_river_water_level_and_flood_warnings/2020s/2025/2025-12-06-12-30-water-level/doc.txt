@@ -1,0 +1,161 @@
+0
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 6-Dec-2025 TIME : 12:30 PM
+Gauging Station Water Water
+Water 3 Hr RF in
+Minor Major Level at Level
+River Basin Tributory/River Alert Level at Remarks mm at
+Station Unit Flood Flood 12:00 Rising or
+Level 11:00 am 12.00 noon
+Level Level noon Falling
+Kelani Ganga Nagalagam Street ft 4.00 5.00 7.00 1.80 2.00 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 2.97 2.95 Normal 0.0
+Kelani Ganga Glencourse m 15.00 16.50 19.00 10.43 10.42 Normal 0.0
+Kelani Ganga
+Kelani Ganga Kithulgala m 3.00 4.00 6.00 1.97 1.96 Normal 0.0
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 0.90 0.90 Normal 0.0
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 0.78 0.74 Normal 0.0
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 0.92 0.92 Normal 0.0
+Kalu Ganga Putupaula m 3.00 4.00 5.00 1.12 1.16 Normal 0.0
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 6.24 6.15 Normal 0.0
+Kalu Ganga
+Kalu Ganga Rathnapura m 5.20 7.50 9.50 2.09 2.03 Normal 0.0
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 3.39 3.18 Normal 0.0
+Kuda Ganga Kalawellawa (Millakanda) m 5.00 6.50 8.00 4.26 4.25 Normal 0.0
+Gin Ganga Baddegama m 3.50 4.00 5.00 2.63 2.60 Normal 0.0
+Gin Ganga
+(RB 09)
+Gin Ganga Thawalama m 4.00 6.00 7.50 1.78 1.76 Normal 0.0
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.20 1.18 Normal 0.0
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 3.93 3.87 Normal 0.0
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 0.92 0.92 Normal 0.0
+Urubokka Ganga Urawa m 2.50 4.00 6.00 0.65 0.64 Normal 0.0
+Walawe Ganga
+Walawe Ganga Moraketiya m 3.00 5.00 7.00 1.72 1.71 Normal 0.0
+(RB 18)
+Kirindi Oya Thanamalwila m 4.00 5.00 5.50 1.38 1.38 Normal 0.0
+Kirindi Oya
+Kirindi Oya Wellawaya m 4.40 5.40 5.90 1.10 1.09 Normal 0.0
+(RB 22)
+Kuda Oya Kuda Oya m 6.90 8.40 8.80 1.62 1.62 Normal 0.0
+Menik Ganga (RB
+Menik Ganga Katharagama m 4.00 4.60 6.50 0.64 0.64 Normal 0.0
+26)
+Kumbukkan Oya
+Kumbukkan Oya Nakkala m 5.00 6.00 7.50 1.39 1.38 Normal 0.7
+(RB 31)
+Heda Oya
+Heda Oya Siyambalanduwa m 4.50 6.00 7.00 1.07 1.06 Normal 0.0
+(RB 36)
+Maduru Oya
+Maduru Oya Padiyathalawa m 4.00 4.50 6.00 0.90 0.90 Normal 0.0
+(RB 54)
+Mahaweli Ganga Manampitiya m 3.00 4.30 6.00 NA NA -
+Mahaweli Ganga Weraganthota m 5.00 6.00 8.00 -1.02 -1.28 Normal 0.0
+Mahaweli Ganga
+Mahaweli Ganga Peradeniya m 5.00 7.00 9.00 NA NA -
+(RB 60)
+Mahaweli Ganga Nawalapitiya m 3.50 5.00 6.00 1.32 1.32 Normal 0.0
+Badulu Oya Thaldena m 3.00 4.00 5.00 0.77 0.76 Normal 0.0
+Yan Oya
+Yan Oya Horowpothana m 6.00 7.50 10.50 1.95 1.93 Normal 0.0
+(RB 67)
+Maa Oya (RB 69) Mukunu Oya Yaka Wewa m 4.00 5.00 6.00 0.88 0.88 Normal 0.0
+Malwathu Oya
+Malwathu Oya Thanthirimale m 5.00 6.80 7.80 6.95 6.95 Minor Flood 0.0
+(RB 90)
+Mee Oya
+Mee Oya Galgamuwa m 4.84 5.94 8.00 1.53 1.52 Normal 0.0
+(RB 95)
+Deduru Oya
+Deduru Oya Moragaswewa m 4.75 6.00 7.00 NA NA -
+(RB 99)
+Maha Oya Badalgama m 5.00 6.20 9.60 3.00 2.99 Normal 0.0
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 1.93 1.92 Normal 0.0
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 2.06 2.06 Normal 0.0
+(RB 103)
+Prepared by : P.A.G.Gayampath (H.A.)
+Checked by : W.A.S.Saumya (H.D.S.(Act))
+Eng.L.S. Sooriyabandara `
+NA These Gauges are not accessible Director (Hydrology and Disaster Management)
+
+ආපදා කළමනාකරණ මධ්‍යසථ් ානය
+mdu;j;j Kfhikj;Jt epiyak;
+DISASTER MANAGEMENT CENTRE
+අංක 1 20/2" எண் 120 /2 No 120/2,
+වි
+f
+ද
+l
+H
+d
+d
+<
+u
+U
+d j
+0
+;
+7
+"
+n
+t
+f
+pj
+h
+;a
+O
+h
+k ;G
+k
+0
+h
+7
+t j;ij V
+Co
+id
+lo
+y
+m
+a M
+bo
+a
+0
+w
+7
+a tha,
+Tfí w xlh u f.a wxlh DMC/ 08/ Irrig ation Èkh 2025.12.06.
+ck J , y vdJ ,y
+Report/ Vol 04
+jpfjp
+Your No.
+යුද්ධ හමුදාධිපති,
+ගුවන් හමුදාධිපති,
+නාවික හමුදාධිපති,
+පපාලිස්පති,
+අධයක්ෂ ජනරාල් ශ්‍රී ලංකා පවරළ ආරක්ෂක පදපාර්තපේන්ුව,
+සියලුම දිස්ික් නිපයෝජය / සහකාර අධයක්ෂවරුන්,
+පූර්ව අනතුරු ඇඟවීමේ නිමේදනයයි.
+2025.12.06 වන දින1230 පැයට වාරිමාර්ග පදපාර්පේන්ුව විසින් නිකුත් කරන ලද නිපේදනය හා බැපද්.
+02. එබැවින් සිදුවිය හැකි ආපදා තත්ත්වයන් අවම කිරිමට / පාලනය කර ගැනිමට හා කළමනාකරණය කර ගැනීම
+සඳහා පමම නිපේදනය අනුව කටයුු කරන පමන් කාරුණිකව ඉල්ලා සිටිමි.
+03. තවද එම පදපාර්තපේන්ුව විසින් නිකුත් කරනු ලබන නිපේදන පිළිබඳව විමසිලිමත්ව කටයුු කරන පමන් ද
+පමම නිපේදන පිළිබඳ විස්තර ලබා ගැනිම සඳහා 117 දුරකථන අංකය අමතන පලසටද වැඩිදුර තාක්ෂණික උපපදස්
+ලබා ගැනිම සඳහා වාරිමාර්ග මදපාර්තමේන්තතුව සමග සේබන්ීකරණය වන පලසටද දන්වා සිටිමි.
+එච්.ඩී. ජී. ප්‍රියන්ත
+නිපයෝජය අධයක්ෂ (දිස්ික්)
+රාජකාරභාර නිළධාරී
+අධයක්ෂ ජනරාල් පවනුවට
+for safer communities and sustainable development
+ÿrl:k 011 2136136 *elaia ^ld¾hd,h& 011 2 670079 wOHCI ckrd,a 011 2670070
+njhiyNg rp njhiyefy; (mYtyfk;) 011 2670025 gzpg;ghsu; ehafk; 011 2136100
+Telephone Fax (Office) Director General
+Web: www.dmc.gov.lk Email: dg@dmc.gov.lk
+yosis weu;=ï $ mtru eltbf;if miog;G / Emergency Operations Hotline : 011 2136222/011 2670002

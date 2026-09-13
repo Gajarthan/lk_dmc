@@ -1,0 +1,12 @@
+{
+  "doc_id": "2018-05-23-18-30-flood-warning",
+  "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+  "num": "18-30-flood-warning",
+  "date_str": "2018-05-23",
+  "description": "Flood Warning",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2780",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/1830hrs0001__1527083243.PDF",
+  "time_str": "18:30",
+  "ut": 1527080400,
+  "lang": "und"
+}

@@ -1,0 +1,89 @@
+0
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 28-Nov-2025 TIME : 12:30 PM
+Gauging Station Water Water
+Water 3 Hr RF in
+Minor Major Level at Level
+River Basin Tributory/River Alert Level at Remarks mm at
+Station Unit Flood Flood 12:00 Rising or
+Level 11:00 am 12.00 noon
+Level Level noon Falling
+Kelani Ganga Nagalagam Street ft 4.00 5.00 7.00 5.70 5.70 Minor Flood -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 8.95 9.15 Minor Flood Rising 22.0
+Kelani Ganga Glencourse m 15.00 16.50 19.00 19.90 20.17 Major Flood Rising 47.6
+Kelani Ganga
+Kelani Ganga Kithulgala m 3.00 4.00 6.00 6.25 6.48 Major Flood Rising 82.9
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 5.89 5.78 Major Flood Falling 33.4
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 8.08 8.55 Major Flood Rising 58.7
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 2.75 2.89 Alert Rising 44.8
+Kalu Ganga Putupaula m 3.00 4.00 5.00 2.82 2.92 Normal 14.5
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 NA NA -
+Kalu Ganga
+Kalu Ganga Rathnapura m 5.20 7.50 9.50 9.40 9.60 Major Flood Rising 31.4
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 5.14 5.20 Alert Rising 9.2
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 6.64 6.74 Minor Flood Rising 10.5
+(Millakanda)
+Gin Ganga Baddegama m 3.50 4.00 5.00 3.07 3.10 Normal 0.0
+Gin Ganga
+(RB 09)
+Gin Ganga Thawalama m 4.00 6.00 7.50 4.15 4.12 Alert Falling 2.0
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.68 1.68 Alert 0.0
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 5.17 5.21 Alert Rising 0.0
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 2.45 2.49 Normal 0.0
+Urubokka Ganga Urawa m 2.50 4.00 6.00 1.80 1.70 Normal 0.0
+Walawe Ganga
+Walawe Ganga Moraketiya m 3.00 5.00 7.00 4.68 4.78 Alert Rising 2.7
+(RB 18)
+Kirindi Oya Thanamalwila m 4.00 5.00 5.50 3.47 3.33 Normal 2.2
+Kirindi Oya
+Kirindi Oya Wellawaya m 4.40 5.40 5.90 1.87 1.83 Normal 0.0
+(RB 22)
+Kuda Oya Kuda Oya m 6.90 8.40 8.80 3.53 3.40 Normal 3.0
+Menik Ganga
+Menik Ganga Katharagama m 4.00 4.60 6.50 7.54 7.58 Major Flood Rising 0.0
+(RB 26)
+Kumbukkan Oya
+Kumbukkan Oya Nakkala m 5.00 6.00 7.50 2.60 2.50 Normal 0.0
+(RB 31)
+Heda Oya
+Heda Oya Siyambalanduwa m 4.50 6.00 7.00 2.64 2.55 Normal 0.0
+(RB 36)
+Maduru Oya
+Maduru Oya Padiyathalawa m 4.00 4.50 6.00 NA NA -
+(RB 54)
+Mahaweli Ganga Manampitiya m 3.00 4.30 6.00 NA NA -
+Mahaweli Ganga Weraganthota m 5.00 6.00 8.00 NA NA -
+Mahaweli Ganga
+Mahaweli Ganga Peradeniya m 5.00 7.00 9.00 NA NA -
+(RB 60)
+Mahaweli Ganga Nawalapitiya m 3.50 5.00 6.00 NA NA -
+Badulu Oya Thaldena m 3.00 4.00 5.00 NA NA -
+Yan Oya
+Yan Oya Horowpothana m 6.00 7.50 10.50 8.38 8.39 Minor Flood Rising -
+(RB 67)
+Maa Oya (RB 69) Mukunu Oya Yaka Wewa m 4.00 5.00 6.00 NA NA -
+Malwathu Oya
+Malwathu Oya Thanthirimale m 5.00 6.80 7.80 NA NA -
+(RB 90)
+Mee Oya
+Mee Oya Galgamuwa m 4.84 5.94 8.00 NA NA -
+(RB 95)
+Deduru Oya
+Deduru Oya Moragaswewa m 4.75 6.00 7.00 NA NA -
+(RB 99)
+Maha Oya Badalgama m 5.00 6.20 9.60 10.15 10.31 Major Flood Rising 26.4
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 11.26 11.38 Major Flood Rising 44.5
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 5.51 5.61 Major Flood Rising 53.2
+(RB 103)
+Prepared by : A.A.M.Arawindi (H.A.)
+Checked by : Aravinda Gunasekara (Snr.H.A.)
+Eng.L.S. Sooriyabandara `
+NA These Gauges are not accessible(Flood) Director (Hydrology and Disaster Management)
