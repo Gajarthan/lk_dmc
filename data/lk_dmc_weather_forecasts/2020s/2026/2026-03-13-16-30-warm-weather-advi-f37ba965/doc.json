@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-03-13-16-30-warm-weather-advi-f37ba965",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "16-30-warm-weather-advisory-tamil-language",
+  "date_str": "2026-03-13",
+  "description": "Warm Weather Advisory (Tamil Language)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1500",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1530hrs_on_13__1773400513.pdf",
+  "time_str": "16:30",
+  "ut": 1773399600,
+  "lang": "und"
+}

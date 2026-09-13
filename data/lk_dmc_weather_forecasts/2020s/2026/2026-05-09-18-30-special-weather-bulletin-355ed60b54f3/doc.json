@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-05-09-18-30-special-weather-bulletin-355ed60b54f3",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "18-30-special-weather-bulletin",
+  "date_str": "2026-05-09",
+  "description": "Special Weather Bulletin",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1070",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LSA_26050901_TM__1778338364.pdf",
+  "time_str": "18:30",
+  "ut": 1778331600,
+  "lang": "und"
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-08-29-05-30-weather-forecast",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "05-30-weather-forecast",
+  "date_str": "2026-08-29",
+  "description": "Weather Forecast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=140",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_0530hrs_on_29__1787962039.pdf",
+  "time_str": "05:30",
+  "ut": 1787961600,
+  "lang": "und"
+}

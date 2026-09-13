@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-05-15-09-30-warning-for-heavy-rain-3ebc565b58bc",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "09-30-warning-for-heavy-rain",
+  "date_str": "2026-05-15",
+  "description": "Warning for Heavy Rain",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1010",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LRW_26051501_SN__1778821230.pdf",
+  "time_str": "09:30",
+  "ut": 1778817600,
+  "lang": "und"
+}

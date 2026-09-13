@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-08-04-10-45-weather-advisory-tamil",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "10-45-weather-advisory-tamil",
+  "date_str": "2026-08-04",
+  "description": "Weather Advisory- Tamil",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=330",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Strong_Winds_and_Rough_Seas_at_1000hrs_on_04__1785822225.pdf",
+  "time_str": "10:45",
+  "ut": 1785820500,
+  "lang": "und"
+}

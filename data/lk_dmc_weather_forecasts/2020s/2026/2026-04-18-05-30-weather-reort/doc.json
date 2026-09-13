@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-04-18-05-30-weather-reort",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "05-30-weather-reort",
+  "date_str": "2026-04-18",
+  "description": "Weather Reort",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1240",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_at_0530hrs_merged__1776471521.pdf",
+  "time_str": "05:30",
+  "ut": 1776470400,
+  "lang": "und"
+}

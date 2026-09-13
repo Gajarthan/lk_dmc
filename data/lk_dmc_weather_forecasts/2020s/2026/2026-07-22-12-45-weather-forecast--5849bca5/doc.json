@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-07-22-12-45-weather-forecast--5849bca5",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "12-45-weather-forecast-tamil-language",
+  "date_str": "2026-07-22",
+  "description": "Weather Forecast (Tamil Language)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=460",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Advisry_for_Strong_Winds_at_1100hrs_on_2026__1784704645.pdf",
+  "time_str": "12:45",
+  "ut": 1784704500,
+  "lang": "und"
+}

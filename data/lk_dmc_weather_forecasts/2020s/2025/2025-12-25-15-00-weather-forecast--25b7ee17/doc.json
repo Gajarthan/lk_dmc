@@ -1,0 +1,12 @@
+{
+  "doc_id": "2025-12-25-15-00-weather-forecast--25b7ee17",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "15-00-weather-forecast-tamil-language",
+  "date_str": "2025-12-25",
+  "description": "Weather Forecast (Tamil Language)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1980",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_25__1766657927.pdf",
+  "time_str": "15:00",
+  "ut": 1766655000,
+  "lang": "und"
+}

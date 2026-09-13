@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-08-17-12-30-weather-forecast--1340f01d",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "12-30-weather-forecast-tamil-language",
+  "date_str": "2026-08-17",
+  "description": "Weather Forecast (Tamil Language)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=230",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_ans_rough_seas_(Tamil_Language)__1786954162.pdf",
+  "time_str": "12:30",
+  "ut": 1786950000,
+  "lang": "und"
+}

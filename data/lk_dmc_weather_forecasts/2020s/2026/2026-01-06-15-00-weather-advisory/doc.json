@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-01-06-15-00-weather-advisory",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "15-00-weather-advisory",
+  "date_str": "2026-01-06",
+  "description": "Weather Advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1920",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas___at_1500_hrs_on_2026__1767692930.pdf",
+  "time_str": "15:00",
+  "ut": 1767691800,
+  "lang": "und"
+}

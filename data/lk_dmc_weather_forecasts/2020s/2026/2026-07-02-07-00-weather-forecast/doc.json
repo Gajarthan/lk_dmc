@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-07-02-07-00-weather-forecast",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "07-00-weather-forecast",
+  "date_str": "2026-07-02",
+  "description": "Weather Forecast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=660",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_Multiday_Boats_at_0700hrs__1782957487.pdf",
+  "time_str": "07:00",
+  "ut": 1782955800,
+  "lang": "und"
+}

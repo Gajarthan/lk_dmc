@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-01-11-00-30-water-level",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "00-30-water-level",
+  "date_str": "2026-01-11",
+  "description": "Water Level",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1870",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1768072519.pdf",
+  "time_str": "00:30",
+  "ut": 1768071600,
+  "lang": "und"
+}

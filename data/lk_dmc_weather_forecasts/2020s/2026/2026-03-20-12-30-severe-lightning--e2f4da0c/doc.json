@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-03-20-12-30-severe-lightning--e2f4da0c",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "12-30-severe-lightning-report-at-1230hrs",
+  "date_str": "2026-03-20",
+  "description": "Severe Lightning report at 1230hrs",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1450",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Severe_Lightning_report_at_1230hrs__1773994529.pdf",
+  "time_str": "12:30",
+  "ut": 1773990000,
+  "lang": "und"
+}

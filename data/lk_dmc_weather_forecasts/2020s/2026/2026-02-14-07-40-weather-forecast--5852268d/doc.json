@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-02-14-07-40-weather-forecast--5852268d",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "07-40-weather-forecast-tamil-language",
+  "date_str": "2026-02-14",
+  "description": "Weather Forecast (Tamil Language)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1700",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_14__1771035288.pdf",
+  "time_str": "07:40",
+  "ut": 1771035000,
+  "lang": "und"
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-03-23-12-30-weather-advisory",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "12-30-weather-advisory",
+  "date_str": "2026-03-23",
+  "description": "weather Advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1420",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_Report_at_1230hrs_on_23__1774251297.pdf",
+  "time_str": "12:30",
+  "ut": 1774249200,
+  "lang": "und"
+}

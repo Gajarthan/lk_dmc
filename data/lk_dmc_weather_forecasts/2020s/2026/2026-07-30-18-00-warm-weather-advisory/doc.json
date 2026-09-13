@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-07-30-18-00-warm-weather-advisory",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "18-00-warm-weather-advisory",
+  "date_str": "2026-07-30",
+  "description": "Warm Weather Advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=390",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1800hrs_on__30__1785414929.pdf",
+  "time_str": "18:00",
+  "ut": 1785414600,
+  "lang": "und"
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-02-25-14-00-weather-bulletin--069c9248",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "14-00-weather-bulletin-lowpressure-area-english",
+  "date_str": "2026-02-25",
+  "description": "Weather Bulletin Low-Pressure Area (English)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1600",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Bulletin_Low-Pressure_Area_at_1400hrs_on_25__1772015171.pdf",
+  "time_str": "14:00",
+  "ut": 1772008200,
+  "lang": "und"
+}

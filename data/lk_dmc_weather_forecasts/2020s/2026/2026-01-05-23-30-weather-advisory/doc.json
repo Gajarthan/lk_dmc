@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-01-05-23-30-weather-advisory",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "23-30-weather-advisory",
+  "date_str": "2026-01-05",
+  "description": "Weather Advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1920",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_low_pressure_area_over_South-east_Bay_of_Bengal_Sea_area__1767637452.pdf",
+  "time_str": "23:30",
+  "ut": 1767636000,
+  "lang": "und"
+}

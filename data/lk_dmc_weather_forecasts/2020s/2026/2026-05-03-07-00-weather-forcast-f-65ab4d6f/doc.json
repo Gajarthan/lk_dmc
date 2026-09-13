@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-05-03-07-00-weather-forcast-f-65ab4d6f",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "07-00-weather-forcast-for-multiday-boats",
+  "date_str": "2026-05-03",
+  "description": "Weather Forcast for Multiday Boats",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1130",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_for_Multiday_Boats__1777773827.pdf",
+  "time_str": "07:00",
+  "ut": 1777771800,
+  "lang": "und"
+}

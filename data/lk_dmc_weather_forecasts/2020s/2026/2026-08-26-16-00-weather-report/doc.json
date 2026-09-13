@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-08-26-16-00-weather-report",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "16-00-weather-report",
+  "date_str": "2026-08-26",
+  "description": "Weather Report",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=150",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1600hrs_on_26__1787742422.pdf",
+  "time_str": "16:00",
+  "ut": 1787740200,
+  "lang": "und"
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-06-05-20-30-weather-advisory--d242a38e",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "20-30-weather-advisory-for-heavy-rain",
+  "date_str": "2026-06-05",
+  "description": "Weather Advisory for Heavy Rain",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=850",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Advisory_-_Heavy_Rain__1780678428.pdf",
+  "time_str": "20:30",
+  "ut": 1780671600,
+  "lang": "und"
+}

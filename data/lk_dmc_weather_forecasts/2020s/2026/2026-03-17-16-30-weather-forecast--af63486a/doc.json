@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-03-17-16-30-weather-forecast--af63486a",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "16-30-weather-forecast-tamil-language",
+  "date_str": "2026-03-17",
+  "description": "Weather Forecast (Tamil Language)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1470",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_17__1773746304.pdf",
+  "time_str": "16:30",
+  "ut": 1773745200,
+  "lang": "und"
+}

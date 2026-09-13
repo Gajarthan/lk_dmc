@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-08-31-16-55-warm-weather-advi-bc4128b6",
+  "doc_type": "lk_dmc_weather_forecasts",
+  "num": "16-55-warm-weather-advisory-tamil-language",
+  "date_str": "2026-08-31",
+  "description": "Warm Weather Advisory (Tamil Language)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=110",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_2026__1788175689.pdf",
+  "time_str": "16:55",
+  "ut": 1788175500,
+  "lang": "und"
+}
