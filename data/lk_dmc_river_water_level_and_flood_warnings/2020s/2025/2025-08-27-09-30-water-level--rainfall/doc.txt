@@ -1,0 +1,145 @@
+0
+IslandwideWaterLevel&RainfallSituationinMajorRivers
+DATE: 27-Aug-2025 TIME: 9:30AM
+GaugingStation Water
+Water Water 24HrRF
+Minor Major Level
+RiverBasin Tributory/River Alert Levelat Levelat Remarks inmmat
+Station Unit Flood Flood Risingor
+Level 8:00am 9:00am 8.30am
+Level Level Falling
+KelaniGanga NagalagamStreet ft 4.00 5.00 7.00 1.10 0.70 Normal -
+KelaniGanga Hanwella m 7.00 8.00 10.00 0.64 0.62 Normal 0.2
+KelaniGanga Glencourse m 15.00 16.50 19.00 8.84 8.85 Normal 11.3
+KelaniGanga
+KelaniGanga Kithulgala m 3.00 4.00 6.00 1.79 1.70 Normal 14.3
+(RB01)
+GurugodaOya Holombuwa m 3.00 3.40 5.00 0.12 0.13 Normal 0.0
+SeethawakaGanga Deraniyagala m 4.80 5.80 6.40 0.38 0.38 Normal 5.1
+KehelgamuOya Norwood m 1.50 3.00 4.50 0.59 0.59 Normal 0.0
+KaluGanga Putupaula m 3.00 4.00 5.00 0.53 0.43 Normal 0.8
+KaluGanga Ellagawa m 10.00 10.70 12.20 3.93 3.93 Normal 0.0
+KaluGanga
+KaluGanga Rathnapura m 5.20 7.50 9.50 0.56 0.56 Normal 0.0
+(RB03)
+MaguruGanga Magura m 4.00 6.00 7.50 0.60 0.60 Normal 1.6
+KudaGanga Kalawellawa(Millakanda) m 5.00 6.50 8.00 1.40 1.34 Normal 0.0
+GinGanga Baddegama m 3.50 4.00 5.00 1.07 1.07 Normal 0.0
+GinGanga
+(RB09)
+GinGanga Thawalama m 4.00 6.00 7.50 0.84 0.85 Normal 0.0
+NilwalaGanga Thalgahagoda m 1.40 1.70 2.80 0.36 0.30 Normal 0.0
+NilwalaGanga Panadugama m 5.00 6.00 7.50 1.78 1.78 Normal 0.0
+NilwalaGanga
+(RB12)
+NilwalaGanga Pitabeddara m 4.00 5.00 6.50 0.15 0.14 Normal 0.0
+UrubokkaGanga Urawa m 2.50 4.00 6.00 -0.12 -0.12 Normal 0.0
+WalaweGanga
+WalaweGanga Moraketiya m 3.00 5.00 7.00 0.58 0.58 Normal 0.0
+(RB18)
+KirindiOya Thanamalwila m 4.00 5.00 5.50 0.17 0.17 Normal 0.0
+KirindiOya
+KirindiOya Wellawaya m 4.40 5.40 5.90 0.71 0.75 Normal 0.0
+(RB22)
+KudaOya KudaOya m 6.90 8.40 8.80 0.88 0.88 Normal 0.0
+MenikGanga
+MenikGanga Katharagama m 4.00 4.60 6.50 -0.23 -0.23 Normal 0.0
+(RB26)
+KumbukkanOya
+KumbukkanOya Nakkala m 5.00 6.00 7.50 0.60 0.60 Normal 0.0
+(RB31)
+HedaOya
+HedaOya Siyambalanduwa m 4.50 6.00 7.00 0.18 0.18 Normal 0.0
+(RB36)
+MaduruOya
+MaduruOya Padiyathalawa m 4.00 4.50 6.00 0.02 0.02 Normal 0.0
+(RB54)
+MahaweliGanga Manampitiya m 3.00 4.30 6.00 -0.04 -0.06 Normal 0.0
+MahaweliGanga Weraganthota m 5.00 6.00 8.00 -2.65 -2.63 Normal 0.0
+Mahaweli
+MahaweliGanga Peradeniya m 5.00 7.00 9.00 2.10 2.20 Normal 0.0
+Ganga (RB60)
+MahaweliGanga Nawalapitiya m 3.50 5.00 6.00 1.04 1.04 Normal 10.4
+BaduluOya Thaldena m 3.00 4.00 5.00 0.19 0.16 Normal 0.0
+YanOya
+YanOya Horowpothana m 6.00 7.50 10.50 1.40 1.40 Normal 0.0
+(RB67)
+MaaOya(RB
+MukunuOya YakaWewa m 4.00 5.00 6.00 0.44 0.44 Normal 0.0
+69)
+MalwathuOya
+MalwathuOya Thanthirimale m 5.00 6.80 7.80 0.40 0.40 Normal 0.0
+(RB90)
+MeeOya
+MeeOya Galgamuwa m 4.84 5.94 8.00 0.15 0.15 Normal 0.0
+(RB95)
+DeduruOya
+DeduruOya Moragaswewa m 4.75 6.00 7.00 -0.03 -0.03 Normal 0.0
+(RB99)
+MahaOya Badalgama m 5.00 6.20 9.60 1.71 1.71 Normal 0.0
+MahaOya
+(RB102)
+MahaOya Giriulla m 5.50 6.50 7.50 0.69 0.69 Normal 0.0
+AttanagaluOya
+AttanagaluOya Dunamale m 3.30 4.40 5.50 -0.03 -0.03 Normal 0.0
+(RB103)
+Preparedby: S.G.V.R.D.N.A.Gunasekara(H.A.)
+Cheeckedby: W.A.S.Saumya(H.D.S(Act))
+Eng.L.S.Sooriyabandara `
+Director(HydrologyandDisasterManagement)
+
+DailyRainfall
+Unitsinmm
+DATE: 26-Aug-2025
+( 24hrsending at 8:30AM on 27-Aug-2025)
+KelaniGangaBasin(RB01) MenikGanga(RB26) KalaOya(RB93)
+Castlereigh(CEB) 2.5 ButtalaBridge(HMIS) NA UsgalaSiyamabalangamuwa(HMIS) NA
+Norton(CEB) 7.6 Rajanganaya(Res)(HMIS) NA
+Maussakelle(CEB) 0.0 GalOya(RB44) Kalawewa(Res)(HMIS) NA
+Canyon(CEB) 1.0 DambuluOya(Res)(HMIS) NA
+Laxapana(CEB) 17.4 Ampara 0.0 Kandalama(Res)(HMIS) NA
+Colombo(ID) 0.0 SenanayakaSamu.(Res)(HMIS) NA DambuluOyaRiver(HMIS) NA
+Bibile(HMIS) NA
+BolgodaGanga(RB02) Inginiyagala(CEB) 0.0 DaduruOya(RB99)
+BolgodaLake(HMIS) NA MahaweliGangaBasin(RB60) Masspotha 0.0
+Amunugama 0.0
+KaluGanga(RB03) Kotmale(CEB) 7.2 Ethiliyagala 0.0
+Victoria(CEB) 0.0 MaEliya 0.0
+Kukulegama(CEB) 2.0 Randenigala(CEB) 0.0 DaisyValley 0.0
+Halwathura(HMIS) NA Rantembe(CEB) 0.0 Diniminiyathanna 0.0
+Anguruwathota(HMIS) NA Bowatenna(CEB) 0.0 Moragaswewa(HMIS) NA
+Dela(HMIS) NA Ukuwela(CEB) 0.0 Nugawela(HMIS) NA
+Magura(Baduraliya)(HMIS) NA U.Kothmale(CEB) 0.0
+Malwala(HMIS) NA Angamedilla(HMIS) NA MaaOya(RB102)
+Banagoda(HMIS) NA Hembarewa(HMIS) NA
+Watapotha(HMIS) NA CalseyMaeliya(HMIS) NA Molagoda(HMIS) NA
+Paragoda(HMIS) NA Ulhitiya(Res)(HMIS) NA Hatharaliyadde(HMIS) NA
+Girithale(Res) NA Aranayake(HMIS) NA
+BentharaGanga(RB04) ParakramaSamu.(Res) NA BolagamaBridge(HMIS) NA
+Minneriya(Res) NA
+Aviththawa(HMIS) NA Kaudulla(Res) NA AttanagaluOya(RB103)
+Diyabeduma(HMIS) NA
+GinGanga(RB09) UlhitiyaInletCanal(HMIS) NA Attanagalla 0.0
+MinipeLBCanal(HMIS) NA Algama(HMIS) NA
+Lankagama(HMIS) NA Moragahakanda(HMIS) NA
+DeniyayaBridge(HMIS) NA
+Yanoya(RB67) Max.Rainfall(CEB)
+NilwalaGanga(RB12) Laxapana 17.4
+HuruluWewa(Res)(HMIS) NA
+Akuressa(HMIS) NA Max.Rainfall(HMIS)
+Sapugoda(HMIS) NA MahaOya(RB69) NA
+WalaweGanga(RB18) PadawiyaTank(HMIS) NA Max.Rainfall(ID)
+Kithulgala 14.3
+Samanalawewa(CEB) 0.0 MalwathuOya(RB90)
+MauAra(Res)(HMIS) NA Notation
+Thimbolketiya(HMIS) NA MenikFarm(HMIS) NA Tr :- TracedRainfall
+Udawalawe(Res)(HMIS) NA TissaWewa(Res)(HMIS) NA RB :- RiverBasin
+Nachchaduwa(Res)(HMIS) NA MET :- DepartmentofMeteorology
+ID :- IrrigationDepartment
+CEB :- CeylonElectricityBoard
+Res :- Reservoir
+HMIS :- DSWRPData
+NA :- NotAvailable
+Eng.L.S.Sooriyabandara
+Director(HydrologyandDisasterManagement) Preparedby: S.G.V.R.D.N.A.Gunasekara(H.A.)
+Preparedby: W.A.S.Saumya(H.D.S(Act))

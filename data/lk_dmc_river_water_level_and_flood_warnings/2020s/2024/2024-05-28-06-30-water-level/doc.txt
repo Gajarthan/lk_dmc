@@ -1,0 +1,86 @@
+0
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 28-May-2024 TIME : 6:30 AM
+Gauging Station Water
+Water Water 21 Hr RF
+Minor Major Level
+River Basin Tributory/River Alert Level at Level at Remarks in mm at
+Station Unit Flood Flood Rising or
+Level 5:00 am 6.00 am 6.00 am
+Level Level Falling
+Kelani Ganga N' Street ft 4.00 5.00 7.00 3.10 3.20 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 5.64 5.65 Normal 31.1
+Kelani Ganga Glencourse m 15.00 16.50 19.00 13.07 13.16 Normal 28.7
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 2.00 1.95 Normal 33.5
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 1.72 1.64 Normal 21.0
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 2.43 2.75 Normal 45.7
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 1.48 1.50 Alert Rising 36.2
+Kalu Ganga Putupaula m 3.00 4.00 5.00 2.67 2.69 Normal 7.0
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 8.79 8.79 Normal 39.4
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 5.19 5.43 Alert Rising 23.6
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 4.50 4.44 Alert Falling 1.4
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 6.57 6.60 Minor Flood Rising 33.9
+(Millakanda)
+Gin Ganga Baddegama m 3.50 4.00 5.00 3.56 3.58 Alert Rising 6.8
+Gin Ganga
+(RB 09)
+Gin Ganga Tawalama m 4.00 6.00 7.50 4.40 4.27 Alert Falling 58.3
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.44 1.48 Alert Rising 1.8
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 5.78 5.81 Alert Rising 10.6
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 2.88 2.90 Normal 10.4
+Urubokka Ganga Urawa m 2.50 4.00 6.00 1.79 1.79 Normal 48.9
+Walawe Ganga
+Walawe Ganga Moraketiya m 3.00 5.00 7.00 1.88 1.58 Normal 4.5
+(RB 18)
+Kirindi Oya Tanamalwila m 4.00 5.00 5.50 0.40 0.40 Normal 0.0
+Kirindi Oya
+Kirindi Oya Wellawaya m 4.40 5.40 5.90 0.64 0.64 Normal 0.0
+(RB 22)
+Kuda Oya Kuda Oya m 6.90 8.40 8.80 1.30 1.30 Normal 0.0
+Menik Ganga
+Menik Ganga Katharagama m 4.00 4.60 6.50 -0.16 -0.16 Normal 0.0
+(RB 26)
+Kumbukkan Oya
+Kumbukkan Oya Nakkala m 5.00 6.00 7.50 0.76 0.76 Normal 0.0
+(RB 31)
+Heda Oya
+Heda Oya Siyambalanduwa m 4.50 6.00 7.00 0.45 0.45 Normal 0.0
+(RB 36)
+Maduru Oya
+Maduru Oya Padiyatalawa m 4.00 4.50 6.00 0.39 0.39 Normal 0.0
+(RB 54)
+Mahaweli Ganga Manampitiya (HMIS) m 3.00 4.30 6.00 0.23 0.22 Normal 0.0
+Mahaweli Ganga Weragantota m 5.00 6.00 8.00 -2.75 -2.85 Normal 0.0
+Mahaweli Ganga
+Mahaweli Ganga Peradeniya m 5.00 7.00 9.00 3.08 3.14 Normal 8.7
+(RB 60)
+Mahaweli Ganga Nawalapitiya m 3.50 5.00 6.00 2.13 2.10 Normal 31.5
+Badulu Oya Taldena m 3.00 4.00 5.00 0.33 0.34 Normal 0.0
+Yan Oya
+Yan Oya Horowpatana m 6.00 7.50 10.50 1.74 1.73 Normal 0.0
+(RB 67)
+Maa Oya (RB 69) Mukunu Oya Yakawewa m 4.00 5.00 6.00 0.51 0.51 Normal 0.0
+Malwathu Oya
+Malwathu Oya Tantirimale m 5.00 6.80 7.80 1.19 1.19 Normal 0.0
+(RB 90)
+Deduru Oya
+Deduru Oya Moragaswewa m 4.75 6.00 7.00 2.55 2.58 Normal 23.4
+(RB 99)
+Maha Oya Badalgama m 5.00 6.20 9.60 3.70 3.68 Normal 22.5
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 2.49 2.48 Normal 22.4
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 3.74 3.72 Alert Falling 26.5
+(RB 103)
+Prepared by : K.K.C.U.Dilshan (H.A.)
+Checked by : G.A.S.A.Jayamal ( H.A.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)
