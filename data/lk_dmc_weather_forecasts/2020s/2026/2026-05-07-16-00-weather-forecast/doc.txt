@@ -1,0 +1,70 @@
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය
+GENERAL WEATHER FORECAST FOR SRI LANKA
+ජොතික කොලගුණ විදයො මධ්‍යස්ථොනනේ, අනොවැකි අංශය මගිේ නිකුත් කරන ලදි
+Issued by Forecasting Division, National Meteorological Centre
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය
+2026 මැයි මස 07 දින්‍ සවස 04.00 ට නිකුත් කරන්‍ ලදි.
+ශ්‍රී ලංකාව ආශ්‍රිතව පවතින්‍ පහළ වායුග ෝලීය කැළඹිලි ස්වභාවය ගහ්තුගවන්, දිවයිගන් දැන්‍ට පවතින්‍ වැසි
+තත්ත්වය ඉදිරි දින්‍ කිහිපගේදී තවදුරටත් බලගපාගරාත්තුගේ.
+දිවයිනේ න ොන ෝ ප්‍රනේශවල පස්වරු 1.00 ේ පමණ පසුව වැසි න ෝ ගිගුරුම් සහිත වැසි ඇතිනේ.
+නැනෙනහිර ස උතුරු පළොත්වල උදෑසන කොලනේදීත් වැසි ඇති විය ැක.
+ස්නොහිර, ස රෙමුව, මධ්‍යම, ඌව ස වයඹ පළොත්වලත් ෙොල්ල ස මොතර දිසි් ක්කවලත් ඇතැම් සථ් ොනවලට
+මි.මී. 100 ට වැඩි තද වැසි ඇති විය ැක.
+මධ්‍යම, ස රෙමුව ස ඌව පළොත්වල ඇතැම් සථ් ොනවල අළුයම් කොලනේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක.
+ගිගුරුම් සහිත වැසි සම ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර
+ැනීමට අවශ්‍ය පියවර න්න්‍ා ගලස ජන්‍තාවග න් කාරුණිකව ඉල්ලා සිටිනු ලැගේ.
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+Issued at 04.00 p.m. on 07 May 2026.
+Due to the low-level atmospheric disturbance in the vicinity of Sri Lanka, the prevailing showery
+condition over the island is expected to continue during the next few days
+Showers or thundershowers will occur at most places of the island after 1.00 pm.
+Showers are likely in the Eastern and Northern provinces during the morning too.
+Heavy falls above 100 mm are likely at some places in Western, Sabaragamuwa, Central, Uva, North-
+western provinces and in Galle and Matara districts.
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces during
+the early hours of the morning.
+The general public is kindly requested to take adequate precautions to minimize damages caused
+by temporary localized strong winds and lightning during thundershowers.
+
+Date : 8-May-2026
+Temperature (0C) Relative Humidity (%)
+City Weather
+Max Min Max Min
+Anuradhapura 32 25 95 55 Showers or thundershowers after 2.00p.m
+Batticaloa 33 27 90 65 Showers or thundershowers
+Colombo 33 26 95 70 Showers or thundershowers
+Galle 31 26 90 70 Showers or thundershowers after 2.00p.m
+Jaffna 33 25 95 50 Showers or thundershowers
+Kandy 30 23 95 65 Showers or thundershowers after 2.00p.m
+Nuwara-Eliya 22 14 95 65 Showers or thundershowers after 2.00p.m
+Ratnapura 34 25 95 65 Showers or thundershowers after 2.00p.m
+Trincomalee 33 26 90 60 Showers or thundershowers
+Mannar 32 27 90 65 Showers or thundershowers
+දිනය : 2026-05-08
+උෂ්ණත්වය(සෙ. අංශක) ොසේක්ෂ ආර්ද්‍රතාවය(%)
+නගරය කාලගුණය
+උපරිම අවම උපරිම අවම
+අනුරාධපුරය 32 25 95 55 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+මඩකලපුව 33 27 90 65 වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+හකාළඹ 33 26 95 70 වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+ගාල්ල 31 26 90 70 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+යාපනය 33 25 95 50 වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+ම නුවර 30 23 95 65 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+නුවරඑළිය 22 14 95 65 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+රත්නපුරය 34 25 95 65 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+ත්‍රිකුණාමලය 33 26 90 60 වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+මන්නාරම 32 27 90 65 වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ
+பிரதான நகரங்களுக்கான வானிலை முன்னறிவித்தல் தி க தி : 2 0 2 6 - 0 5 - 0 8
+வவப்பநிலை (0C) சாரீரப்பதன் (%)
+நகரம் வானிலை
+உச்ச குலைந்த உச்ச குலைந்த
+அனுராதபுரம் 32 25 95 55 பி.ப. 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+மட்டக்களப்பு 33 27 90 65 மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+வகாழும்பு 33 26 95 70 மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+காலி 31 26 90 70 பி.ப. 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+யாழ்ப்பாணம் 33 25 95 50 மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+கண்டி 30 23 95 65 பி.ப. 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+நுவவரலியா 22 14 95 65 பி.ப. 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+இரத்தினபுரி 34 25 95 65 பி.ப. 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+திருககாணமலை 33 26 90 60 மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்
+மன்னார் 32 27 90 65 மழை அல்லது இடியுடன் கூடிய மழை பபய்யும்

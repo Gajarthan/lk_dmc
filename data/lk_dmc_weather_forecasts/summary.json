@@ -1,8 +1,8 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-13T19:02:48.469566+00:00",
-  "n_docs": 2035,
+  "time_updated": "2026-09-13T22:39:50.041419+00:00",
+  "n_docs": 2045,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
@@ -71,13 +71,13 @@
       "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 944,
-  "n_docs_with_text": 944,
-  "n_docs_with_tabular": 659,
-  "date_str_min": "2025-12-13",
+  "n_docs_with_pdfs": 1241,
+  "n_docs_with_text": 1241,
+  "n_docs_with_tabular": 887,
+  "date_str_min": "2025-12-11",
   "date_str_max": "2026-09-13",
   "langs": [
     "und"
   ],
-  "dataset_size": 720605942
+  "dataset_size": 958055411
 }
