@@ -24,7 +24,10 @@ Verified locally on 2026-09-13:
   tool-free output approach and retains strict validation and all permission denials.
 - All 97 tests pass after both fixes, including regression checks for request
   identity and the output schema in the prompt. Independent review found no
-  material issues. A hosted recheck is recorded separately when complete.
+  material issues. A subsequent hosted check passed health but rejected a response
+  that copied the schema. The prompt was corrected to request an analysis object
+  explicitly, and a live request through the production client then returned a
+  valid flood-warning analysis with the expected date and location.
 
 The integration stores service credentials only in process environment variables
 or GitHub Actions secrets. No credentials are embedded in the repository. Source
