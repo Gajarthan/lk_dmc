@@ -1,0 +1,12 @@
+{
+  "pages": 269,
+  "discovered": 2685,
+  "processed": 290,
+  "attempted": 290,
+  "limited": true,
+  "errors": [
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=1310 row 2: time data '2023-06-30 ' does not match format '%Y-%m-%d %H:%M'",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=1570 row 11: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=2590 row 5: Unsupported download link: /images/dmcreports/"
+  ]
+}

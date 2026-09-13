@@ -1,0 +1,37 @@
+Disaster Management Center
+Current Situation Report on 2025.12.12 at 0900 hrs
+Safety center Details
+Fully House Partially House
+No. Districts Families Persons Deaths Missing
+damage Damage No of Safety
+Families Persons
+centers
+1 Puttalam 80,279 287,066 36 3 592 6,063 9 73 210
+2 Badulla 22,257 73,547 90 28 578 7,729 147 5,856 17,444
+3 Monaragala 1,533 5,290 4 - 38 500 1 47 100
+4 Matale 7,288 25,813 29 8 217 2,864 48 1,214 3,752
+5 Colombo 85,946 329,600 9 1 76 4,027 5 73 242
+6 Batticaloa 12,469 37,389 4 - 11 946 - - -
+7 Kegalle 22,254 79,784 32 39 284 11,996 106 3,001 8,932
+8 Trincomalee 26,009 86,685 - - - 727 - - -
+9 Anuradhapura 22,188 73,401 13 - 231 2,405 3 34 118
+10 Mullaitivu 22,918 67,340 2 - 5 907 - - -
+11 Kilinochchi 163 550 - - 2 432 - - -
+12 Ampara 6,942 23,781 8 - 111 509 - - -
+13 Jaffna 18,155 57,959 3 - 2 441 4 54 181
+14 Polonnaruwa 11,570 41,128 2 - 225 3,588 5 282 1,372
+15 Kandy 54,716 171,127 234 82 1,568 14,111 279 7,952 27,227
+16 Rathnapura 19,053 74,143 1 - 6 8,462 6 52 194
+17 Kurunegala 26,412 88,716 61 11 610 4,565 34 933 3,052
+18 Nuwara Eliya 19,780 63,121 89 37 767 3,742 211 6,652 20,825
+19 Matara 448 1,671 - - 1 437 - - -
+20 Hambantota 2,066 7,466 1 - 5 285 - - -
+21 Galle 518 1,795 1 - - 492 - - -
+22 Kalutara 2,013 7,093 - - 1 953 - - -
+23 Mannar 23,704 77,694 3 - 46 477 2 220 628
+24 Gampaha 92 374 17 1 211 6,703 3 41 165
+25 Vavuniya 6,320 20,785 - - 1 4,135 3 79 232
+Total 495,093 1,703,318 639 210 5,588 87,496 866 26,563 84,674
+SI SAN Bandara
+Duty Officer - Disaster Management Center Source : National Disaster Relief Services Centre
+For Director General

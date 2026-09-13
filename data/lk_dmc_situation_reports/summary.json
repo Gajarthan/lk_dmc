@@ -1,13 +1,83 @@
 {
   "doc_class_label": "lk_dmc_situation_reports",
-  "doc_class_description": "Situation reports",
-  "time_updated": "2026-09-13T06:02:51.792828+00:00",
-  "n_docs": 0,
-  "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 0,
-  "n_docs_with_tabular": 0,
-  "date_str_min": null,
-  "date_str_max": null,
-  "langs": [],
-  "dataset_size": 0
+  "doc_class_description": "Reports on heavy rain, wind, lightning, and other disaster impacts.",
+  "time_updated": "2026-09-13T12:18:00.527677+00:00",
+  "n_docs": 2685,
+  "n_docs_with_analysis": 0,
+  "collection_status": "Needs attention",
+  "latest_reports": [
+    {
+      "doc_id": "2026-09-13-10-00-situation-report",
+      "description": "Situation Report",
+      "date_str": "2026-09-13",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1789277061.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-13-10-00-drought-situation-report",
+      "description": "Drought Situation Report",
+      "date_str": "2026-09-13",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1789277084.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-09-10-00-situation-report",
+      "description": "Situation Report",
+      "date_str": "2026-09-09",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1788932329.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-09-10-00-drought-situation-report",
+      "description": "Drought Situation Report",
+      "date_str": "2026-09-09",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1788932348.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-08-10-00-situation-report",
+      "description": "Situation Report",
+      "date_str": "2026-09-08",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1788845354.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-08-10-00-drought-situation-report",
+      "description": "Drought Situation Report",
+      "date_str": "2026-09-08",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1788845374.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-04-10-00-situation-report",
+      "description": "Situation Report",
+      "date_str": "2026-09-04",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1788501891.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-04-10-00-drought-situation-report",
+      "description": "Drought Situation Report",
+      "date_str": "2026-09-04",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1788501914.pdf",
+      "analyzed": false
+    }
+  ],
+  "n_docs_with_pdfs": 290,
+  "n_docs_with_text": 290,
+  "n_docs_with_tabular": 289,
+  "date_str_min": "2020-01-22",
+  "date_str_max": "2026-09-13",
+  "langs": [
+    "und"
+  ],
+  "dataset_size": 108703118
 }

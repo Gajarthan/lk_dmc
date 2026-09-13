@@ -1,3 +1,11 @@
 # Situation reports
 
-Initialized empty. The scheduled pipeline writes reports to `data/lk_dmc_situation_reports`.
+Reports on heavy rain, wind, lightning, and other disaster impacts.
+
+Documents: **2,685**
+
+Date range: 2020-01-22 to 2026-09-13
+
+Source: [Disaster Management Centre](https://www.dmc.gov.lk).
+
+See `summary.json` and `docs_all.tsv` for the generated index.
