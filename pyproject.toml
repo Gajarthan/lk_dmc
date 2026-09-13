@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lk-dmc"
+version = "2.0.0"
+description = "Collect and publish Sri Lankan disaster management reports"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4==4.15.0",
+    "requests==2.34.2",
+    "pdfplumber==0.11.10",
+    "huggingface-hub==1.31.0",
+]
+
+[project.scripts]
+dmc = "dmc.cli:main"
+
+[dependency-groups]
+dev = ["pytest==9.1.1", "ruff==0.16.7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
