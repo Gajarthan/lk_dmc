@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "pages": 5,
+  "pages_without_text": [
+    3,
+    5
+  ],
+  "tables": 3
+}
