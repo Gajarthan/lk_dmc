@@ -1,0 +1,46 @@
+Islandwide Water Level Situation in Major Rivers
+DATE : 26-Sep-2019 TIME : 6:30 PM
+.
+Gauging Station Water Rainfall
+Water Water Level
+Minor Major Level in Last
+River Catchment Alert Level at Remarks Rising or
+Station Cordinate Unit Flood Flood before 3 hrs in
+Area (km2) Level 3.00 pm Falling
+Level Level 1hr mm
+6° 40' 43.2'' N
+Ratnapura 603 m 5.20 7.50 9.50 2.20 2.12 Normal 0.0
+80° 23' 49.8'' E
+6° 43' 54'' N
+Ellagawa 1393 m 10.00 10.70 12.20 7.18 7.10 Normal 0.0
+80° 13' 4.2'' E
+Kalu Ganga
+(RB 03) 6° 37' 50.3'' N
+Millakanda 780 m 5.00 6.50 8.00 7.78 7.75 Minor Flood Falling 0.0
+80° 9' 37.7'' E
+6° 36' 51.9'' N
+Putupaula 2598 m 3.00 4.00 5.00 3.01 3.00 Alert Falling 0.0
+80° 3' 44.2'' E
+6° 20' 33.3'' N
+Tawalama 377 m 4.00 4.50 6.10 2.64 2.64 Normal 0.0
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) 6° 10' 25'' N
+Baddegama 749 m 3.50 4.00 5.00 5.01 5.00 Major Flood Falling 0.0
+80° 10' 33.1'' E
+6° 12' 48.2'' N
+Pitabeddara 310 m 3.25 4.00 5.00 1.62 1.61 Normal 0.0
+80° 28' 34.5'' E
+Nilwala
+6° 08' 00'' N
+Ganga P anadugama 445 m 5.00 6.00 6.50 6.17 6.15 Minor Flood Falling 0.0
+80° 29' 00'' E
+(RB 12)
+6° 14' 11.8'' N
+Urawa 59 m 2.50 3.00 4.00 0.92 0.91 Normal 0.0
+80° 34' 18'' E
+Attanagalu 7° 7' 0'' N
+Dunamale 153 m 3.30 4.40 5.50 3.08 3.02 Normal 0.0
+Oya (RB 103) 80° 4' 54.5'' E
+Prepared by : P.A.G.Gayampath
+Checked by : D.A.Somawickrama Eng.R.M.M.R.Alawathugoda
+Director of Irrigation (Hydrology)

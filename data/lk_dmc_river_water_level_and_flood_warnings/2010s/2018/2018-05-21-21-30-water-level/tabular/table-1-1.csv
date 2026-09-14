@@ -1,0 +1,70 @@
+River,Gauging Station,,,,,,,"Water
+Level
+before
+1hr","Water
+Level at
+9.00 pm",Remarks,"Water
+Level
+Rising or
+Falling","Rainfall
+last 6
+hours
+(mm)"
+,Station,Cordinate,"Catchment
+Area (km2)",Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,
+"Kelani Ganga
+(RB 01)",N' Street,"6° 57' 35'' N
+79° 52' 36.6'' E",2085,ft,4.00,5.00,7.00,5.00,4.90,Alert,Falling,
+,Hanwella,"6° 54' 39.38'' N
+80° 05' 3.16'' E",1782,m,7.00,8.00,10.00,8.17,8.23,Flood,Rising,9.2
+,Glencourse,"6° 58' 25'' N
+80° 11' 3'' E",1463,m,15.00,16.50,19.00,17.68,17.80,Flood,Rising,14.2
+,Holombuwa,"7° 11' 6.6'' N
+80° 15' 53.3'' E",155,m,3.00,3.40,5.00,5.66,5.25,Flood,Falling,7.3
+,Deraniyagala,"6° 55' 23.23'' N
+80° 20' 20.3'' E",183,m,4.80,5.80,6.40,4.72,4.14,Normal,,46.7
+,Kitulgala,"6° 59' 25'' N
+80° 24' 50'' E",383,m,2.00,3.00,5.00,1.91,1.79,Normal,,28.7
+,Norwood,"6° 50' 8.32'' N
+80° 36' 52.75'' E",97,m,1.50,2.00,2.15,2.30,2.25,Flood,Falling,5.9
+"Kalu Ganga
+(RB 03)",Ratnapura,"6° 40' 43.2'' N
+80° 23' 49.8'' E",603,m,5.20,7.50,9.50,8.98,8.99,Flood,Rising,45.2
+,Ellagawa,"6° 43' 54'' N
+80° 13' 4.2'' E",1393,m,10.00,10.70,12.20,10.32,10.35,Alert,Rising,26.9
+,Millakanda,"6° 37' 50.3'' N
+80° 9' 37.7'' E",780,m,5.00,6.50,8.00,8.90,9.00,Flood,Rising,11.0
+,Putupaula,"6° 36' 51.9'' N
+80° 3' 44.2'' E",2598,m,3.00,4.00,5.00,3.45,3.48,Alert,Rising,0.0
+"Gin Ganga
+(RB 09)",Tawalama,"6° 20' 33.3'' N
+80° 19' 55.2'' E",377,m,4.25,4.50,6.10,4.89,4.72,Flood,Falling,4.9
+,Baddegama,"6° 10' 25'' N
+80° 10' 33.1'' E",749,m,3.50,4.00,5.00,4.22,4.24,Flood,Rising,8.2
+"Nilwala
+Ganga
+(RB 12)",Pitabeddara,"6° 12' 48.2'' N
+80° 28' 34.5'' E",310,m,3.00,4.00,5.00,2.60,2.65,Normal,,19.9
+,P anadugama,"6° 08' 00'' N
+80° 29' 00'' E",445,m,5.00,6.00,6.50,6.68,6.68,Flood,,0.0
+,Urawa,"6° 14' 11.8'' N
+80° 34' 18'' E",59,m,2.50,3.00,4.00,1.90,2.01,Normal,,0.0
+"Mahaweli
+Ganga
+(RB 60)",Peradeniya,"7° 16' 3'' N
+80° 36' 30'' E",1168,m,5.00,7.00,9.00,7.96,7.75,Flood,Falling,29.5
+,Nawalapitiya,"7° 2' 55'' N
+80° 32' 3'' E",176,m,3.00,4.00,4.50,4.06,3.70,Alert,Falling,23.8
+"Maha Oya
+(RB 102)",Badalgama,"7° 18' 3.3'' N
+79° 58' 50'' E",1360,ft,1.00,5.00,16.00,8.20,8.70,Flood,Rising,2.5
+,Giriulla,"7° 19' 30'' N
+80° 6' 53.3'' E",1192,m,5.00,6.00,6.50,7.72,8.02,Flood,Rising,0.3
+"Attanagalu
+Oya (RB 103)",Dunamale,"7° 7' 0'' N
+80° 4' 54.5'' E",153,m,3.30,4.40,5.50,5.37,5.37,Flood,,0.3

@@ -1,0 +1,79 @@
+Islandwide Water Level Situation in Major Rivers
+DATE : 21-May-2018 TIME : 09.30 pm
+.
+Gauging Station Water Water Rainfall
+Water
+Minor Major Level Level last 6
+River Catchment Alert Level at Remarks
+Station Cordinate Unit Flood Flood before Rising or hours
+Area (km2) Level 9.00 pm
+Level Level 1hr Falling (mm)
+6° 57' 35'' N
+N' Street 2085 ft 4.00 5.00 7.00 5.00 4.90 Alert Falling
+79° 52' 36.6'' E
+6° 54' 39.38'' N
+Hanwella 1782 m 7.00 8.00 10.00 8.17 8.23 Flood Rising 9.2
+80° 05' 3.16'' E
+6° 58' 25'' N
+Glencourse 1463 m 15.00 16.50 19.00 17.68 17.80 Flood Rising 14.2
+80° 11' 3'' E
+Kelani Ganga 7° 11' 6.6'' N
+Holombuwa 155 m 3.00 3.40 5.00 5.66 5.25 Flood Falling 7.3
+(RB 01) 80° 15' 53.3'' E
+6° 55' 23.23'' N
+Deraniyagala 183 m 4.80 5.80 6.40 4.72 4.14 Normal 46.7
+80° 20' 20.3'' E
+6° 59' 25'' N
+Kitulgala 383 m 2.00 3.00 5.00 1.91 1.79 Normal 28.7
+80° 24' 50'' E
+6° 50' 8.32'' N
+Norwood 97 m 1.50 2.00 2.15 2.30 2.25 Flood Falling 5.9
+80° 36' 52.75'' E
+6° 40' 43.2'' N
+Ratnapura 603 m 5.20 7.50 9.50 8.98 8.99 Flood Rising 45.2
+80° 23' 49.8'' E
+6° 43' 54'' N
+Ellagawa 1393 m 10.00 10.70 12.20 10.32 10.35 Alert Rising 26.9
+Kalu Ganga 80° 13' 4.2'' E
+(RB 03) 6° 37' 50.3'' N
+Millakanda 780 m 5.00 6.50 8.00 8.90 9.00 Flood Rising 11.0
+80° 9' 37.7'' E
+6° 36' 51.9'' N
+Putupaula 2598 m 3.00 4.00 5.00 3.45 3.48 Alert Rising 0.0
+80° 3' 44.2'' E
+6° 20' 33.3'' N
+Tawalama 377 m 4.25 4.50 6.10 4.89 4.72 Flood Falling 4.9
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) 6° 10' 25'' N
+Baddegama 749 m 3.50 4.00 5.00 4.22 4.24 Flood Rising 8.2
+80° 10' 33.1'' E
+6° 12' 48.2'' N
+Pitabeddara 310 m 3.00 4.00 5.00 2.60 2.65 Normal 19.9
+Nilwala 80° 28' 34.5'' E
+6° 08' 00'' N
+Ganga P anadugama 445 m 5.00 6.00 6.50 6.68 6.68 Flood 0.0
+80° 29' 00'' E
+(RB 12)
+6° 14' 11.8'' N
+Urawa 59 m 2.50 3.00 4.00 1.90 2.01 Normal 0.0
+80° 34' 18'' E
+7° 16' 3'' N
+Mahaweli Peradeniya 1168 m 5.00 7.00 9.00 7.96 7.75 Flood Falling 29.5
+80° 36' 30'' E
+Ganga
+7° 2' 55'' N
+(RB 60) Nawalapitiya 176 m 3.00 4.00 4.50 4.06 3.70 Alert Falling 23.8
+80° 32' 3'' E
+7° 18' 3.3'' N
+Badalgama 1360 ft 1.00 5.00 16.00 8.20 8.70 Flood Rising 2.5
+Maha Oya 79° 58' 50'' E
+(RB 102) 7° 19' 30'' N
+Giriulla 1192 m 5.00 6.00 6.50 7.72 8.02 Flood Rising 0.3
+80° 6' 53.3'' E
+Attanagalu 7° 7' 0'' N
+Dunamale 153 m 3.30 4.40 5.50 5.37 5.37 Flood 0.3
+Oya (RB 103) 80° 4' 54.5'' E
+Prepared by : K.G.D.C.Dissanayake
+Checked by : K.A.Amarasiri
+Eng.R.M.M.R.Alawathugoda
+Director (Hydrology)

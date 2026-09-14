@@ -1,0 +1,51 @@
+lslandwide Watef Level Situation in Maior Rivers
+DATE:
+26-Oct-2018 TIME : 09.30 AM
+Gauging Station
+Water Water
+Water
+River Station Cordinate Catchment Unit Alert M Flo in o o d r F M lo a o jo d r b L e e f v o e re l Level at Remarks Ri L s e in v g e l or
+Area (kmz) Level Ldryel Level thr 9.00 am Falling
+N'Street 79 6 " " 5 5 2 7 '. '3 36 5 . " 6 " N E 2085 ft 4.00 5.00 7.00 0.90 0.70 Normal
+Hanwella 6 8 0 0 0 5 0 4' 5 3 ' 9 3 . 3 .t 9 6 " , 'F N 1782 m 7.00 8.00 {0.00 2.70 2.66 Normal
+Glencourse 6 8 0 0 0 5 1 8' 1 2 ' 5 3 " " N E 1463 m 15.00 16.50 19.00 10.36 10.30 Normal
+Kel ( a R n B iG 0 a 1 n ) ga Holombuwa 80 7 0 " 1 I1 5 ', '5 6 3 .6 .3 " " N E 155 m 3.00 3.40 5.00 0.77 0.77 Normal
+Deraniyagala 6 8 0 0 0 5 5 2 ' 0 ,2 ' 3 2 . n 2 3 3 " " N F 183 m 4.80 5.80 6.40 0.86 o.82 Normal
+Kitulgala 8 6 0 " '2 5 4 9 ' ', , 2 5 5 0 " " N E 383 m 3.00 4.00 6.00 1.81 1.82 Normal
+Norwood 80 6 0 0 3 5 6 0 ' ' 9 5 . 2 3 2 78 " " N F 97 m 1.50 2.00 2.15 1.42 1.30 Normal
+Ratnapura 8 6 0 " 0 4 2 0 3 ' ' 4 ,4 3 9 . _ 2 g " ', N F 603 m 5.20 7.50 9.50 2.60 2.51 Normal
+Kalu Ganga Ellagawa 8 6 0 0 0 4 1 3 3 ' ' , 5 4 4 .2 " * N E 1393 m 10.00 10.70 12.20 5.97 5.98 Normal
+(RB 03) Millakanda 6 8 0 0 0 3 9 7 ' ' 5 3 0 7 . . 3 7* " N E 780 m 5.00 6.50 8.00 4.99 5.00 AIEft Rising
+Putupaula 6 8 0 0 0 3 6 3 ' ' t 5 L 1 . t 9 d " N tr 2598 m 3.00 4.00 5.00 1.20 1.14 Normal
+Tawalama .\ 6" 20'33.3" N
+Gin Ganga 800 19'55.2" E 377 m 4.25 4.50 5.10 2.28 2.24 Normal
+(RB 0e) Baddegama 80 6 " 0 l 1 o 0 '3 '2 3 5 " , 1 N " F 749 m 3.50 4.00 5.00 3.01 3.01 Normal
+Nilwala Pitabeddara 8 6 0 " '2 12 8 ' ' , 3 49 4 . . 2 5 " " N E 310 m 3.25 4.00 5.00 1.37 1.36 Normal
+( G R a B n 1 g 2 a ) Panadugama 8 6 0 0 0 0 2 g 9 '0 '0 0 0 " " N E 445 m 5.00 6.00 6.50 4.35 \ 4.35 Normal
+Urawa 6 R 0 O o 1 4 ? ', r . 1 . 1 ,l . n 9 rr " F N 59 m 2.50 3.00 4.00 1.08 1.05 Normal
+Tanamalwila 5 8 0 1 0 2 8 g ' ' 2 5. . 9 9 " " N E 749 m 4.00 5.00 5.50 1.40 1.38 Normal
+Ki ( r R in B d i 2 O 2) ya Wellawaya 6 8, " f o 4 6 2 , ' .3 L 3 /, . 3 E " " N F 172 m 4.40 5.40 5.90 1.06 1.06 Normal
+Kuda Oya 6 8 0 1 0 3 1 0 ' 7 2 ', 9 2 . l 9 lu " F N 291 ft 20.00 25.00 26.00 3.20 3.15 Normal
+Ma ( d R u B ru 5 4 O ) ya Padiyatalawa 8 7 1 0 " 2 1 3 1' ' 3 0 0 " " N E 159 m 4.00 4.50 6.00 0.84 0.80 Normal
+K O u y m a b (R uk B k a 31 n ) Nakkala 8 6 1 " 0 5 1 3 7 '4 '.4 2 9 .4 .3 " " N E 216 m 5.00 6.00 7.50 1.20 1.20 Normal
+Heda 3 O 6 y ) a (RB Siyambalanduwa 8 6 1 0 " 5 3 4 2 '1 '4 6 4 .5 .4 " " N E 295 m 4.50 5.00 5.60 0.81 0.80 Normal
+Peradeniya 80 7 0 0 3 16 6 ', '3 -3 0 " " N E 1168 m 5.00 7.00 9.00 3.42 3.46 Normal
+Nawalapitiya 8 7 0 " 0 2 3 '5 2 5 '3 " " N E 176 IN 3.00 4.00 4.50 1.32 {.31 Normal
+Mahaweli Weragantota 7" 19'0" N 4092 m 5.00 6.00 8.00 -0.87 -0.80 Normal
+Ganga 800 59' 19.3" E
+(RB 60) Manampitiya 7 8 " lo 5 4 E '. ' 5 , 3 lo .3 " " F N 7418 m 3.50 3.70 4.00 1.01 1.00 Normal
+Taldena 8 7 1 " 0 5 2 '2 '.5 6 3 .7 3 " " N F 276 m 3.00 4.00 5.00 1.05 1.08 Normal
+Calidonia A 6 n 0 o 5 a 4 t ' t 8 n .3 n " 'r N F 148 m 1.23 1.21
+Y (R an B O 67 ya ) Horowpatana 8 8 0 0 0 3 5 4 2 ' ' , , 3 4 9 3 .4 .2 4 5 " " N E 720 m 6too 7.30 10.44 2.71 2.71 Normal
+Mal ( w R a B th 9 u 0 ) Oya Iantirimale 8 8 0 0 '1 35 6 ', ' 3 1 1 3 , . 1 5 4 7" " N E 2116 m 6.75 7.25 1.71 1.70 Normal
+M (R e B e O 95 y ) a Galgamuwa 8 7 0 0 0 5 1 8 5 '1 '1 3 9 . . 3 3 " " N E 299 m 4.84 5.94 7.00 0.64 0.64 Normal
+Maha Oya (RB Badalgama 7 7 9 " 0 1 5 8 8 ', ' 3 5 . 0 3 r " , N F 1360 ft 1.00 5.00 16.00 -6.20 -6.25 Normal
+ta
+102) Giriulla 8 7 00 " 1 6 9 '5 '. 3 30 ? " " N tr 1192 m 5.00 6.00 6.50 I n*u:ir :.,llit2' i:Npr{F-Ir,t"r t f itutljit{,} s
+O A y f a ta ( n R a B g a 1 lu 03) Dunamale 80 7 0 0 4 7 '5 '0 4 " .5 N " E 153 m 3.30 4.40 s.50 3.30 p.Hr li; , t :, l r. l ,i i . f :1 S . fl t t i * i,,
+i}rit: t,_"9affi/U,.kA
+{
+Prepared by P.A.G.Gayampath
+checked by : D.A.SomawicKrama i
+fns.R.r'r.rul.RiAhry:itt+r9qq?. . ", .( Q.i,FO 4 M
+),i rector (Hydrology) ,-T
