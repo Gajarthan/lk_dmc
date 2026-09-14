@@ -1,0 +1,139 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 13-Aug-2021 TIME : 9:30 AM
+.
+Gauging Station Water Water
+Water 24 Hr RF
+Minor Major Level Level
+River Basin Tributory/River Catchment Alert Level at Remarks in mm at
+Station Cordinate Unit Flood Flood before Rising or
+Area (km2) Level 9:00 am 9:00 am
+Level Level 1hr Falling
+6° 57' 35'' N
+Kelani Ganga N' Street 2085 ft 4.00 5.00 7.00 2.70 2.35 Normal -
+79° 52' 36.6'' E
+6° 54' 39.38'' N
+Kelani Ganga Hanwella 1782 m 7.00 8.00 10.00 4.99 4.77 Normal 4.6
+80° 05' 3.16'' E
+6° 58' 25'' N
+Kelani Ganga Glencourse 1463 m 15.00 16.50 19.00 12.07 11.87 Normal 7.7
+80° 11' 3'' E
+Kelani Ganga 6° 59' 25'' N
+Kelani Ganga Kitulgala 383 m 3.00 4.00 6.00 2.23 2.05 Normal 61.8
+(RB 01) 80° 24' 50'' E
+7° 11' 6.6'' N
+Gurugoda Oya Holombuwa 155 m 3.00 3.40 5.00 0.88 0.87 Normal 5.3
+80° 15' 53.3'' E
+6° 55' 23.23'' N
+Seethawaka Ganga Deraniyagala 183 m 4.80 5.80 6.40 1.30 1.25 Normal 22.5
+80° 20' 20.3'' E
+6° 50' 8.32'' N
+Kehelgamu Oya Norwood 97 m 1.50 3.00 4.50 0.69 0.68 Normal 35.4
+80° 36' 52.75'' E
+6° 36' 51.9'' N
+Kalu Ganga Putupaula 2598 m 3.00 4.00 5.00 1.55 1.54 Normal 1.4
+80° 3' 44.2'' E
+6° 43' 54'' N
+Kalu Ganga Ellagawa 1393 m 10.00 10.70 12.20 8.12 8.13 Normal 15.7
+80° 13' 4.2'' E
+Kalu Ganga 6° 40' 43.2'' N
+Kalu Ganga Ratnapura 603 m 5.20 7.50 9.50 3.96 3.85 Normal 20.1
+(RB 03) 80° 23' 49.8'' E
+6° 30' 49'' N 80°
+Maguru Ganga Magura 152 m 4.00 6.00 7.50 1.59 1.56 Normal 7.4
+14' 36'' E
+Kalawellawa 6° 37' 50.3'' N
+Kuda Ganga 780 m 5.00 6.50 8.00 3.73 3.71 Normal 4.4
+(Millakanda) 80° 9' 37.7'' E
+6° 20' 33.3'' N
+Gin Ganga Tawalama 377 m 4.00 6.00 7.50 1.37 1.36 Normal 3.8
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) 6° 10' 25'' N
+Gin Ganga Baddegama 749 m 3.50 4.00 5.00 1.04 1.02 Normal 0.0
+80° 10' 33.1'' E
+6° 00' 40'' N
+Nilwala Ganga Thalgahagoda 852 m 0.43 0.40 0.0
+80° 31' 35'' E
+6° 08' 00'' N
+Nilwala Ganga Panadugama 445 m 5.00 6.00 7.50 2.60 2.59 Normal 0.0
+Nilwala Ganga 80° 29' 00'' E
+(RB 12) 6° 12' 48.2'' N
+Nilwala Ganga Pitabeddara 310 m 4.00 5.00 6.50 0.43 0.42 Normal 0.9
+80° 28' 34.5'' E
+6° 14' 11.8'' N
+Urubokka Ganga Urawa 59 m 2.50 4.00 6.00 0.11 0.11 Normal 1.8
+80° 34' 18'' E
+Walawe Ganga 6° 20′ 43″ N
+Walawe Ganga Moraketiya 1542 m 0.70 0.71 0.0
+(RB 18) 80° 54′ 05″ E
+6° 28' 5.9'' N
+Kirindi Oya Tanamalwila 749 m 4.00 5.00 5.50 -0.02 -0.02 Normal 0.0
+81° 8' 2.8'' E
+Kirindi Oya 6° 42' 33.3'' N
+Kirindi Oya Wellawaya 172 m 4.40 5.40 5.90 0.49 0.48 Normal 0.0
+(RB 22) 81° 6' 41.6'' E
+6° 31' 28.8'' N
+Kuda Oya Kuda Oya 291 m 6.90 8.40 8.80 -0.33 -0.33 Normal 0.0
+81° 07' 24'' E
+Menik Ganga 6° 24' 60.0'' N
+Menik Ganga Katharagama 796.8 m 1.06 1.06 0.0
+(RB 26) 81° 19' 57'' E
+Kumbukkan Oya 6° 53' 42.4'' N
+Kumbukkan Oya Nakkala 216 m 5.00 6.00 7.50 0.64 0.64 Normal 0.0
+(RB 31) 81° 17' 49.3'' E
+Heda Oya 6° 54' 16.5'' N
+Heda Oya Siyambalanduwa 295 m 4.50 5.00 5.60 0.35 0.35 Normal 0.0
+(RB 36) 81° 32' 44.4'' E
+Maduru Oya 7° 23' 0'' N
+Maduru Oya Padiyatalawa 159 m 4.00 4.50 6.00 0.03 0.03 Normal 0.0
+(RB 54) 81° 11' 30'' E
+7° 54' 53.3'' N
+Manampitiya ( Old) 7418 m 3.50 5.00 6.00 -0.92 -0.94 Normal 0.0
+81° 5' 10'' E
+Mahaweli Ganga
+7° 54' 53.3'' N
+Manampitiya (HMIS) 7418 m 4.65 6.15 7.15 0.22 0.20 Normal 0.0
+81° 5' 10'' E
+7° 19' 0'' N
+Mahaweli Ganga Weragantota 4092 m 5.00 6.00 8.00 -2.71 -2.83 Normal 0.0
+80° 59' 18.3'' E
+7° 16' 3'' N
+Mahaweli Ganga Peradeniya 1168 m 5.00 7.00 9.00 4.01 4.03 Normal 39.6
+Mahaweli Ganga 80° 36' 30'' E
+(RB 60)
+7° 2' 55'' N
+Mahaweli Ganga Nawalapitiya 176 m 3.00 4.00 4.50 1.95 1.93 Normal 127.8
+80° 32' 3'' E
+7° 5' 26.7'' N
+Badulu Oya Taldena (HMIS) 276 m 3.00 4.00 5.00 0.24 0.25 Normal 0.0
+81° 2' 53.3'' E
+6° 54' 8.3'' N
+Agra Oya Calidonia 148 m - - - 0.76 0.76 Normal 5.8
+80° 42' 00'' E
+Yan Oya 8° 34' 39.44'' N
+Yan Oya Horowpatana 720 m 6.00 7.50 10.50 1.59 1.59 Normal 0.0
+(RB 67) 80° 52' 43.25'' E
+Maa Oya (RB 8° 43' 19'' N
+Mukunu Oya Yakawewa 117 m 0.41 0.41 0.0
+69) 80° 40' 50'' E
+Malwathu Oya 8° 35' 13.57'' N
+Malwathu Oya Tantirimale 2116 m 6.75 7.25 - 0.56 0.56 Normal 0.0
+(RB 90) 80° 16' 31.14'' E
+Mee Oya 7° 58' 13.3'' N
+Mee Oya Galgamuwa 299 m 4.84 5.94 8.00 0.11 0.11 Normal 0.0
+(RB 95) 80° 15' 18.3'' E
+Deduru Oya 7° 43' 36'' N
+Deduru Oya Ridi bendi Ella (Dam) 1370 m _ _ _ 1.08 1.08 0.0
+(RB 99) 80° 15' 48'' E
+7° 18' 3.3'' N
+Maha Oya Badalgama 1360 m 5.00 6.20 9.60 3.93 3.65 Normal 0.0
+Maha Oya 79° 58' 50'' E
+(RB 102) 7° 19' 30'' N
+Maha Oya Giriulla 1192 m 5.50 6.50 7.50 2.05 1.96 Normal 0.0
+80° 6' 53.3'' E
+Attanagalu Oya 7° 7' 0'' N
+Attanagalu Oya Dunamale 153 m 3.30 4.40 5.50 0.76 0.75 Normal 0.0
+(RB 103) 80° 4' 54.5'' E
+Prepared by : P.A.G.Gayampath (H.A.)
+Checked by : K.A.Amarasiri (H.D.S.)
+Eng.S.P.C.Sugeeshwara
+Director (Hydrology and Disaster Management)

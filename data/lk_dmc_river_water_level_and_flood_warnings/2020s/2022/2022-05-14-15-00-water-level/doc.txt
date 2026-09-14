@@ -1,0 +1,46 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 14-May-2022 TIME : 3:30 PM
+Gauging Station Water
+Water Water 06 Hr RF
+Minor Major Level
+River Basin Tributory/River Catchment Alert Level at Remarks Level Rising in mm at
+Station Cordinate Unit Flood Flood before
+Area (km2) Level 3:00 pm or Falling 3:00 pm
+Level Level 1hr
+6° 36' 51.9'' N
+Kalu Ganga Putupaula 2598 m 3.00 4.00 5.00 3.28 3.31 Alert Rising 5.0
+80° 3' 44.2'' E
+6° 43' 54'' N
+Kalu Ganga Ellagawa 1393 m 10.00 10.70 12.20 10.04 10.10 Alert Rising 36.4
+80° 13' 4.2'' E
+Kalu Ganga 6° 40' 43.2'' N
+Kalu Ganga Ratnapura 603 m 5.20 7.50 9.50 7.88 7.89 Minor Flood Rising 42.0
+(RB 03) 80° 23' 49.8'' E
+6° 30' 49'' N
+Maguru Ganga Magura 152 m 4.00 6.00 7.50 5.45 5.45 Alert 7.8
+80° 14' 36'' E
+Kalawellawa 6° 37' 50.3'' N
+Kuda Ganga 780 m 5.00 6.50 8.00 7.55 7.61 Minor Flood Rising 15.4
+(Millakanda) 80° 9' 37.7'' E
+6° 20' 33.3'' N
+Gin Ganga Tawalama 377 m 4.00 6.00 7.50 4.44 4.34 Alert Falling 42.2
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) 6° 10' 25'' N
+Gin Ganga Baddegama 749 m 3.50 4.00 5.00 3.60 3.63 Alert Rising 14.3
+80° 10' 33.1'' E
+6° 00' 40'' N
+Nilwala Ganga Thalgahagoda 852 m 1.40 1.70 2.80 1.66 1.69 Alert Rising 3.3
+80° 31' 35'' E
+6° 08' 00'' N
+Nilwala Ganga Panadugama 445 m 5.00 6.00 7.50 6.20 6.20 Minor Flood 3.9
+Nilwala Ganga 80° 29' 00'' E
+(RB 12) 6° 12' 48.2'' N
+Nilwala Ganga Pitabeddara 310 m 4.00 5.00 6.50 2.47 2.52 Normal 20.0
+80° 28' 34.5'' E
+6° 14' 11.8'' N
+Urubokka Ganga Urawa 59 m 2.50 4.00 6.00 1.52 1.58 Normal 28.0
+80° 34' 18'' E
+Prepared by : K.G.D.C.Dissanayake ( H.A.)
+Checked by : W.D.Harshani (Snr. H.A. )
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

@@ -1,0 +1,43 @@
+River Basin,Tributory/River,Gauging Station,,,,,,,"Water
+Level
+before
+1hr","Water
+Level at
+3:00 pm",Remarks,"Water
+Level
+Rising or
+Falling","6 Hr RF in
+mm at 3:00
+pm"
+,,Station,Cordinate,"Catchment
+Area (km2)",Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,
+"Kalu Ganga
+(RB 03)
+Gin Ganga
+(RB 09)",Kalu Ganga,Ratnapura,"6° 40' 43.2'' N
+80° 23' 49.8'' E",603,m,5.20,7.50,9.50,5.37,5.33,Alert,Falling,20.1
+,Maguru Ganga,Magura,"6° 30' 49'' N
+80° 14' 36'' E",152,m,4.00,6.00,7.50,5.36,5.39,Alert,Rising,44.2
+,Kuda Ganga,"Kalawellawa
+(Millakanda)","6° 37' 50.3'' N
+80° 9' 37.7'' E",780,m,5.00,6.50,8.00,7.25,7.31,Minor Flood,Rising,47.9
+,Kalu Ganga,Putupaula,"6° 36' 51.9'' N
+80° 3' 44.2'' E",2598,m,3.00,4.00,5.00,3.07,3.11,Alert,Rising,51.3
+,Gin Ganga,Baddegama,"6° 10' 25'' N
+80° 10' 33.1'' E",749,m,3.50,4.00,5.00,4.09,4.11,Minor Flood,Rising,21.8
+"Nilwala Ganga
+(RB 12)",Nilwala Ganga,Thalgahagoda,"6° 00' 40'' N
+80° 31' 35'' E",852,m,1.40,1.70,2.80,1.66,1.66,Alert,,16.5
+,Nilwala Ganga,Panadugama,"6° 08' 00'' N
+80° 29' 00'' E",445,m,5.00,6.00,7.50,5.55,5.59,Alert,Rising,18.3
+"Maha Oya
+(RB 102)",Maha Oya,Badalgama,"7° 18' 3.3'' N
+79° 58' 50'' E",1360,m,5.00,6.20,9.60,5.58,5.61,Alert,Rising,6.2
+"Attanagalu Oya
+(RB 103)",Attanagalu Oya,Dunamale,"7° 7' 0'' N
+80° 4' 54.5'' E",153,m,3.30,4.40,5.50,5.00,5.02,Minor Flood,Rising,17.5

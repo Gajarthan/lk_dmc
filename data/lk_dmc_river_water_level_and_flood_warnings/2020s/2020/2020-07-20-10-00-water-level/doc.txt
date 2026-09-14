@@ -1,0 +1,120 @@
+Islandwide Water Level Situation in Major Rivers
+DATE : 20-Jul-2020 TIME : 09.30 AM
+.
+Gauging Station Water
+Water Water Level
+Minor Major Level
+River Basin Tributory/River Catchment Alert Level at Remarks Rising or
+Station Cordinate Unit Flood Flood before
+Area (km2) Level Level Level 1hr 9.00 am Falling
+6° 57' 35'' N
+Kelani Ganga N' Street 2085 ft 4.00 5.00 7.00 1.00 0.90 Normal
+79° 52' 36.6'' E
+6° 54' 39.38'' N
+Kelani Ganga Hanwella 1782 m 7.00 8.00 10.00 4.26 4.47 Normal
+80° 05' 3.16'' E
+6° 58' 25'' N
+Kelani Ganga Glencourse 1463 m 15.00 16.50 19.00 13.36 13.23 Normal
+80° 11' 3'' E
+Kelani Ganga 6° 59' 25'' N
+Kelani Ganga Kitulgala 383 m 3.00 4.00 6.00 1.63 1.63 Normal
+(RB 01) 80° 24' 50'' E
+7° 11' 6.6'' N
+Gurugoda Oya Holombuwa 155 m 3.00 3.40 5.00 1.13 1.11 Normal
+80° 15' 53.3'' E
+6° 55' 23.23'' N
+Seethawaka Ganga Deraniyagala 183 m 4.80 5.80 6.40 1.40 1.31 Normal
+80° 20' 20.3'' E
+6° 50' 8.32'' N
+Kehelgamu Oya Norwood 97 m 1.50 3.00 4.50 0.65 0.65 Normal
+80° 36' 52.75'' E
+6° 36' 51.9'' N
+Kalu Ganga Putupaula 2598 m 3.00 4.00 5.00 0.58 0.60 Normal
+80° 3' 44.2'' E
+6° 43' 54'' N
+Kalu Ganga Ellagawa 1393 m 10.00 10.70 12.20 5.63 5.65 Normal
+Kalu Ganga 80° 13' 4.2'' E
+(RB 03) 6° 40' 43.2'' N
+Kalu Ganga Ratnapura 603 m 5.20 7.50 9.50 1.64 1.58 Normal
+80° 23' 49.8'' E
+Kalawellawa 6° 37' 50.3'' N
+Kuda Ganga 780 m 5.00 6.50 8.00 2.67 2.88 Normal
+(Millakanda) 80° 9' 37.7'' E
+6° 20' 33.3'' N
+Gin Ganga Tawalama 377 m 4.00 6.00 7.50 1.61 1.70 Normal
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) 6° 10' 25'' N
+Gin Ganga Baddegama 749 m 3.50 4.00 5.00 1.49 1.59 Normal
+80° 10' 33.1'' E
+6° 08' 00'' N
+Nilwala Ganga Panadugama 445 m 5.00 6.00 7.50 2.17 2.17 Normal
+80° 29' 00'' E
+Nilwala Ganga 6° 12' 48.2'' N
+Nilwala Ganga Pitabeddara 310 m 4.00 5.00 6.50 0.24 0.24 Normal
+(RB 12) 80° 28' 34.5'' E
+6° 14' 11.8'' N
+Urubokka Ganga Urawa 59 m 2.50 4.00 6.00 -0.05 -0.05 Normal
+80° 34' 18'' E
+Walawe Ganga Walawe Ganga Bolana 6° 9′ 35″ N m 0.79 0.77
+(RB 18) 81° 0′ 23″ E
+6° 28' 5.9'' N
+Kirindi Oya Tanamalwila 749 m 4.00 5.00 5.50 0.05 0.04 Normal
+81° 8' 2.8'' E
+Kirindi Oya 6° 42' 33.3'' N
+Kirindi Oya Wellawaya 172 m 4.40 5.40 5.90 0.56 0.55 Normal
+(RB 22) 81° 6' 41.6'' E
+6° 31' 28.8'' N
+Kuda Oya Kuda Oya 291 m 6.90 8.40 8.80 1.18 1.18 Normal
+81° 07' 24'' E
+Kumbukkan Oya 6° 53' 42.4'' N
+Kumbukkan Oya Nakkala 216 m 5.00 6.00 7.50 0.70 0.70 Normal
+(RB 31) 81° 17' 49.3'' E
+Heda Oya 6° 54' 16.5'' N
+Heda Oya Siyambalanduwa 295 m 4.50 5.00 5.60 0.48 0.48 Normal
+(RB 36) 81° 32' 44.4'' E
+Maduru Oya (RB 7° 23' 0'' N
+Maduru Oya Padiyatalawa 159 m 4.00 4.50 6.00 0.13 0.13 Normal
+54) 81° 11' 30'' E
+7° 54' 53.3'' N
+Mahaweli Ganga Manampitiya 7418 m 4.60 4.80 5.10 0.60 0.60 Normal
+81° 5' 10'' E
+7° 19' 0'' N
+Mahaweli Ganga Weragantota 4092 m 5.00 6.00 8.00 -2.78 -2.81 Normal
+80° 59' 18.3'' E
+7° 16' 3'' N
+Mahaweli Ganga Mahaweli Ganga Peradeniya 80° 36' 30'' E 1168 m 5.00 7.00 9.00 1.71 1.68 Normal
+(RB 60) 7° 2' 55'' N
+Mahaweli Ganga Nawalapitiya 176 m 3.00 4.00 4.50 1.17 1.17 Normal
+80° 32' 3'' E
+7° 5' 26.7'' N
+Badulu Oya Taldena 276 m 3.00 4.00 5.00 0.57 0.64 Normal
+81° 2' 53.3'' E
+6° 54' 8.3'' N
+Agra Oya Calidonia 148 m _ _ _ 0.46 0.46 _
+80° 42' 00'' E
+Yan Oya 8° 34' 39.44'' N
+Yan Oya Horowpatana 720 m 6.00 7.30 10.44 1.19 1.19 Normal
+(RB 67) 80° 52' 43.25'' E
+Maa Oya (RB 69) Mukunu Oya Yakawewa m 0.41 0.41
+Malwathu Oya (RB 8° 35' 13.57'' N
+Malwathu Oya Tantirimale 2116 m 6.75 7.25 _ 0.58 0.58 Normal
+90) 80° 16' 31.14'' E
+Mee Oya 7° 58' 13.3'' N
+Mee Oya Galgamuwa 299 m 4.84 5.94 7.00 0.13 0.12 Normal
+(RB 95) 80° 15' 18.3'' E
+Deduru Oya (RB 7° 43' 36'' N 80°
+Deduru Oya Ridi bendi Ella (Dam) 1370 m _ _ _ 0.96 0.96 _
+99) 15' 48'' E
+7° 18' 3.3'' N
+Maha Oya Badalgama 1360 m 5.00 6.20 9.60 2.13 2.15 Normal
+Maha Oya 79° 58' 50'' E
+(RB 102) 7° 19' 30'' N
+Maha Oya Giriulla 1192 m 5.50 6.50 7.50 1.33 1.41 Normal
+80° 6' 53.3'' E
+Attanagalu Oya 7° 7' 0'' N
+Attanagalu Oya Dunamale 153 m 3.30 4.40 5.50 2.18 2.42 Normal
+(RB 103) 80° 4' 54.5'' E
+Prepared by : D.P.M.Alwis (H.A)
+Checked by : D.A.Somawickrama (H.D.S.)
+Eng.S.P.C.Sugeeshwara
+Director (Hydrology)

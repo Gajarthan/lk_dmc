@@ -1,0 +1,51 @@
+lslandwide Water Level & Rainfall Situation in Maior Rivers
+DATE : 14INov-2020 TIME : 09.30AM
+Gauging Station WaterLevel WaterLevel 24HrRFin
+WaterLevelat
+River Basin Tributory/River Catchment Alert Minor Major Remarks
+Station Cordinate Unit FloodLevel FloodLevel before1hr RIS,ng OrFalling mmat9.00am
+Area (km2) Level 9.00 am
+Kelani Ganga N' Street 6°57.35"N 79°52'36.6"E 2085 ft 4.00 5.00 7.00 1.70 1.70 Normal
+Kelani Ganga Hanwella 6° 54' 39.38" N8o°o5'3.16"E 1782 in 7.00 8.00 10.00 2.80 2.70 Normal 18.6
+Kelani Ganga Glencourse 6°58'25"N 80°11'3"E 1463 in 15.00 16.50 19,00 10.34 10.27 Normal 26.4
+Kelani Ganga(RB01) Kelani Ganga Kitulgala 6°59.25"N 8oo24'50''E 383 in 3.00 4.00 6.00 1.66 1.58 Normal 62.7
+Gurugoda Oya Holombuwa 7°11'6.6"N 8oo15.53.3..E 155 in 3.00 3.40 5.00 0.69 0.69 Normal 14.6
+Seethawaka Ganga Deraniyagala 6° 55' 23.23" N8o°2o'20.3"E 183 in 4.80 5.80 6.40 0.62 0.62 Normal 66.1
+Kehelgamu Oya Norwood 6° 50' 8.32" N 8o°36-52.75"E 97 in 1.50 3.00 4.50 0.81 0.81 Normal 2.4
+Kalu Ganga Putupaula 6° 36' 51.9" N 8oo3'44.2''E 2598 in 3.00 4.00 5.00 1.69 1.68 Normal 14.6
+Kalu Ganga EIlagawa 6°43'54"N 8oo13'4.2"E 1393 in 10.00 10.70 12.20 6.74 6.80 Normal 7.1
+Kalu Ganga(RB03)
+Kalu Ganga Ratnapura 6° 40' 43.2" NBoo23.49.8"E 603 in 5.20 7.50 9.50 3.29 3.20 Normal 40.7
+Kuda Ganga Kalawellawa(Millakanda) 6° 37' 50.3" N8o°9.37.7"E 780 in 5.00 6.50 8.00 5.23 5.24 Alert Rising 53.1
+Gin Ganga Tawalama 6° 20' 33.3" N 8o°19.55.2"E 377 in 4.00 6.00 7.50 2.10 2.08 Normal 34.9
+Gin Ganga(RB09)
+Gin Ganga Baddegama 6°10'25"N 8oo10'33.1"E 749 in 3.50 4.00 5.00 2.17 2.17 Normal 6.3
+Nilwala Ganga Panadugama 6°08'oo..N 8oo29'00"E 445 in 5.00 6.00 7.50 4.10 4.13 Normal 19.5
+Nilwala Ganga(RB12) Nilwala Ganga Pitabeddara 6° 12' 48.2" N 80°28'34.5''E 310 in 4.00 5.00 6.50 1.47 1.43 Normal 20.3
+Urubokka Ganga Urawa 6° |4' 11.8" N8o°34'18"E 59 in 2.50 4.00 6.00 0.89 0.85 Normal 19.0
+Walawe Ganga(RB18) Walawe Ganga Moraketiya 6o 9' 35'' N8|°o'23"E in 1.31 1.26 40.2
+Kirindi Oya Tanamalwila 6° 28. 5.9" N8|°8'2.8"E 749 in 4.00 5.00 5.50 0.90 0.84 Normal 19.9
+Kirindi Oya(RB,22) Kirindi Oya Wellawaya 6° 42' 33.3" N 8|°6'41.6"E 172 in 4.40 5.40 5.90 0.63 0.62 Normal 20.7
+Kuda Oya Kuda Oya 6° 31. 28.8" N8|°07'24"E 291 in 6.90 8.40 8.80 1.67 1.65 Normal 21.2
+KumbukkanOya(RB31) Kumbukkan Oya Nakkala 6° 53. 42.4" N 8|°17'49,3..E 216 in 5.00 6.00 7.50 0.74 0.73 Normal 2.5
+Heda Oya(RB36) Heda Oya Siyambalanduwa 6° 54' 16.5" N 8|°32.44.4"E 295 in 4.50 5.00 5.60 0.53 0.53 Normal 0.0
+Maduru Oya(RB54) Maduru Oya Padiyatalawa 7° 23' 0'. N8|°11.30" E 159 in 4.00 4.50 6.00 0.30 0.30 Normal 9.2
+Mahaweli Ganga Manampitiya 7° 54' 53.3" N8|°5'10''E 7418 in 3.50 5.00 6.00 0.75 0.74 Normal 10.1
+Mahaweli Ganga Weragantota 7° |9' o" N 8oo59'18.3"E 4092 in 5.00 6.00 8.00 -2.44 -2.54 Normal 21.5
+MahaweliGanga(RB 60) Mahaweli Ganga Peradeniya 7° |6' 3" N 8oo36'30"E 1168 in 5.00 7.00 9.00 1.50 1.49 Normal 40.0
+Mahaweli Ganga Nawalapitiya 7° 2. 55.. N 8o°32'3"E 176 in 3.00 4.00 4.50 1.02 1.02 Normal 10.4
+Badulu Oya Taldena 7°5'26.7"N 8|°2'53.3"E 276 in 3.00 4.00 5.00 0.70 0.66 Normal 7.1
+Agra Oya Calidonia 6° 54' 8.3" N 8o°42'00''E 148 in - - - 0.62 0.67 - 0.0
+Yan Oya(RB67) Yan Oya Horowpatana 8° 34' 39.44" N8o°52'43.25"E 720 in 6.00 7.30 10.44 1.42 1.42 Normal 4.8
+Maa Oya (RB69) Mukunu Oya Yakawewa 8°43'|9"N 8oo40'50"E in 0.51 0.50 7.0
+Malwathu Oya(RB90) Ma[wathu Oya Tantirimale 8° 35' 13.57" NBoo|6'31.14"E 2116 in 6.75 7.25 - 1.16 1.16 Normal 10.9
+Mee Oya(RB95) Nee Oya Galgamuwa 7° 58' 13.3" NBoo|5'18.3"E 299 in 4.84 5.94 8.00 0.17 0.17 Normal 0.1
+Deduru Oya(RB99) Deduru Oya Ridi bendi Ella.\(Baffl)- 7.:.*4^3:se"`v,NG__Q^_g:15'48''E `~¥`¢=-ap#¢L=~ir=rfei ~JiLr-\ m - --I ,' ±=z,L=::i..*^,fi - - 0.92 0.92 2.5
+-` }btli'8£Y 3:*'ju{.iirl=-.:j I.`Ts,;I `!, i( ij<-,.`. LT`\-;, (:,=j, .t~`'; ,::-I,,--`--,`1t36o.:vt,-•".I:`- • -4 Ji,<`:I I i,,=}
+Maha Oya Badaigae,.:\:+.ti¢;i::;`;J`:1.'::i.`a 6.20 9.60 3.81 3.82 Normal 14.9
+Maha Oya(RB102) 0 t\
+Maha Oya Giriu,,a!i in 5.5'i 6.50 7.50 2.87 2.80 Normal 31.1
+6' 53.3" E
+Attanagalu Oya(RB1031 Attanaga]u Oya Dunamile iE€?&1g\OZ1„N:t3.tjt.a,`+i80°4'54.5"E "f"21,|~6('`153,I/nJt` in 3.3S 4.40 5.50 3.89 3.87 Alert Falling 27.5
+:rheepcakreeddbbyy :i:mGaar:::::thD(:)A) i ` a, Engspcsugeeshwara•;Director(HydrologyandDisasterManagement)!
+E*ISAsngvEFRREAREAcSEREERET

@@ -1,0 +1,44 @@
+River Basin,Tributory/River,Gauging Station,,,,,,,"Water
+Level
+before
+1hr","Water
+Level at
+12:00 Mid
+Night",Remarks,"Water Level
+Rising or
+Falling","15 Hr RF
+in mm at
+12:00 Mid
+Night",,,,
+,,Station,Cordinate,"Catchment
+Area (km2)",Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,,,,,
+,Kalu Ganga,Putupaula,"6° 36' 51.9'' N
+80° 3' 44.2'' E",2598,m,3.00,4.00,5.00,4.13,4.13,Minor Flood,,,,3.0,,
+,Kalu Ganga,Ellagawa,"6° 43' 54'' N
+80° 13' 4.2'' E",1393,m,10.00,10.70,12.20,10.69,10.65,Alert,Falling,5,,,.9,
+"Kalu Ganga
+(RB 03)",Kalu Ganga,Ratnapura,"6° 40' 43.2'' N
+80° 23' 49.8'' E",603,m,5.20,7.50,9.50,5.85,5.79,Alert,Falling,,,3.4,,
+,Maguru Ganga,Magura,"6° 30' 49'' N
+80° 14' 36'' E",152,m,4.00,6.00,7.50,3.72,3.69,Normal,,5,,,.3,
+,Kuda Ganga,"Kalawellawa
+(Millakanda)","6° 37' 50.3'' N
+80° 9' 37.7'' E",780,m,5.00,6.50,8.00,8.40,8.37,Major Flood,Falling,,,4.2,,
+"Gin Ganga
+(RB 09)",Gin Ganga,Tawalama,"6° 20' 33.3'' N
+80° 19' 55.2'' E",377,m,4.00,6.00,7.50,2.80,2.77,Normal,,12.3,,,,
+,Gin Ganga,Baddegama,"6° 10' 25'' N
+80° 10' 33.1'' E",749,m,3.50,4.00,5.00,4.32,4.32,Minor Flood,,7.8,,,,
+,Nilwala Ganga,Thalgahagoda,"6° 00' 40'' N
+80° 31' 35'' E",852,m,1.40,1.70,2.80,1.86,1.85,Minor Flood,Falling,0.0,,,,
+Nilwala Ganga,Nilwala Ganga,Panadugama,"6° 08' 00'' N
+80° 29' 00'' E",445,m,5.00,6.00,7.50,5.44,5.40,Alert,Falling,5,,,.2,
+(RB 12),Nilwala Ganga,Pitabeddara,"6° 12' 48.2'' N
+80° 28' 34.5'' E",310,m,4.00,5.00,6.50,1.61,1.60,Normal,,,1.9,,,
+,Urubokka Ganga,Urawa,"6° 14' 11.8'' N
+80° 34' 18'' E",59,m,2.50,4.00,6.00,0.87,0.87,Normal,,,,3.7,,

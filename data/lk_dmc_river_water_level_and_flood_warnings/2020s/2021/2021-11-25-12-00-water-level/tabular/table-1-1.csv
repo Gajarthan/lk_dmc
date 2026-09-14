@@ -1,0 +1,23 @@
+River Basin,Tributory/River,Gauging Station,,,,,,,"Water
+Level
+before
+1hr","Water
+Level at
+12.00 p.m",Remarks,"Water
+Level Rising
+or Falling","3 Hr RF in
+mm at12:00
+pm"
+,,Station,Cordinate,"Catchment
+Area (km2)",Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,
+"Malwathu Oya
+(RB 90)",Malwathu Oya,Tantirimale,"8° 35' 13.57'' N
+80° 16' 31.14'' E",2116,m,5.00,6.80,7.80,5.65,5.53,Alert,Falling,6.2
+"Deduru Oya
+(RB 99)",Deduru Oya,Ridi bendi Ella (Dam),"7° 43' 36'' N
+80° 15' 48'' E",1370,m,3.30,4.20,4.70,4.45,4.45,Minor Flood,,1.2

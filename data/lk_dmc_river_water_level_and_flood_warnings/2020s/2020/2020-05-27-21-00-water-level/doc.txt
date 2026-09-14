@@ -1,0 +1,76 @@
+Islandwide Water Level Situation in Major Rivers
+DATE : 27-May-2020 TIME : 9.30 PM
+.
+Gauging Station Water
+Water Water Level RF In Last
+Minor Major Level
+River Basin Tributory/River Catchment Alert Level at Remarks Rising or 12 Hrs
+Station Cordinate Unit Flood Flood before
+Area (km2) Level Level Level 1hr 9.00pm Falling (mm)
+Kelani Ganga N' Street 6° 57' 35'' N 2085 ft 4.00 5.00 7.00 1.70 1.60 Normal -
+79° 52' 36.6'' E
+Kelani Ganga Hanwella 6° 54' 39.38'' N 1782 m 7.00 8.00 10.00 4.23 4.18 Normal 0.0
+80° 05' 3.16'' E
+Kelani Ganga Glencourse 6° 58' 25'' N 1463 m 15.00 16.50 19.00 11.21 11.20 Normal 0.6
+80° 11' 3'' E
+Kelani Ganga Kelani Ganga Kitulgala 6° 59' 25'' N 383 m 3.00 4.00 6.00 1.83 1.87 Normal 12.4
+(RB 01) 80° 24' 50'' E
+Gurugoda Oya Holombuwa 7° 11' 6.6'' N 155 m 3.00 3.40 5.00 0.61 0.60 Normal 0.0
+80° 15' 53.3'' E
+Seethawaka Ganga Deraniyagala 6° 55' 23.23'' N 183 m 4.80 5.80 6.40 1.50 1.48 Normal 15.7
+80° 20' 20.3'' E
+Kehelgamu Oya Norwood 6° 50' 8.32'' N 97 m 1.50 3.00 4.50 0.77 0.77 Normal 6.9
+80° 36' 52.75'' E
+Kalu Ganga Putupaula 6° 36' 51.9'' N 2598 m 3.00 4.00 5.00 2.48 2.51 Normal 0.5
+80° 3' 44.2'' E
+Kalu Ganga Ellagawa 6° 43' 54'' N 1393 m 10.00 10.70 12.20 8.64 8.61 Normal 5.5
+Kalu Ganga (RB 80° 13' 4.2'' E
+03) Kalu Ganga Ratnapura 6° 40' 43.2'' N 603 m 5.20 7.50 9.50 2.85 2.98 Normal 17.9
+80° 23' 49.8'' E
+Kuda Ganga Millakanda 6° 37' 50.3'' N 780 m 5.00 6.50 8.00 6.30 6.40 Alert Rising 0.0
+80° 9' 37.7'' E
+Gin Ganga Tawalama 6° 20' 33.3'' N 377 m 4.00 6.00 7.50 5.02 4.88 Alert Falling 12.2
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) Gin Ganga Baddegama 6° 10' 25'' N 749 m 3.50 4.00 5.00 2.76 2.82 Normal 0.0
+80° 10' 33.1'' E
+Nilwala Ganga Panadugama 6° 08' 00'' N 445 m 5.00 6.00 7.50 5.80 5.81 Alert Rising 1.6
+80° 29' 00'' E
+Nilw (R al B a G 12 a ) nga N ilwala Ganga Pitabeddara 6 8 ° 0 ° 1 2 2 ' 8 4 ' 3 8 4 .2 . ' 5 ' ' N ' E 310 m 4.00 5.00 6.50 2.94 2.79 Normal 20.7
+Urubokka Ganga Urawa 6° 14' 11.8'' N 59 m 2.50 4.00 6.00 1.40 1.31 Normal 22.7
+80° 34' 18'' E
+Kirindi Oya Tanamalwila 6° 28' 5.9'' N 749 m 4.00 5.00 5.50 -0.02 -0.01 Normal 0.0
+81° 8' 2.8'' E
+Kirindi O 2 y 2 a ) (RB Kirindi Oya Wellawaya 6 8 ° 1 ° 4 2 6 ' ' 3 4 3 1 . . 3 6 ' ' ' ' N E 172 m 4.40 5.40 5.90 0.51 0.51 Normal 0.0
+Kuda Oya Kuda Oya 6° 31' 28.8'' N 291 m 6.90 8.40 8.80 1.21 1.20 Normal 0.0
+81° 07' 24'' E
+Kumbukkan Oya Kumbukkan Oya Nakkala 6° 53' 42.4'' N 216 m 5.00 6.00 7.50 0.80 0.79 Normal 0.0
+(RB 31) 81° 17' 49.3'' E
+Heda Oya (RB Heda Oya Siyambalanduwa 6° 54' 16.5'' N 295 m 4.50 5.00 5.60 0.49 0.49 Normal 0.0
+36) 81° 32' 44.4'' E
+Maduru Oya (RB Maduru Oya Padiyatalawa 7° 23' 0'' N 159 m 4.00 4.50 6.00 0.25 0.25 Normal 0.0
+54) 81° 11' 30'' E
+Mahaweli Ganga Manampitiya 7° 54' 53.3'' N 7418 m 4.60 4.80 5.10 0.25 0.24 Normal 0.0
+81° 5' 10'' E
+Mahaweli Ganga Weragantota 7° 19' 0'' N 4092 m 5.00 6.00 8.00 -2.82 -2.80 Normal 0.3
+80° 59' 18.3'' E
+Mahaweli Ganga Mahaweli Ganga Peradeniya 7 8 ° 0 ° 1 6 3 ' 6 3 ' 3 '' 0 N '' E 1168 m 5.00 7.00 9.00 1.90 1.90 Normal 1.7
+(RB 60) Mahaweli Ganga Nawalapitiya 7° 2' 55'' N 176 m 3.00 4.00 4.50 1.20 1.39 Normal 31.6
+80° 32' 3'' E
+Badulu Oya Taldena 7° 5' 26.7'' N 276 m 3.00 4.00 5.00 0.53 0.52 Normal 0.0
+81° 2' 53.3'' E
+Agra Oya Calidonia 6° 54' 8.3'' N 148 m _ _ _ 0.63 0.63 _ 0.7
+80° 42' 00'' E
+Yan Oya (RB Yan Oya Horowpatana 8° 34' 39.44'' N 720 m 6.00 7.30 10.44 1.27 1.27 Normal 0.0
+67) 80° 52' 43.25'' E
+Deduru Oya (RB Deduru Oya Ridi bendi Ella (Dam) 7° 43' 36'' N 80° 1370 m _ _ _ 1.03 1.03 _ 0.1
+99) 15' 48'' E
+Maha Oya Badalgama 7° 18' 3.3'' N 1360 m 5.00 6.20 9.60 2.12 2.12 Normal 2.0
+Maha Oya (RB 79° 58' 50'' E
+102) Maha Oya Giriulla 7° 19' 30'' N 1192 m 5.50 6.50 7.50 1.02 1.02 Normal 0.0
+80° 6' 53.3'' E
+Attanagalu Oya (RB Attanagalu Oya Dunamale 7° 7' 0'' N 153 m 3.30 4.40 5.50 2.93 2.86 Normal 0.0
+103) 80° 4' 54.5'' E
+Prepared by : G.A.S.A.Jayamal (H.A.)
+Checked by : D.A.Somawickrama (H.D.S)
+Eng.S.P.C.Sugeeshwara
+Director (Hydrology)

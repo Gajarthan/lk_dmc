@@ -1,0 +1,38 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 8-Nov-2021 TIME : 12:30 PM
+.
+Gauging Station Water Water
+Water 03 Hr RF
+Minor Major Level Level
+River Basin Tributory/River Catchment Alert Level at Remarks in mm at
+Station Cordinate Unit Flood Flood before Rising or
+Area (km2) Level 12:00 pm 12:00 pm
+Level Level 1hr Falling
+6° 40' 43.2'' N
+Kalu Ganga Ratnapura 603 m 5.20 7.50 9.50 5.57 5.50 Alert Falling 7.8
+80° 23' 49.8'' E
+Kalu Ganga 6° 30' 49'' N
+Maguru Ganga Magura 152 m 4.00 6.00 7.50 5.32 5.32 Alert 16.6
+(RB 03) 80° 14' 36'' E
+Kalawellawa 6° 37' 50.3'' N
+Kuda Ganga 780 m 5.00 6.50 8.00 7.07 7.12 Minor Flood Rising 11.6
+(Millakanda) 80° 9' 37.7'' E
+Gin Ganga 6° 10' 25'' N
+Gin Ganga Baddegama 749 m 3.50 4.00 5.00 4.02 4.05 Minor Flood Rising 18.0
+(RB 09) 80° 10' 33.1'' E
+6° 00' 40'' N
+Nilwala Ganga Thalgahagoda 852 m 1.40 1.70 2.80 1.64 1.66 Alert Rising 15.6
+Nilwala Ganga 80° 31' 35'' E
+(RB 12) 6° 08' 00'' N
+Nilwala Ganga Panadugama 445 m 5.00 6.00 7.50 5.50 5.50 Alert 16.0
+80° 29' 00'' E
+Maha Oya 7° 18' 3.3'' N
+Maha Oya Badalgama 1360 m 5.00 6.20 9.60 5.50 5.50 Alert 0.8
+(RB 102) 79° 58' 50'' E
+Attanagalu Oya 7° 7' 0'' N
+Attanagalu Oya Dunamale 153 m 3.30 4.40 5.50 4.95 4.97 Minor Flood Rising 0.0
+(RB 103) 80° 4' 54.5'' E
+Prepared by : G.A.S.A.Jayamal (H.A.)
+Checked by : W.H.J.Abeywikrama (H.D.S.)
+Eng.S.P.C.Sugeeshwara
+Director (Hydrology and Disaster Management)

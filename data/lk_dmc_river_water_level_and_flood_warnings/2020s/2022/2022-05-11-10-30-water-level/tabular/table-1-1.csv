@@ -1,0 +1,120 @@
+River Basin,Tributory/River,Gauging Station,,,,,,,"Water
+Level
+before
+1hr","Water
+Level at
+9:00 am",Remarks,"Water
+Level
+Rising or
+Falling","24 Hr RF
+in mm at
+9:00 am"
+,,Station,Cordinate,"Catchment
+Area (km2)",Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,
+"Kelani Ganga
+(RB 01)",Kelani Ganga,N' Street,"6° 57' 35'' N
+79° 52' 36.6'' E",2085,ft,4.00,5.00,7.00,1.40,1.50,Normal,,-
+,Kelani Ganga,Hanwella,"6° 54' 39.38'' N
+80° 05' 3.16'' E",1782,m,7.00,8.00,10.00,3.56,3.85,Normal,,13.3
+,Kelani Ganga,Glencourse,"6° 58' 25'' N
+80° 11' 3'' E",1463,m,15.00,16.50,19.00,13.25,13.46,Normal,,46.5
+,Kelani Ganga,Kitulgala,"6° 59' 25'' N
+80° 24' 50'' E",383,m,3.00,4.00,6.00,2.69,1.58,Normal,,72.4
+,Gurugoda Oya,Holombuwa,"7° 11' 6.6'' N
+80° 15' 53.3'' E",155,m,3.00,3.40,5.00,1.80,1.81,Normal,,59.2
+,Seethawaka Ganga,Deraniyagala,"6° 55' 23.23'' N
+80° 20' 20.3'' E",183,m,4.80,5.80,6.40,2.38,2.19,Normal,,64.8
+,Kehelgamu Oya,Norwood,"6° 50' 8.32'' N
+80° 36' 52.75'' E",97,m,1.50,3.00,4.50,1.69,1.60,Alert,Falling,124.6
+"Kalu Ganga
+(RB 03)",Kalu Ganga,Putupaula,"6° 36' 51.9'' N
+80° 3' 44.2'' E",2598,m,3.00,4.00,5.00,2.01,2.04,Normal,,8.9
+,Kalu Ganga,Ellagawa,"6° 43' 54'' N
+80° 13' 4.2'' E",1393,m,10.00,10.70,12.20,8.70,8.71,Normal,,12.5
+,Kalu Ganga,Ratnapura,"6° 40' 43.2'' N
+80° 23' 49.8'' E",603,m,5.20,7.50,9.50,5.99,6.02,Alert,Rising,51.2
+,Maguru Ganga,Magura,"6° 30' 49'' N
+80° 14' 36'' E",152,m,4.00,6.00,7.50,3.00,3.05,Normal,,24.5
+,Kuda Ganga,"Kalawellawa
+(Millakanda)","6° 37' 50.3'' N
+80° 9' 37.7'' E",780,m,5.00,6.50,8.00,5.25,5.27,Alert,Rising,10.2
+"Gin Ganga
+(RB 09)",Gin Ganga,Tawalama,"6° 20' 33.3'' N
+80° 19' 55.2'' E",377,m,4.00,6.00,7.50,2.63,2.78,Normal,,30.9
+,Gin Ganga,Baddegama,"6° 10' 25'' N
+80° 10' 33.1'' E",749,m,3.50,4.00,5.00,2.32,2.32,Normal,,2.1
+"Nilwala Ganga
+(RB 12)",Nilwala Ganga,Thalgahagoda,"6° 00' 40'' N
+80° 31' 35'' E",852,m,1.40,1.70,2.80,1.00,1.01,Normal,,1.8
+,Nilwala Ganga,Panadugama,"6° 08' 00'' N
+80° 29' 00'' E",445,m,5.00,6.00,7.50,4.62,4.59,Normal,,44.1
+,Nilwala Ganga,Pitabeddara,"6° 12' 48.2'' N
+80° 28' 34.5'' E",310,m,4.00,5.00,6.50,1.47,1.47,Normal,,30.8
+,Urubokka Ganga,Urawa,"6° 14' 11.8'' N
+80° 34' 18'' E",59,m,2.50,4.00,6.00,0.81,0.83,Normal,,24.1
+"Walawe Ganga
+(RB 18)",Walawe Ganga,Moraketiya,"6° 20′ 43″ N
+80° 54′ 05″ E",1542,m,1.80,3.50,5.00,0.99,0.98,Normal,,0.0
+"Kirindi Oya
+(RB 22)",Kirindi Oya,Tanamalwila,"6° 28' 5.9'' N
+81° 8' 2.8'' E",749,m,4.00,5.00,5.50,0.31,0.31,Normal,,0.0
+,Kirindi Oya,Wellawaya,"6° 42' 33.3'' N
+81° 6' 41.6'' E",172,m,4.40,5.40,5.90,0.63,0.64,Normal,,0.0
+,Kuda Oya,Kuda Oya,"6° 31' 28.8'' N
+81° 07' 24'' E",291,m,6.90,8.40,8.80,1.27,1.28,Normal,,0.0
+"Menik Ganga
+(RB 26)
+Kumbukkan Oya
+(RB 31)",Menik Ganga,Katharagama,"6° 24' 60.0'' N
+81° 19' 57'' E",796.8,m,4.00,4.60,6.50,-0.17,-0.17,Normal,,0.0
+,Kumbukkan Oya,Nakkala,"6° 53' 42.4'' N
+81° 17' 49.3'' E",216,m,5.00,6.00,7.50,0.75,0.75,Normal,,2.4
+"Heda Oya
+(RB 36)",Heda Oya,Siyambalanduwa,"6° 54' 16.5'' N
+81° 32' 44.4'' E",295,m,4.50,6.00,7.00,0.57,0.57,Normal,,0.0
+"Maduru Oya
+(RB 54)",Maduru Oya,Padiyatalawa,"7° 23' 0'' N
+81° 11' 30'' E",159,m,4.00,4.50,6.00,0.16,0.16,Normal,,0.1
+"Mahaweli Ganga
+(RB 60)",Mahaweli Ganga,Manampitiya ( Old),"7° 54' 53.3'' N
+81° 5' 10'' E",7418,m,3.50,5.00,6.00,-0.68,-0.70,Normal,,0.0
+,,Manampitiya (HMIS),"7° 54' 53.3'' N
+81° 5' 10'' E",7418,m,4.65,6.15,7.15,0.46,0.44,Normal,,0.0
+,Mahaweli Ganga,Weragantota,"7° 19' 0'' N
+80° 59' 18.3'' E",4092,m,5.00,6.00,8.00,-2.51,-2.61,Normal,,4.0
+,Mahaweli Ganga,Peradeniya,"7° 16' 3'' N
+80° 36' 30'' E",1168,m,5.00,7.00,9.00,5.00,5.43,Alert,Rising,39.8
+,Mahaweli Ganga,Nawalapitiya,"7° 2' 55'' N
+80° 32' 3'' E",176,m,3.50,5.00,6.00,4.23,3.98,Alert,Falling,183.6
+,Badulu Oya,Taldena,"7° 5' 26.7'' N
+81° 2' 53.3'' E",276,m,3.00,4.00,5.00,0.36,0.38,Normal,,6.9
+,Agra Oya,Calidonia,"6° 54' 8.3'' N
+80° 42' 00'' E",148,m,3.00,3.50,4.50,1.77,1.74,Normal,,118.8
+"Yan Oya
+(RB 67)",Yan Oya,Horowpatana,"8° 34' 39.44'' N
+80° 52' 43.25'' E",720,m,6.00,7.50,10.50,1.66,1.66,Normal,,0.0
+"Maa Oya (RB
+69)",Mukunu Oya,Yakawewa,"8° 43' 19'' N
+80° 40' 50'' E",117,m,4.00,5.00,6.00,0.51,0.51,Normal,,0.0
+"Malwathu Oya
+(RB 90)",Malwathu Oya,Tantirimale,"8° 35' 13.57'' N
+80° 16' 31.14'' E",2116,m,5.00,6.80,7.80,1.17,1.17,Normal,,0.0
+"Mee Oya
+(RB 95)",Mee Oya,Galgamuwa,"7° 58' 13.3'' N
+80° 15' 18.3'' E",299,m,4.84,5.94,8.00,0.06,0.06,Normal,,0.0
+"Deduru Oya
+(RB 99)",Deduru Oya,Ridi bendi Ella (Dam),"7° 43' 36'' N
+80° 15' 48'' E",1370,m,3.30,4.20,4.70,1.09,1.09,Normal,,0.0
+"Maha Oya
+(RB 102)",Maha Oya,Badalgama,"7° 18' 3.3'' N
+79° 58' 50'' E",1360,m,5.00,6.20,9.60,1.99,2.00,Normal,,1.9
+,Maha Oya,Giriulla,"7° 19' 30'' N
+80° 6' 53.3'' E",1192,m,5.50,6.50,7.50,1.06,1.06,Normal,,24.8
+"Attanagalu Oya
+(RB 103)",Attanagalu Oya,Dunamale,"7° 7' 0'' N
+80° 4' 54.5'' E",153,m,3.30,4.40,5.50,1.30,1.36,Normal,,22.1

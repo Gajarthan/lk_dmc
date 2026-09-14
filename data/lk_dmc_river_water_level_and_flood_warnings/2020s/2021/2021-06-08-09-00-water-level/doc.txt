@@ -1,0 +1,75 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 8-Jun-2021 TIME : 6.30 AM
+.
+Gauging Station Water Water
+Water 18 Hrs RF
+Minor Major Level Level
+River Basin Tributory/River Catchment Alert Level at Remarks in mm at
+Station Cordinate Area (km2) Unit Level F L l e o v o e d l F L l e o v o e d l be 1 f h o r r e 6.00 AM R F is a i l n li g n g or 6.00 AM
+6° 57' 35'' N
+Kelani Ganga N' Street 2085 ft 4.00 5.00 7.00 3.10 2.80 Normal
+79° 52' 36.6'' E
+6° 54' 39.38'' N
+Kelani Ganga Hanwella 1782 m 7.00 8.00 10.00 4.85 4.80 Normal 18.8
+80° 05' 3.16'' E
+6° 58' 25'' N
+Kelani Ganga Glencourse 1463 m 15.00 16.50 19.00 11.19 11.18 Normal 0.1
+80° 11' 3'' E
+Kelani Ganga 6° 59' 25'' N
+Kelani Ganga Kitulgala 383 m 3.00 4.00 6.00 1.90 1.90 Normal 2.9
+(RB 01) 80° 24' 50'' E
+7° 11' 6.6'' N
+Gurugoda Oya Holombuwa 155 m 3.00 3.40 5.00 1.10 1.10 Normal 0.0
+80° 15' 53.3'' E
+6° 55' 23.23'' N
+Seethawaka Ganga Deraniyagala 183 m 4.80 5.80 6.40 1.15 1.15 Normal 3.2
+80° 20' 20.3'' E
+6° 50' 8.32'' N
+Kehelgamu Oya Norwood 97 m 1.50 3.00 4.50 0.92 0.92 Normal 0.8
+80° 36' 52.75'' E
+6° 36' 51.9'' N
+Kalu Ganga Putupaula 2598 m 3.00 4.00 5.00 4.26 4.24 Minor Flood Falling 4.0
+80° 3' 44.2'' E
+6° 43' 54'' N
+Kalu Ganga Ellagawa 1393 m 10.00 10.70 12.20 9.25 9.20 Normal 13.1
+80° 13' 4.2'' E
+Kalu Ganga 6° 40' 43.2'' N
+Kalu Ganga Ratnapura 603 m 5.20 7.50 9.50 2.75 2.77 Normal 8.1
+(RB 03) 80° 23' 49.8'' E
+6° 30' 49'' N 80°
+Maguru Ganga Magura m 4.00 6.00 7.50 3.11 3.54 Normal 52.4
+14' 36'' E
+Kalawellawa 6° 37' 50.3'' N
+Kuda Ganga 780 m 5.00 6.50 8.00 8.04 8.00 Major Flood Falling 16.7
+(Millakanda) 80° 9' 37.7'' E
+6° 20' 33.3'' N
+Gin Ganga Tawalama 377 m 4.00 6.00 7.50 2.59 2.81 Normal 28.4
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) 6° 10' 25'' N
+Gin Ganga Baddegama 749 m 3.50 4.00 5.00 3.36 3.35 Normal 31.1
+80° 10' 33.1'' E
+6° 00' 40'' N
+Nilwala Ganga Thalgahagoda 852 m 1.04 1.06 25.6
+80° 31' 35'' E
+6° 08' 00'' N
+Nilwala Ganga Panadugama 445 m 5.00 6.00 7.50 3.48 4.10 Normal 44.7
+Nilwala Ganga 80° 29' 00'' E
+(RB 12) 6° 12' 48.2'' N
+Nilwala Ganga Pitabeddara 310 m 4.00 5.00 6.50 1.31 1.41 Normal 12.6
+80° 28' 34.5'' E
+6° 14' 11.8'' N
+Urubokka Ganga Urawa 59 m 2.50 4.00 6.00 0.55 0.58 Normal 3.1
+80° 34' 18'' E
+7° 18' 3.3'' N
+Maha Oya Badalgama 1360 m 5.00 6.20 9.60 3.25 3.24 Normal 2.0
+Maha Oya 79° 58' 50'' E
+(RB 102) 7° 19' 30'' N
+Maha Oya Giriulla 1192 m 5.50 6.50 7.50 1.88 1.88 Normal 2.3
+80° 6' 53.3'' E
+Attanagalu Oya 7° 7' 0'' N
+Attanagalu Oya Dunamale 153 m 3.30 4.40 5.50 3.83 3.78 Alert Falling 4.5
+(RB 103) 80° 4' 54.5'' E
+Prepared by : P.A.G.Gayampath (H.A.)
+Checked by : U.H.N.H. De Silva (IE)
+Eng.S.P.C.Sugeeshwara
+Director (Hydrology and Disaster Management)

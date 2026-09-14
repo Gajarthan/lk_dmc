@@ -1,0 +1,67 @@
+River Basin,Tributory/River,Gauging Station,,,,,,,"Water
+Level
+before
+1hr","Water
+Level
+at6.00 am",Remarks,"Water
+Level
+Rising or
+Falling","21 Hrs RF
+in mm at
+06.00 am"
+,,Station,Cordinate,"Catchment
+Area (km2)",Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,
+"Kelani Ganga
+(RB 01)",Kelani Ganga,N' Street,"6° 57' 35'' N
+79° 52' 36.6'' E",2085,ft,4.00,5.00,7.00,4.60,4.40,Alert,Falling,
+,Kelani Ganga,Hanwella,"6° 54' 39.38'' N
+80° 05' 3.16'' E",1782,m,7.00,8.00,10.00,6.38,6.28,Normal,,0.0
+,Kelani Ganga,Glencourse,"6° 58' 25'' N
+80° 11' 3'' E",1463,m,15.00,16.50,19.00,11.90,11.84,Normal,,0.0
+,Kelani Ganga,Kitulgala,"6° 59' 25'' N
+80° 24' 50'' E",383,m,3.00,4.00,6.00,1.76,1.76,Normal,,0.0
+,Gurugoda Oya,Holombuwa,"7° 11' 6.6'' N
+80° 15' 53.3'' E",155,m,3.00,3.40,5.00,1.16,1.15,Normal,,0.0
+,Seethawaka Ganga,Deraniyagala,"6° 55' 23.23'' N
+80° 20' 20.3'' E",183,m,4.80,5.80,6.40,1.45,1.43,Normal,,0.0
+,Kehelgamu Oya,Norwood,"6° 50' 8.32'' N
+80° 36' 52.75'' E",97,m,1.50,3.00,4.50,0.84,0.84,Normal,,0.0
+"Kalu Ganga
+(RB 03)",Kalu Ganga,Putupaula,"6° 36' 51.9'' N
+80° 3' 44.2'' E",2598,m,3.00,4.00,5.00,3.14,3.11,Alert,Falling,0.0
+,Kalu Ganga,Ellagawa,"6° 43' 54'' N
+80° 13' 4.2'' E",1393,m,10.00,10.70,12.20,7.25,7.10,Normal,,0.0
+,Kalu Ganga,Ratnapura,"6° 40' 43.2'' N
+80° 23' 49.8'' E",603,m,5.20,7.50,9.50,1.85,1.80,Normal,,0.0
+,Maguru Ganga,Magura,"6° 30' 49'' N 80°
+14' 36'' E",,m,4.00,6.00,7.50,3.35,3.26,Normal,,0.0
+,Kuda Ganga,"Kalawellawa
+(Millakanda)","6° 37' 50.3'' N
+80° 9' 37.7'' E",780,m,5.00,6.50,8.00,7.58,7.55,Minor Flood,Falling,0.0
+"Gin Ganga
+(RB 09)",Gin Ganga,Tawalama,"6° 20' 33.3'' N
+80° 19' 55.2'' E",377,m,4.00,6.00,7.50,2.30,2.29,Normal,,0.0
+,Gin Ganga,Baddegama,"6° 10' 25'' N
+80° 10' 33.1'' E",749,m,3.50,4.00,5.00,5.25,5.24,Major Flood,Falling,9.7
+"Nilwala Ganga
+(RB 12)",Nilwala Ganga,Thalgahagoda,"6° 00' 40'' N
+80° 31' 35'' E",852,m,,,,2.34,2.33,,,2.2
+,Nilwala Ganga,Panadugama,"6° 08' 00'' N
+80° 29' 00'' E",445,m,5.00,6.00,7.50,5.89,5.87,Alert,Falling,0.0
+,Nilwala Ganga,Pitabeddara,"6° 12' 48.2'' N
+80° 28' 34.5'' E",310,m,4.00,5.00,6.50,1.42,1.41,Normal,,5.7
+,Urubokka Ganga,Urawa,"6° 14' 11.8'' N
+80° 34' 18'' E",59,m,2.50,4.00,6.00,0.64,0.64,Normal,,3.7
+"Maha Oya
+(RB 102)",Maha Oya,Badalgama,"7° 18' 3.3'' N
+79° 58' 50'' E",1360,m,5.00,6.20,9.60,3.70,3.66,Normal,,2.5
+,Maha Oya,Giriulla,"7° 19' 30'' N
+80° 6' 53.3'' E",1192,m,5.50,6.50,7.50,2.48,2.44,Normal,,0.9
+"Attanagalu Oya
+(RB 103)",Attanagalu Oya,Dunamale,"7° 7' 0'' N
+80° 4' 54.5'' E",153,m,3.30,4.40,5.50,4.95,4.90,Minor Flood,Falling,3.0
