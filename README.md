@@ -50,17 +50,17 @@ These numbers come from the published data branches. Click a dataset name to bro
 
 | Reports | Original PDFs | Extracted text | AI analyzed | With tables |
 |:---:|:---:|:---:|:---:|:---:|
-| **8,068** | **6,965** | **6,949** | **0** | **5,999** |
+| **8,078** | **7,590** | **7,562** | **0** | **6,312** |
 
-**Report files:** 3336.7 MiB · **Latest summary:** 2026-09-14 13:16 UTC · **Sources reporting:** 4/4
+**Report files:** 3664.2 MiB · **Latest summary:** 2026-09-14 19:40 UTC · **Sources reporting:** 4/4
 
 ### Dataset monitor
 
 | Dataset | Reports | PDFs | Text | AI | Newest report | Collection |
 |---|---:|---:|---:|---:|---|---|
-| [Situation reports](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) | 2,745 | 1,964 | 1,964 | 0 | 2026-09-13 | Needs attention |
-| [Weather forecasts](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) | 2,055 | 2,055 | 2,055 | 0 | 2026-09-14 | Needs attention |
-| [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,471 | 2,149 | 2,134 | 0 | 2026-09-14 | Needs attention |
+| [Situation reports](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) | 2,745 | 2,257 | 2,256 | 0 | 2026-09-13 | Needs attention |
+| [Weather forecasts](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) | 2,065 | 2,065 | 2,065 | 0 | 2026-09-14 | Needs attention |
+| [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,471 | 2,471 | 2,445 | 0 | 2026-09-14 | Needs attention |
 | [Landslide warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) | 797 | 797 | 796 | 0 | 2026-08-09 | Needs attention |
 
 Counts describe archived files. AI counts include only validated results matching the current source text. **Bounded run** means a collection limit was reached; it does not mean the full source history is archived.
