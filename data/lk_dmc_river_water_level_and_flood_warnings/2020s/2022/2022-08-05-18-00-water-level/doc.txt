@@ -1,0 +1,45 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 5-Aug-2022 TIME : 6:30 PM
+Gauging Station
+Water Water Water Level 9 Hr RF in
+Minor Major
+River Basin Tributory/River Alert Level at Level at Remarks Rising or mm at 6:00
+Station Unit Flood Flood
+Level 5:00 PM 6:00 PM Falling PM
+Level Level
+Kelani Ganga N' Street ft 4.00 5.00 7.00 2.10 2.30 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 3.84 3.82 Normal 7.7
+Kelani Ganga Glencourse m 15.00 16.50 19.00 12.10 12.11 Normal 7.1
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 2.72 2.66 Normal 13.0
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 1.10 1.10 Normal 8.6
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 1.55 1.49 Normal 8.2
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 1.35 1.32 Normal 8.7
+Kalu Ganga Putupaula m 3.00 4.00 5.00 2.43 2.42 Normal 0.3
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 8.70 8.65 Normal 2.2
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 3.67 3.59 Normal 0.0
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 2.06 2.03 Normal 0.0
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 4.86 4.83 Normal 0.0
+(Millakanda)
+Gin Ganga Tawalama m 4.00 6.00 7.50 1.94 1.92 Normal 3.5
+Gin Ganga
+(RB 09)
+Gin Ganga Baddegama m 3.50 4.00 5.00 1.94 1.92 Normal 0.0
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.70 1.70 Minor Flood 0.0
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 4.33 4.29 Normal 1.7
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 1.21 1.21 Normal 9.6
+Urubokka Ganga Urawa m 2.50 4.00 6.00 0.58 0.58 Normal 3.3
+Mahaweli Ganga Peradeniya m 5.00 7.00 9.00 5.60 5.58 Alert Falling 3.0
+Mahaweli Ganga
+(RB 60)
+Mahaweli Ganga Nawalapitiya m 3.50 5.00 6.00 2.58 2.62 Normal 21.0
+Prepared by : G.A.S.A.Jayamal ( H.A.)
+Checked by : W.G.D.Harshani (Snr. H.A.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

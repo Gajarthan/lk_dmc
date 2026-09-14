@@ -1,0 +1,141 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 15-Nov-2022 TIME : 9:30 AM
+Gauging Station Water
+Water Water 24 Hr RF
+Minor Major Level
+River Basin Tributory/River Alert Level at Level at Remarks in mm at
+Station Unit Flood Flood Rising or
+Level 8:00 am 9:00 am 8.30 am
+Level Level Falling
+Kelani Ganga N' Street ft 4.00 5.00 7.00 3.30 3.20 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 5.94 5.90 Normal 108.9
+Kelani Ganga Glencourse m 15.00 16.50 19.00 13.15 13.03 Normal 87.8
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 1.85 1.83 Normal 62.0
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 1.64 1.56 Normal 182.0
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 1.20 1.18 Normal 85.1
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 0.96 0.94 Normal 10.8
+Kalu Ganga Putupaula m 3.00 4.00 5.00 2.19 2.21 Normal 138.4
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 8.05 8.13 Normal 129.8
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 5.13 5.01 Normal 65.5
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 4.58 4.51 Alert Falling 18.9
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 5.68 5.73 Alert Rising 70.0
+(Millakanda)
+Gin Ganga Tawalama m 4.00 6.00 7.50 2.55 2.47 Normal 14.6
+Gin Ganga
+(RB 09)
+Gin Ganga Baddegama m 3.50 4.00 5.00 2.43 2.46 Normal 10.6
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.45 1.46 Alert Rising 41.6
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 5.92 5.90 Alert Falling 13.1
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 2.80 2.62 Normal 29.3
+Urubokka Ganga Urawa m 2.50 4.00 6.00 1.62 1.55 Normal 59.5
+Walawe Ganga
+Walawe Ganga Moraketiya m 1.80 3.50 5.00 1.27 1.26 Normal 10.2
+(RB 18)
+Kirindi Oya Tanamalwila m 4.00 5.00 5.50 1.82 1.77 Normal 1.4
+Kirindi Oya
+Kirindi Oya Wellawaya m 4.40 5.40 5.90 1.16 1.01 Normal 33.4
+(RB 22)
+Kuda Oya Kuda Oya m 6.90 8.40 8.80 2.05 2.00 Normal 5.8
+Menik Ganga
+Menik Ganga Katharagama m 4.00 4.60 6.50 0.84 0.84 Normal 0.0
+(RB 26)
+Kumbukkan Oya
+Kumbukkan Oya Nakkala m 5.00 6.00 7.50 1.49 1.47 Normal 4.9
+(RB 31)
+Heda Oya
+Heda Oya Siyambalanduwa m 4.50 6.00 7.00 0.97 0.96 Normal 44.6
+(RB 36)
+Maduru Oya
+Maduru Oya Padiyatalawa m 4.00 4.50 6.00 0.64 0.64 Normal 9.4
+(RB 54)
+Manampitiya ( Old) m 3.50 5.00 6.00 0.52 0.49 Normal 1.4
+Mahaweli Ganga
+Manampitiya (HMIS) m 4.65 6.15 7.15 1.66 1.63 Normal 1.4
+Mahaweli Ganga Weragantota m 5.00 6.00 8.00 -0.94 -0.90 Normal 17.4
+Mahaweli Ganga Mahaweli Ganga Peradeniya m 5.00 7.00 9.00 2.99 3.10 Normal 45.8
+(RB 60)
+Mahaweli Ganga Nawalapitiya m 3.50 5.00 6.00 1.32 1.25 Normal 56.3
+Badulu Oya Taldena m 3.00 4.00 5.00 0.94 0.92 Normal 18.1
+Agra Oya Calidonia m 3.00 3.50 4.50 0.94 0.94 Normal 6.9
+Yan Oya
+Yan Oya Horowpatana m 6.00 7.50 10.50 2.25 2.24 Normal 9.1
+(RB 67)
+Maa Oya (RB 69) Mukunu Oya Yakawewa m 4.00 5.00 6.00 0.48 0.49 Normal 14.2
+Malwathu Oya Malwathu Oya Tantirimale m 5.00 6.80 7.80 2.51 2.50 Normal 14.6
+(RB 90)
+Mee Oya M ee Oya Galgamuwa m 4.84 5.94 8.00 0.71 0.82 Normal 13.8
+(RB 95)
+Deduru Oya Deduru Oya Ridi bendi Ella (Dam) m 3.30 4.20 4.70 2.11 2.10 Normal 13.7
+(RB 99)
+Maha Oya Badalgama m 5.00 6.20 9.60 4.30 4.30 Normal 11.0
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 3.65 3.52 Normal 64.9
+Attanagalu Oya Attanagalu Oya Dunamale m 3.30 4.40 5.50 4.50 4.54 Minor Flood Rising 52.7
+(RB 103)
+Prepared by : K.G.D.C.Dissanayake (H.A.)
+Checked by : W.H.J.Abewickrama ( H.D.S.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)
+
+Daily Rainfall
+Units in mm
+DATE : 14-Nov-2022
+Kelani Ganga Basin (RB 01) Menik Ganga (RB 26) Kala Oya (RB 93)
+Castlereigh(CEB) 19.5 Buttala Bridge (HMIS) 17.0 Usgala Siyamabalangamuwa (HMIS) 5.0
+Norton(CEB) 32.0 Rajanganaya (Res) (HMIS) NA
+Maussakelle(CEB) 22.5 Gal Oya (RB 44) Kalawewa (Res) (HMIS) NA
+Canyon(CEB) 20.0 Dambulu Oya(Res) (HMIS) 56.0
+Laxapana(CEB) 23.5 Ampara 14.7 Kandalama (Res) (HMIS) 37.0
+Colombo(ID) 85.3 Senanayaka Samu.(Res)(HMIS) 22.0 Dambulu Oya River (HMIS) NA
+Bibile (HMIS) 2.0
+Bolgoda Ganga (RB 02) Inginiyagala(CEB) 23.3 Daduru Oya (RB 99)
+Bolgoda Lake(HMIS) NA Mahaweli Ganga Basin (RB 60) Masspotha 26.6
+Amunugama 33.4
+Kalu Ganga (RB 03) Kotmale(CEB) 29.2 Ethiliyagala NA
+Victoria(CEB) 17.0 Ma Eliya 64.4
+Kukulegama(CEB) 83.0 Randenigala(CEB) 3.3 Daisy Valley 12.3
+Halwathura (HMIS) 111.0 Rantembe(CEB) 8.4 Diniminiyathanna 39.2
+Anguruwathota (HMIS) NA Bowatenna(CEB) 7.4 Moragaswewa (HMIS) NA
+Dela (HMIS) 40.0 Ukuwela(CEB) 85.0 Nugawela (HMIS) NA
+Magura (Baduraliya) (HMIS) NA U.Kothmale(CEB) 12.5
+Malwala (HMIS) 113.0 Angamedilla (HMIS) NA Maa Oya (RB 102)
+Banagoda (HMIS) 36.0 Hembarewa (HMIS) NA
+Watapotha (HMIS) 0.0 Calsey Maeliya (HMIS) 4.0 Molagoda (HMIS) NA
+Paragoda (HMIS) NA Ulhitiya (Res) (HMIS) 6.0 Hatharaliyadde (HMIS) NA
+Girithale(Res) (HMIS) NA Aranayake (HMIS) NA
+Benthara Ganga (RB 04) Parakrama Samu.(Res) (HMIS) NA Bolagama Bridge (HMIS) 24.0
+Minneriya(Res) (HMIS) NA
+Aviththawa(HMIS) NA Kaudulla(Res) (HMIS) NA Attanagalu Oya (RB 103)
+Diyabeduma (HMIS) 62.0
+Gin Ganga (RB 09) Ulhitiya Inlet Canal (HMIS) NA Attanagalla 105.8
+Minipe LB Canal (HMIS) NA Algama 60.0
+Lankagama (HMIS) NA Moragahakanda (HMIS) 42.0
+Deniyaya Bridge (HMIS) NA
+Yan oya (RB 67) Max. Rainfall (CEB)
+Nilwala Ganga (RB 12) Ukuwela(CEB) 85.0
+Hurulu Wewa(Res) (HMIS) NA
+Akuressa (HMIS) NA Max.Rainfall (HMIS)
+Sapugoda (HMIS) NA Maha Oya (RB 69) Malwala 113.0
+Walawe Ganga (RB 18) Padaviya Tank (HMIS) NA Max. Rainfall (ID)
+Holombuwa 182.0
+Samanalawewa(CEB)(cid:9) 20.5 Malwathu Oya (RB 90)
+Mau Ara (Res) (HMIS) 9.0
+Thimbolketiya (HMIS) NA Menik Farm (HMIS) NA Tr :- Traced Rainfall
+Udawalawe (Res) (HMIS) NA Tissa Wewa(Res) (HMIS) NA RB :- River Basin
+Nachchaduwa(Res) (HMIS) NA MET :- Department of Meteorology
+ID :- Irrigation Department
+CEB :- Ceylon Electricity Board
+Res :- Reservoir
+HMIS :- DSWRP Data
+NA :- Not Available
+Eng.S.P.C.Sugeeshwara
+Director (Hydrology and Disaster Management) Prepared by : K.G.D.C.Dissanayake (H.A.)
+Checked by : W.H.J.Abewickrama ( H.D.S.)

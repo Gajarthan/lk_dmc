@@ -1,0 +1,70 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 31-May-2022 TIME : 6:30 PM
+Gauging Station Water
+Water Water 9 Hr RF in
+Minor Major Level
+River Basin Tributory/River Catchment Alert Level at Level at Remarks mm at 6:00
+Station Cordinate Unit Flood Flood Rising or
+Area (km2) Level 5:00 pm 6:00 pm pm
+Level Level Falling
+6° 57' 35'' N
+Kelani Ganga N' Street 2085 ft 4.00 5.00 7.00 4.10 4.00 Alert Falling -
+79° 52' 36.6'' E
+6° 54' 39.38'' N
+Kelani Ganga Hanwella 1782 m 7.00 8.00 10.00 7.17 7.35 Alert Rising 51.5
+80° 05' 3.16'' E
+6° 58' 25'' N
+Kelani Ganga Glencourse 1463 m 15.00 16.50 19.00 16.33 16.49 Alert Rising 34.2
+80° 11' 3'' E
+Kelani Ganga 6° 59' 25'' N
+Kelani Ganga Kitulgala 383 m 3.00 4.00 6.00 2.42 2.30 Normal 55.7
+(RB 01) 80° 24' 50'' E
+7° 11' 6.6'' N
+Gurugoda Oya Holombuwa 155 m 3.00 3.40 5.00 3.98 3.60 Minor Flood Falling 41.3
+80° 15' 53.3'' E
+6° 55' 23.23'' N
+Seethawaka Ganga Deraniyagala 183 m 4.80 5.80 6.40 3.50 3.05 Normal 48.2
+80° 20' 20.3'' E
+6° 50' 8.32'' N
+Kehelgamu Oya Norwood 97 m 1.50 3.00 4.50 1.51 1.50 Alert Falling 53.9
+80° 36' 52.75'' E
+6° 36' 51.9'' N
+Kalu Ganga Putupaula 2598 m 3.00 4.00 5.00 2.80 2.86 Normal 64.1
+80° 3' 44.2'' E
+6° 43' 54'' N
+Kalu Ganga Ellagawa 1393 m 10.00 10.70 12.20 9.21 9.26 Normal 75.1
+80° 13' 4.2'' E
+Kalu Ganga 6° 40' 43.2'' N
+Kalu Ganga Ratnapura 603 m 5.20 7.50 9.50 7.80 7.83 Minor Flood Rising 47.0
+(RB 03) 80° 23' 49.8'' E
+6° 30' 49'' N
+Maguru Ganga Magura 152 m 4.00 6.00 7.50 9.54 6.01 Minor Flood Falling 71.6
+80° 14' 36'' E
+Kalawellawa 6° 37' 50.3'' N
+Kuda Ganga 780 m 5.00 6.50 8.00 6.96 7.01 Minor Flood Rising 56.6
+(Millakanda) 80° 9' 37.7'' E
+6° 20' 33.3'' N
+Gin Ganga Tawalama 377 m 4.00 6.00 7.50 6.27 6.37 Minor Flood Rising 39.9
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) 6° 10' 25'' N
+Gin Ganga Baddegama 749 m 3.50 4.00 5.00 3.90 3.93 Alert Rising 26.1
+80° 10' 33.1'' E
+6° 00' 40'' N
+Nilwala Ganga Thalgahagoda 852 m 1.40 1.70 2.80 1.73 1.74 Minor Flood Rising 29.7
+80° 31' 35'' E
+6° 08' 00'' N
+Nilwala Ganga Panadugama 445 m 5.00 6.00 7.50 6.85 6.87 Minor Flood Rising 24.7
+Nilwala Ganga 80° 29' 00'' E
+(RB 12) 6° 12' 48.2'' N
+Nilwala Ganga Pitabeddara 310 m 4.00 5.00 6.50 4.44 4.42 Alert Falling 42.6
+80° 28' 34.5'' E
+6° 14' 11.8'' N
+Urubokka Ganga Urawa 59 m 2.50 4.00 6.00 2.67 2.55 Alert Falling 32.4
+80° 34' 18'' E
+Attanagalu Oya 7° 7' 0'' N
+Attanagalu Oya Dunamale 153 m 3.30 4.40 5.50 4.86 4.93 Minor Flood Rising 54.6
+(RB 103) 80° 4' 54.5'' E
+Prepared by : G.A.S.A.Jayamal (H.A)
+Checked by : W.H.J.Abeywickeama ( H.D.S)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

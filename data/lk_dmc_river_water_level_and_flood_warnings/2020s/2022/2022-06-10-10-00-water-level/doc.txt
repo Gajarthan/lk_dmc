@@ -1,0 +1,181 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 10-Jun-2022 TIME : 9:30 AM
+Gauging Station Water
+Water Water 24 Hr RF
+Minor Major Level
+River Basin Tributory/River Catchment Alert Level at Level at Remarks in mm at
+Station Cordinate Unit Flood Flood Rising or
+Area (km2) Level Level Level 8:00 am 9:00 am Falling 9:00 am
+Kelani Ganga N' Street 6° 57' 35'' N 2085 ft 4.00 5.00 7.00 1.90 2.15 Normal -
+79° 52' 36.6'' E
+6° 54' 39.38'' N
+Kelani Ganga Hanwella 1782 m 7.00 8.00 10.00 2.47 2.40 Normal 6.4
+80° 05' 3.16'' E
+6° 58' 25'' N
+Kelani Ganga Glencourse 1463 m 15.00 16.50 19.00 10.33 10.31 Normal 2.7
+80° 11' 3'' E
+Kelani Ganga 6° 59' 25'' N
+Kelani Ganga Kitulgala 383 m 3.00 4.00 6.00 1.78 1.88 Normal 15.3
+(RB 01) 80° 24' 50'' E
+7° 11' 6.6'' N
+Gurugoda Oya Holombuwa 155 m 3.00 3.40 5.00 0.53 0.53 Normal 0.3
+80° 15' 53.3'' E
+6° 55' 23.23'' N
+Seethawaka Ganga Deraniyagala 183 m 4.80 5.80 6.40 1.03 1.03 Normal 17.5
+80° 20' 20.3'' E
+6° 50' 8.32'' N
+Kehelgamu Oya Norwood 97 m 1.50 3.00 4.50 0.70 0.70 Normal 0.0
+80° 36' 52.75'' E
+6° 36' 51.9'' N
+Kalu Ganga Putupaula 2598 m 3.00 4.00 5.00 0.86 0.92 Normal 0.7
+80° 3' 44.2'' E
+6° 43' 54'' N
+Kalu Ganga Ellagawa 1393 m 10.00 10.70 12.20 6.02 5.99 Normal 9.8
+80° 13' 4.2'' E
+Kalu Ganga 6° 40' 43.2'' N
+Kalu Ganga Ratnapura 603 m 5.20 7.50 9.50 1.85 1.81 Normal 0.6
+(RB 03) 80° 23' 49.8'' E
+6° 30' 49'' N
+Maguru Ganga Magura 152 m 4.00 6.00 7.50 1.87 1.85 Normal 3.7
+80° 14' 36'' E
+Kalawellawa 6° 37' 50.3'' N
+Kuda Ganga 780 m 5.00 6.50 8.00 3.32 3.32 Normal 0.0
+(Millakanda) 80° 9' 37.7'' E
+6° 20' 33.3'' N
+Gin Ganga Tawalama 377 m 4.00 6.00 7.50 1.85 1.85 Normal 2.6
+Gin Ganga 80° 19' 55.2'' E
+(RB 09) 6° 10' 25'' N
+Gin Ganga Baddegama 749 m 3.50 4.00 5.00 1.79 1.78 Normal 2.1
+80° 10' 33.1'' E
+6° 00' 40'' N
+Nilwala Ganga Thalgahagoda 852 m 1.40 1.70 2.80 1.39 1.30 Normal 14.5
+80° 31' 35'' E
+6° 08' 00'' N
+Nilwala Ganga Panadugama 445 m 5.00 6.00 7.50 3.98 3.96 Normal 0.0
+Nilwala Ganga 80° 29' 00'' E
+(RB 12) 6° 12' 48.2'' N
+Nilwala Ganga Pitabeddara 310 m 4.00 5.00 6.50 1.21 1.21 Normal 8.4
+80° 28' 34.5'' E
+6° 14' 11.8'' N
+Urubokka Ganga Urawa 59 m 2.50 4.00 6.00 0.66 0.66 Normal 6.8
+80° 34' 18'' E
+Walawe Ganga 6° 20′ 43″ N
+Walawe Ganga Moraketiya 1542 m 1.80 3.50 5.00 0.89 0.89 Normal 0.0
+(RB 18) 80° 54′ 05″ E
+6° 28' 5.9'' N
+Kirindi Oya Tanamalwila 749 m 4.00 5.00 5.50 -0.03 0.03 Normal 0.0
+81° 8' 2.8'' E
+Kirindi Oya 6° 42' 33.3'' N
+Kirindi Oya Wellawaya 172 m 4.40 5.40 5.90 0.54 0.54 Normal 0.0
+(RB 22) 81° 6' 41.6'' E
+6° 31' 28.8'' N
+Kuda Oya Kuda Oya 291 m 6.90 8.40 8.80 1.05 1.05 Normal 0.0
+81° 07' 24'' E
+Menik Ganga 6° 24' 60.0'' N
+Menik Ganga Katharagama 796.8 m 4.00 4.60 6.50 -0.24 -0.23 Normal 0.0
+(RB 26) 81° 19' 57'' E
+Kumbukkan Oya 6° 53' 42.4'' N
+Kumbukkan Oya Nakkala 216 m 5.00 6.00 7.50 0.59 0.59 Normal 0.0
+(RB 31) 81° 17' 49.3'' E
+Heda Oya 6° 54' 16.5'' N
+Heda Oya Siyambalanduwa 295 m 4.50 6.00 7.00 0.41 0.41 Normal 0.0
+(RB 36) 81° 32' 44.4'' E
+Maduru Oya 7° 23' 0'' N
+Maduru Oya Padiyatalawa 159 m 4.00 4.50 6.00 0.08 0.08 Normal 0.0
+(RB 54) 81° 11' 30'' E
+7° 54' 53.3'' N
+Manampitiya ( Old) 7418 m 3.50 5.00 6.00 -1.07 -1.08 Normal 0.0
+81° 5' 10'' E
+Mahaweli Ganga
+Manampitiya (HMIS) 7° 54' 53.3'' N 7418 m 4.65 6.15 7.15 0.07 0.06 Normal 0.0
+81° 5' 10'' E
+Mahaweli Ganga Weragantota 7° 19' 0'' N 4092 m 5.00 6.00 8.00 -3.16 -3.15 Normal 0.0
+80° 59' 18.3'' E
+7° 16' 3'' N
+Mahaweli Ganga Mahaweli Ganga Peradeniya 80° 36' 30'' E 1168 m 5.00 7.00 9.00 2.02 2.20 Normal 4.5
+(RB 60) 7° 2' 55'' N
+Mahaweli Ganga Nawalapitiya 176 m 3.50 5.00 6.00 1.32 1.30 Normal 7.9
+80° 32' 3'' E
+7° 5' 26.7'' N
+Badulu Oya Taldena 276 m 3.00 4.00 5.00 0.37 0.37 Normal 0.0
+81° 2' 53.3'' E
+6° 54' 8.3'' N
+Agra Oya Calidonia 148 m 3.00 3.50 4.50 0.62 0.62 Normal 0.6
+80° 42' 00'' E
+Yan Oya 8° 34' 39.44'' N
+Yan Oya Horowpatana 720 m 6.00 7.50 10.50 1.53 1.53 Normal 0.0
+(RB 67) 80° 52' 43.25'' E
+Maa Oya (RB 69) Mukunu Oya Yakawewa 8° 43' 19'' N 117 m 4.00 5.00 6.00 0.43 0.43 Normal 0.0
+80° 40' 50'' E
+Malwathu Oya Malwathu Oya Tantirimale 8° 35' 13.57'' N 2116 m 5.00 6.80 7.80 1.03 1.02 Normal 0.0
+(RB 90) 80° 16' 31.14'' E
+Mee Oya M ee Oya Galgamuwa 7° 58' 13.3'' N 299 m 4.84 5.94 8.00 0.13 0.13 Normal 0.0
+(RB 95) 80° 15' 18.3'' E
+Deduru Oya Deduru Oya Ridi bendi Ella (Dam) 7° 43' 36'' N 1370 m 3.30 4.20 4.70 1.09 1.09 Normal 0.0
+(RB 99) 80° 15' 48'' E
+Maha Oya Badalgama 7° 18' 3.3'' N 1360 m 5.00 6.20 9.60 2.25 2.25 Normal 5.0
+Maha Oya 79° 58' 50'' E
+(RB 102) 7° 19' 30'' N
+Maha Oya Giriulla 1192 m 5.50 6.50 7.50 1.13 1.14 Normal 4.0
+80° 6' 53.3'' E
+Attanagalu Oya Attanagalu Oya Dunamale 7° 7' 0'' N 153 m 3.30 4.40 5.50 1.22 1.22 Normal 0.0
+(RB 103) 80° 4' 54.5'' E
+Prepared by : P.A.G.Gayampath ( H.A.)
+Checked by : W.H.J.Abeywickrama (H.D.S.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)
+
+Daily Rainfall
+Units in mm
+DATE : 9-Jun-2022
+Kelani Ganga Basin (RB 01) Menik Ganga (RB 26) Kala Oya (RB 93)
+Castlereigh(CEB) 2.5 Buttala Bridge (HMIS) 0.0 Usgala Siyamabalangamuwa (HMIS) NA
+Norton(CEB) 11.0 Rajanganaya (Res) (HMIS) 1.0
+Maussakelle(CEB) 1.0 Gal Oya (RB 44) Kalawewa (Res) (HMIS) NA
+Canyon(CEB) 1.0 Dambulu Oya(Res) (HMIS) 0.0
+Laxapana(CEB) 18.0 Ampara 0.0 Kandalama (Res) (HMIS) NA
+Colombo(ID) 3.5 Senanayaka Samu.(Res)(HMIS) 2.0 Dambulu Oya River (HMIS) NA
+Bibile (HMIS) 0.0
+Bolgoda Ganga (RB 02) Inginiyagala(CEB) 0.0 Daduru Oya (RB 99)
+Bolgoda Lake(HMIS) NA Mahaweli Ganga Basin (RB 60) Masspotha 3.5
+Amunugama 0.0
+Kalu Ganga (RB 03) Kotmale(CEB) 2.3 Ethiliyagala 0.0
+Victoria(CEB) 0.0 Ma Eliya 0.0
+Kukulegama(CEB) 7.0 Randenigala(CEB) 0.0 Daisy Valley 7.8
+Halwathura (HMIS) NA Rantembe(CEB) 0.0 Diniminiyathanna 0.0
+Anguruwathota (HMIS) NA Bowatenna(CEB) 0.0 Moragaswewa (HMIS) NA
+Dela (HMIS) 4.0 Ukuwela(CEB) 0.0 Nugawela (HMIS) NA
+Magura (Baduraliya) (HMIS) NA U.Kothmale(CEB) 0.0
+Malwala (HMIS) NA Angamedilla (HMIS) NA Maa Oya (RB 102)
+Banagoda (HMIS) NA Hembarewa (HMIS) NA
+Watapotha (HMIS) NA Calsey Maeliya (HMIS) 0.0 Molagoda (HMIS) NA
+Paragoda (HMIS) 8.0 Ulhitiya (Res) (HMIS) NA Hatharaliyadde (HMIS) NA
+Girithale(Res) (HMIS) 1.0 Aranayake (HMIS) NA
+Benthara Ganga (RB 04) Parakrama Samu.(Res) (HMIS) NA Bolagama Bridge (HMIS) NA
+Minneriya(Res) (HMIS) NA
+Aviththawa(HMIS) NA Kaudulla(Res) (HMIS) NA Attanagalu Oya (RB 103)
+Diyabeduma (HMIS) 0.0
+Gin Ganga (RB 09) Ulhitiya Inlet Canal (HMIS) NA Attanagalla 0.0
+Minipe LB Canal (HMIS) NA Algama (HMIS) 29.0
+Lankagama (HMIS) 6.0 Moragahakanda (HMIS) 0.0
+Deniyaya Bridge (HMIS) NA
+Yan oya (RB 67) Max. Rainfall (CEB)
+Nilwala Ganga (RB 12) Laxapana(CEB) 18.0
+Hurulu Wewa(Res) (HMIS) NA
+Akuressa (HMIS) NA Max.Rainfall (HMIS)
+Sapugoda (HMIS) NA Maha Oya (RB 69) Algama (HMIS) 29.0
+Walawe Ganga (RB 18) Padawiya Tank (HMIS) NA Max. Rainfall (ID)
+Deraniyagala 17.5
+Samanalawewa(CEB)(cid:9) 0.0 Malwathu Oya (RB 90)
+Mau Ara (Res) (HMIS) 3.0 Notation
+Thimbolketiya (HMIS) 0.0 Menik Farm (HMIS) 0.0 Tr :- Traced Rainfall
+Udawalawe (Res) (HMIS) NA Tissa Wewa(Res) (HMIS) NA RB :- River Basin
+Nachchaduwa(Res) (HMIS) NA MET :- Department of Meteorology
+ID :- Irrigation Department
+CEB :- Ceylon Electricity Board
+Res :- Reservoir
+HMIS :- DSWRP Data
+NA :- Not Available
+Eng.S.P.C.Sugeeshwara
+Director (Hydrology and Disaster Management) Prepared by : P.A.G.Gayampath ( H.A.)
+Checked by : W.H.J.Abeywickrama (H.D.S.)

@@ -1,0 +1,51 @@
+Water Level & Rainfall Situation in Major Rivers Under Observation
+DATE : 6-Sep-2022 TIME : 3:30 AM
+Gauging Station
+Water
+Water Water 18 Hr RF 3 Hr RF
+Minor Major Level
+River Basin Tributory/River Alert Level at Level at Remarks in mm at in mm at
+Station Unit Flood Flood Rising or
+Level 2:00 am 3:00 am 3.00 am 3.00 am
+Level Level Falling
+Kelani Ganga N' Street ft 4.00 5.00 7.00 3.90 4.10 Alert Rising -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 7.62 7.72 Alert Rising 49.8 0
+Kelani Ganga Glencourse m 15.00 16.50 19.00 17.19 17.32 Minor Flood Rising 84.9 1.8
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 2.86 2.94 Normal 158.6 0.8
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 4.98 4.36 Minor Flood Falling 100.8 0
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 3.79 3.35 Normal 108.7 0
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 1.26 1.24 Normal 39.3 0
+Kalu Ganga Putupaula m 3.00 4.00 5.00 2.68 2.71 Normal 29.4 3.5
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 8.70 8.75 Normal 98.7 2.6
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 6.66 6.61 Alert Falling 64.4 0.6
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 5.62 5.66 Alert Rising 45.7 0
+Kuda Ganga Kalawellawa (Millakanda) m 5.00 6.50 8.00 6.58 6.64 Minor Flood Rising 35.1 0
+Gin Ganga Tawalama m 4.00 6.00 7.50 3.72 3.53 Normal 24.8 1.8
+Gin Ganga
+(RB 09)
+Gin Ganga Baddegama m 3.50 4.00 5.00 2.60 2.65 Normal 5.9 3.2
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 0.79 0.83 Normal 5.9 0
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 4.98 5.05 Alert Rising 15.1 0
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 2.62 2.60 Normal 41.0 0
+Urubokka Ganga Urawa m 2.50 4.00 6.00 1.77 1.70 Normal 100.5 0
+Mahaweli Ganga Peradeniya m 5.00 7.00 9.00 7.35 7.00 Minor Flood Falling 120.3 1.2
+Mahaweli Ganga
+(RB 60)
+Mahaweli Ganga Nawalapitiya m 3.50 5.00 6.00 3.22 2.85 Normal 128.0 1.4
+Maha Oya Badalgama m 5.00 6.20 9.60 5.66 6.08 Alert Rising 12.1 0
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 7.47 7.66 Major Flood Rising 30.6 0
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 4.87 4.90 Minor Flood Rising 57.6 0.0
+(RB 103)
+Prepared by : K.K.C.U.Dilshan ( H.A. )
+Checked by : P.A.G.Gayampath (H.A.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

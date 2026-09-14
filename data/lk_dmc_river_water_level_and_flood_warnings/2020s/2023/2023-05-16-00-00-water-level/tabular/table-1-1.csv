@@ -1,0 +1,32 @@
+River Basin,Tributory/River,Gauging Station,,,,,"Water
+Level at
+11:00 pm","Water
+Level at
+12:00
+Midnight",Remarks,"Water
+Level
+Rising or
+Falling","15 Hr RF
+in mm at
+12:00
+Midnight"
+,,Station,Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,
+"Kalu Ganga
+(RB 03)",Kalu Ganga,Putupaula,m,3.00,4.00,5.00,1.63,1.63,Normal,,0.0
+,Kalu Ganga,Ellagawa,m,10.00,10.70,12.20,6.14,6.08,Normal,,0.1
+,Kalu Ganga,Ratnapura,m,5.20,7.50,9.50,1.91,1.85,Normal,,0.0
+,Maguru Ganga,Magura,m,4.00,6.00,7.50,2.95,2.87,Normal,,0.0
+,Kuda Ganga,"Kalawellawa
+(Millakanda)",m,5.00,6.50,8.00,5.58,5.56,Alert,Falling,3.3
+Gin Ganga,Gin Ganga,Tawalama,m,4.00,6.00,7.50,2.70,2.64,Normal,,0.0
+(RB 09),Gin Ganga,Baddegama,m,3.50,4.00,5.00,4.22,4.24,Minor Flood,Rising,0.0
+"Nilwala Ganga
+(RB 12)",Nilwala Ganga,Thalgahagoda,m,1.40,1.70,2.80,2.10,2.23,Minor Flood,Rising,0.0
+,Nilwala Ganga,Panadugama,m,5.00,6.00,7.50,6.72,6.68,Minor Flood,Falling,0.0
+,Nilwala Ganga,Pitabeddara,m,4.00,5.00,6.50,1.95,1.94,Normal,,0.0
+,Urubokka Ganga,Urawa,m,2.50,4.00,6.00,0.75,0.73,Normal,,0.0
