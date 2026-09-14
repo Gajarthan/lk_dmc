@@ -2,9 +2,9 @@
 
 Weather forecasts for Sri Lanka.
 
-Documents: **2,065**
+Documents: **2,066**
 
-Date range: 2025-12-08 to 2026-09-14
+Date range: 2025-12-08 to 2026-09-15
 
 Source: [Disaster Management Centre](https://www.dmc.gov.lk).
 
