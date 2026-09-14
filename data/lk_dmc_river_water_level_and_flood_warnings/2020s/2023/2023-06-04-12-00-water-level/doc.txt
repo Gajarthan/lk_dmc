@@ -1,0 +1,32 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 4-Jun-2023 TIME : 12:30 PM
+Gauging Station Water
+Water Water Level 3 Hr RF in
+Minor Major Level at
+River Basin Tributory/River Alert Level at Remarks Rising or mm at
+Station Unit Flood Flood 12:00
+Level 11:00 am Falling 12:00 Noon
+Level Level Noon
+Kalu Ganga Putupaula m 3.00 4.00 5.00 2.48 2.50 Normal 2.2
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 6.96 6.96 Normal 2.5
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 2.65 2.51 Normal 0.0
+Kalu Ganga
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 5.64 5.71 Alert Rising 3.4
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 7.21 7.21 Minor Flood 1.0
+(Millakanda)
+Gin Ganga Tawalama m 4.00 6.00 7.50 4.28 3.80 Normal 1.1
+Gin Ganga
+(RB 09)
+Gin Ganga Baddegama m 3.50 4.00 5.00 3.89 3.90 Alert Rising 7.0
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.23 1.22 Normal 0.0
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 4.31 4.29 Normal 0.0
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 1.10 1.13 Normal 0.0
+Urubokka Ganga Urawa m 2.50 4.00 6.00 0.35 0.33 Normal 0.0
+Prepared by : K.K.C.U.Dilshan ( H.A.)
+Checked by : W.G.D.Harshani (Snr.H.A.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

@@ -1,7 +1,7 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-13T22:39:49.991644+00:00",
+  "time_updated": "2026-09-14T00:30:48.611378+00:00",
   "n_docs": 2470,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
@@ -71,13 +71,13 @@
       "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 1275,
-  "n_docs_with_text": 1266,
-  "n_docs_with_tabular": 1043,
+  "n_docs_with_pdfs": 1603,
+  "n_docs_with_text": 1594,
+  "n_docs_with_tabular": 1306,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-13",
   "langs": [
     "und"
   ],
-  "dataset_size": 311639385
+  "dataset_size": 363023778
 }

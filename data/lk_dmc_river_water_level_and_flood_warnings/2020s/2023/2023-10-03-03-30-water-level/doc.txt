@@ -1,0 +1,48 @@
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 3-Oct-2023 TIME : 3:30 AM
+Gauging Station
+Water Water Water Level 18 Hr RF
+Minor Major
+River Basin Tributory/River Alert Level at Level at Remarks Rising or in mm at
+Station Unit Flood Flood
+Level 02:00 am 03:00 am Falling 03.00 am
+Level Level
+Kelani Ganga N' Street ft 4.00 5.00 7.00 3.50 3.70 Normal -
+Kelani Ganga Hanwella m 7.00 8.00 10.00 5.45 5.42 Normal 5.7
+Kelani Ganga Glencourse m 15.00 16.50 19.00 12.66 12.50 Normal 15.8
+Kelani Ganga
+Kelani Ganga Kitulgala m 3.00 4.00 6.00 1.80 1.69 Normal 29.1
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 3.40 5.00 1.13 1.12 Normal 12.7
+Seethawaka Ganga Deraniyagala m 4.80 5.80 6.40 1.62 1.62 Normal 23.4
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 1.00 0.96 Normal 5.7
+Kalu Ganga Putupaula m 3.00 4.00 5.00 4.21 4.21 Minor Flood 20.5
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 9.91 9.86 Normal 7.6
+Kalu Ganga
+Kalu Ganga Ratnapura m 5.20 7.50 9.50 5.01 5.00 Normal 30.7
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 3.57 3.50 Normal 35.8
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 8.02 8.00 Major Flood Falling 4.9
+(Millakanda)
+Gin Ganga Tawalama m 4.00 6.00 7.50 2.98 2.97 Normal 36.6
+Gin Ganga
+(RB 09)
+Gin Ganga Baddegama m 3.50 4.00 5.00 4.34 4.34 Minor Flood 7.8
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 2.22 2.22 Minor Flood 27.9
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 6.97 6.97 Minor Flood 72.5
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 3.24 3.09 Normal 78.8
+Urubokka Ganga Urawa m 2.50 4.00 6.00 1.92 1.84 Normal 34.3
+Maha Oya Badalgama m 5.00 6.20 9.60 3.08 3.07 Normal 28.8
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 1.79 1.82 Normal 11.9
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 3.64 3.61 Alert Falling 0.0
+(RB 103)
+Prepared by : K.K.C.U.Dilshan (H.A.)
+Checked by : G.A.S.A.Jayamal ( H.A.)
+Eng.S.P.C.Sugeeshwara `
+Director (Hydrology and Disaster Management)

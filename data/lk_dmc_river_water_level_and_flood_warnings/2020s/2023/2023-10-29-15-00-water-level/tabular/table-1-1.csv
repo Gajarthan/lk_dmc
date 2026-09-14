@@ -1,0 +1,41 @@
+River Basin,Tributory/River,Gauging Station,,,,,"Water
+Level at
+2:00 pm","Water
+Level at
+3.00 pm",Remarks,"Water Level
+Rising or
+Falling","6 Hr RF in
+mm at 3.00
+pm",,
+,,Station,Unit,"Alert
+Level","Minor
+Flood
+Level","Major
+Flood
+Level",,,,,,,
+,Kelani Ganga,N' Street,ft,4.00,5.00,7.00,2.90,2.90,Normal,,-,,
+,Kelani Ganga,Hanwella,m,7.00,8.00,10.00,2.71,2.68,Normal,,1,,4.7
+,Kelani Ganga,Glencourse,m,15.00,16.50,19.00,10.29,10.25,Normal,,0.0,,
+"Kelani Ganga
+(RB 01)",Kelani Ganga,Kitulgala,m,3.00,4.00,6.00,1.65,1.50,Normal,,32.0,,
+,Gurugoda Oya,Holombuwa,m,3.00,3.40,5.00,0.77,0.74,Normal,,3.1,,
+,Seethawaka Ganga,Deraniyagala,m,4.80,5.80,6.40,0.68,0.65,Normal,,0.0,,
+,Kehelgamu Oya,Norwood,m,1.50,3.00,4.50,1.00,1.04,Normal,,,7.0,
+"Kalu Ganga
+(RB 03)",Kalu Ganga,Putupaula,m,3.00,4.00,5.00,2.13,2.16,Normal,,1.5,,
+,Kalu Ganga,Ellagawa,m,10.00,10.70,12.20,7.90,7.90,Normal,,0.0,,
+,Kalu Ganga,Ratnapura,m,5.20,7.50,9.50,4.31,4.18,Normal,,1.5,,
+,Maguru Ganga,Magura,m,4.00,6.00,7.50,2.36,2.28,Normal,,0.0,,
+,Kuda Ganga,"Kalawellawa
+(Millakanda)",m,5.00,6.50,8.00,5.44,5.41,Alert,Falling,4.0,,
+Gin Ganga,Gin Ganga,Baddegama,m,3.50,4.00,5.00,3.09,3.05,Normal,,0.0,,
+(RB 09),Gin Ganga,Tawalama,m,4.00,6.00,7.50,1.93,1.92,Normal,,0.0,,
+"Nilwala Ganga
+(RB 12)",Nilwala Ganga,Thalgahagoda,m,1.40,1.70,2.80,1.87,1.87,Minor Flood,,0.0,,
+,Nilwala Ganga,Panadugama,m,5.00,6.00,7.50,5.07,5.03,Alert,Falling,0.0,,
+,Nilwala Ganga,Pitabeddara,m,4.00,5.00,6.50,1.55,1.55,Normal,,0.0,,
+,Urubokka Ganga,Urawa,m,2.50,4.00,6.00,1.02,1.02,Normal,,0.0,,
+Maha Oya,Maha Oya,Badalgama,m,5.00,6.20,9.60,3.35,3.30,Normal,,0.0,,
+(RB 102),Maha Oya,Giriulla,m,5.50,6.50,7.50,2.03,1.96,Normal,,0.0,,
+"Attanagalu Oya
+(RB 103)",Attanagalu Oya,Dunamale,m,3.30,4.40,5.50,2.02,2.00,Normal,,0.0,,
