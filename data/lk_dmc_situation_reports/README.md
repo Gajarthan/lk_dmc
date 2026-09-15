@@ -2,9 +2,9 @@
 
 Reports on heavy rain, wind, lightning, and other disaster impacts.
 
-Documents: **2,745**
+Documents: **2,747**
 
-Date range: 2019-12-19 to 2026-09-13
+Date range: 2019-12-19 to 2026-09-15
 
 Source: [Disaster Management Centre](https://www.dmc.gov.lk).
 
