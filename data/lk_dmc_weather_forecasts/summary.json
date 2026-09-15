@@ -1,11 +1,19 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-15T12:01:41.710294+00:00",
-  "n_docs": 2073,
+  "time_updated": "2026-09-15T17:15:41.922885+00:00",
+  "n_docs": 2074,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-15-18-00-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-15",
+      "time_str": "18:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789478544.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-15-16-00-weather-forecast--2c3f4dc6",
       "description": "Weather Forecast (Tamil Language)",
@@ -61,23 +69,15 @@
       "time_str": "05:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1789432000.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-15-03-00-advisory-for-heavy-rain",
-      "description": "Advisory for Heavy Rain",
-      "date_str": "2026-09-15",
-      "time_str": "03:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0300_hrs_on_2026__1789423563.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2073,
-  "n_docs_with_text": 2073,
-  "n_docs_with_tabular": 1569,
+  "n_docs_with_pdfs": 2074,
+  "n_docs_with_text": 2074,
+  "n_docs_with_tabular": 1570,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-09-15",
   "langs": [
     "und"
   ],
-  "dataset_size": 1693506299
+  "dataset_size": 1693722610
 }
