@@ -1,5 +1,5 @@
 {
-  "pages": 281,
+  "pages": 280,
   "discovered": 2473,
   "processed": 0,
   "attempted": 0,
@@ -14,7 +14,6 @@
     "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2350 row 6: time data '2021-05-28 ' does not match format '%Y-%m-%d %H:%M'",
     "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2400 row 3: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1620947554.xlsx",
     "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2640 row 2: time data '2019-08-16 ' does not match format '%Y-%m-%d %H:%M'",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2790 row 10: time data '0000-00-00 18:30' does not match format '%Y-%m-%d %H:%M'",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2800 row 2: Expected 4 cells, found 1"
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2790 row 10: time data '0000-00-00 18:30' does not match format '%Y-%m-%d %H:%M'"
   ]
 }
