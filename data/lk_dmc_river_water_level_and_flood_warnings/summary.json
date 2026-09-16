@@ -1,11 +1,35 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-16T00:38:43.481269+00:00",
-  "n_docs": 2474,
+  "time_updated": "2026-09-16T07:52:53.737416+00:00",
+  "n_docs": 2477,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-16-12-30-water-level--rainfall",
+      "description": "Water level & Rainfall",
+      "date_str": "2026-09-16",
+      "time_str": "12:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789543890.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-16-09-30-water-level--rainfall",
+      "description": "Water level & Rainfall",
+      "date_str": "2026-09-16",
+      "time_str": "09:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789532746.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-16-06-00-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-16",
+      "time_str": "06:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789521317.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-16-00-30-water-level-c884ee1c1e83",
       "description": "Water Level",
@@ -45,39 +69,15 @@
       "time_str": "10:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789272972.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-12-09-30-water-level--rainfall",
-      "description": "Water level & Rainfall",
-      "date_str": "2026-09-12",
-      "time_str": "09:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789185958.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-11-09-30-water-level--rainfall",
-      "description": "Water level & Rainfall",
-      "date_str": "2026-09-11",
-      "time_str": "09:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789099550.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-10-10-00-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-10",
-      "time_str": "10:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789019309.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2474,
-  "n_docs_with_text": 2448,
-  "n_docs_with_tabular": 1804,
+  "n_docs_with_pdfs": 2477,
+  "n_docs_with_text": 2451,
+  "n_docs_with_tabular": 1807,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-16",
   "langs": [
     "und"
   ],
-  "dataset_size": 669808463
+  "dataset_size": 670417228
 }
