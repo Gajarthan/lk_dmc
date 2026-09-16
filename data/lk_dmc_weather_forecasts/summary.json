@@ -1,11 +1,51 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-16T07:53:01.644507+00:00",
-  "n_docs": 2077,
+  "time_updated": "2026-09-16T13:41:30.435513+00:00",
+  "n_docs": 2082,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-16-16-00-weather-forecast--2c3f4dc6",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-09-16",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2026__1789557923.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-16-16-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-16",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1789555389.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-16-14-50-advisory-for-seve-f95b350b",
+      "description": "Advisory for Severe Lightning (Tamil Language)",
+      "date_str": "2026-09-16",
+      "time_str": "14:50",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_1030hrs_on_16__1789550968.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-16-14-00-weather-forecast--eb2ff5a1",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-09-16",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789550379.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-16-14-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-16",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789549702.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-16-10-30-weather-advisory",
       "description": "Weather Advisory",
@@ -29,55 +69,15 @@
       "time_str": "05:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1789517849.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-15-18-00-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-15",
-      "time_str": "18:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789478544.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-15-16-00-weather-forecast--2c3f4dc6",
-      "description": "Weather Forecast (Tamil Language)",
-      "date_str": "2026-09-15",
-      "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1789470730.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-15-16-00-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-15",
-      "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2026__1789469574.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-15-14-00-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-15",
-      "time_str": "14:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789462959.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-15-10-00-advisory-for-seve-82701b48",
-      "description": "Advisory for Severe Lightning",
-      "date_str": "2026-09-15",
-      "time_str": "10:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_1000hrs_on_15__1789450627.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2077,
-  "n_docs_with_text": 2077,
-  "n_docs_with_tabular": 1572,
+  "n_docs_with_pdfs": 2082,
+  "n_docs_with_text": 2082,
+  "n_docs_with_tabular": 1576,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-09-16",
   "langs": [
     "und"
   ],
-  "dataset_size": 1696450122
+  "dataset_size": 1699013983
 }
