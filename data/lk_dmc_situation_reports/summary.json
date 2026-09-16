@@ -1,8 +1,8 @@
 {
   "doc_class_label": "lk_dmc_situation_reports",
   "doc_class_description": "Reports on heavy rain, wind, lightning, and other disaster impacts.",
-  "time_updated": "2026-09-16T18:21:26.674196+00:00",
-  "n_docs": 2757,
+  "time_updated": "2026-09-16T21:34:27.429637+00:00",
+  "n_docs": 2765,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
@@ -71,13 +71,13 @@
       "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2756,
-  "n_docs_with_text": 2755,
-  "n_docs_with_tabular": 2749,
-  "date_str_min": "2019-12-16",
+  "n_docs_with_pdfs": 2764,
+  "n_docs_with_text": 2763,
+  "n_docs_with_tabular": 2757,
+  "date_str_min": "2019-12-12",
   "date_str_max": "2026-09-16",
   "langs": [
     "und"
   ],
-  "dataset_size": 1199847911
+  "dataset_size": 1207897153
 }
