@@ -1,8 +1,8 @@
 {
-  "pages": 277,
-  "discovered": 2765,
-  "processed": 8,
-  "attempted": 9,
+  "pages": 271,
+  "discovered": 2705,
+  "processed": 0,
+  "attempted": 1,
   "limited": true,
   "errors": [
     "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=1310 row 6: time data '2023-06-30 ' does not match format '%Y-%m-%d %H:%M'",
