@@ -50,9 +50,9 @@ These numbers come from the published data branches. Click a dataset name to bro
 
 | Reports | Original PDFs | Extracted text | AI analyzed | With tables |
 |:---:|:---:|:---:|:---:|:---:|
-| **8,153** | **8,152** | **8,124** | **0** | **6,863** |
+| **8,154** | **8,153** | **8,125** | **0** | **6,864** |
 
-**Report files:** 4106.4 MiB · **Latest summary:** 2026-09-18 16:40 UTC · **Sources reporting:** 4/4
+**Report files:** 4106.5 MiB · **Latest summary:** 2026-09-18 21:08 UTC · **Sources reporting:** 4/4
 
 ### Dataset monitor
 
@@ -60,7 +60,7 @@ These numbers come from the published data branches. Click a dataset name to bro
 |---|---:|---:|---:|---:|---|---|
 | [Situation reports](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) | 2,769 | 2,768 | 2,767 | 0 | 2026-09-18 | Needs attention |
 | [Weather forecasts](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) | 2,100 | 2,100 | 2,100 | 0 | 2026-09-18 | Needs attention |
-| [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,485 | 2,485 | 2,459 | 0 | 2026-09-18 | Needs attention |
+| [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,486 | 2,486 | 2,460 | 0 | 2026-09-19 | Needs attention |
 | [Landslide warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) | 799 | 799 | 798 | 0 | 2026-09-16 | Needs attention |
 
 Counts describe archived files. AI counts include only validated results matching the current source text. **Bounded run** means a collection limit was reached; it does not mean the full source history is archived.
@@ -69,6 +69,7 @@ Counts describe archived files. AI counts include only validated results matchin
 
 | Report date | Dataset | Report | Source | AI |
 |---|---|---|---|---|
+| 2026-09-19 | River and flood warnings | Water Level | [PDF](https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789760264.pdf) | Pending |
 | 2026-09-18 | Weather forecasts | The Advisory for strong winds and rough seas (For Multi-day boats in the Bay of Bengal deep sea areas.) at 1700 hrs on 2026.09.18 (TAMIL) | [PDF](https://www.dmc.gov.lk/images/dmcreports/MSA_26091801_TM__1789737653.pdf) | Pending |
 | 2026-09-18 | River and flood warnings | Water Level | [PDF](https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789737128.pdf) | Pending |
 | 2026-09-18 | Weather forecasts | The Advisory for strong winds and rough seas (For Multi-day boats in the Bay of Bengal deep sea areas.) at 1700 hrs on 2026.09.18 | [PDF](https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas__1789736174.pdf) | Pending |
@@ -76,7 +77,6 @@ Counts describe archived files. AI counts include only validated results matchin
 | 2026-09-18 | Weather forecasts | Weather Forecast | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789721814.pdf) | Pending |
 | 2026-09-18 | Weather forecasts | Weather Foreacast (Tamil Language) | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789723693.pdf) | Pending |
 | 2026-09-18 | Weather forecasts | Advisory for Strong Winds and Rough Seas | [PDF](https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_1300hrs_on_18__1789717248.pdf) | Pending |
-| 2026-09-18 | Weather forecasts | Advisory for Strong Winds and Rough Seas (Tamil Language) | [PDF](https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_1300hrs_on_18__1789720541.pdf) | Pending |
 
 This section refreshes after pipeline completion and on the scheduled dashboard refresh. Workflow badges show the latest workflow result, not real-time service health.
 
