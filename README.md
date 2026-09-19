@@ -50,15 +50,15 @@ These numbers come from the published data branches. Click a dataset name to bro
 
 | Reports | Original PDFs | Extracted text | AI analyzed | With tables |
 |:---:|:---:|:---:|:---:|:---:|
-| **8,170** | **8,169** | **8,141** | **0** | **6,876** |
+| **8,184** | **8,183** | **8,155** | **0** | **6,890** |
 
-**Report files:** 4116.4 MiB · **Latest summary:** 2026-09-19 16:04 UTC · **Sources reporting:** 4/4
+**Report files:** 4132.2 MiB · **Latest summary:** 2026-09-19 18:46 UTC · **Sources reporting:** 4/4
 
 ### Dataset monitor
 
 | Dataset | Reports | PDFs | Text | AI | Newest report | Collection |
 |---|---:|---:|---:|---:|---|---|
-| [Situation reports](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) | 2,771 | 2,770 | 2,769 | 0 | 2026-09-19 | Needs attention |
+| [Situation reports](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) | 2,785 | 2,784 | 2,783 | 0 | 2026-09-19 | Needs attention |
 | [Weather forecasts](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) | 2,110 | 2,110 | 2,110 | 0 | 2026-09-19 | Needs attention |
 | [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,490 | 2,490 | 2,464 | 0 | 2026-09-19 | Needs attention |
 | [Landslide warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) | 799 | 799 | 798 | 0 | 2026-09-16 | Needs attention |
