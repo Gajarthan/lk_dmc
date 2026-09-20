@@ -1,11 +1,19 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-20T16:24:28.092285+00:00",
-  "n_docs": 2501,
+  "time_updated": "2026-09-20T19:00:48.029868+00:00",
+  "n_docs": 2502,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-20-21-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-20",
+      "time_str": "21:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789921394.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-20-18-00-water-level",
       "description": "Water Level",
@@ -61,23 +69,15 @@
       "time_str": "09:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789879291.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-09-30-flood-warning-for-9815c119",
-      "description": "Flood Warning for Kuda Ganga Sub Basin of Kalu River - NO 01",
-      "date_str": "2026-09-20",
-      "time_str": "09:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Kuda_Ganga_SubBasin_Of_Kalu_River_-_NO_01_(2026__1789878586.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2501,
-  "n_docs_with_text": 2475,
-  "n_docs_with_tabular": 1825,
+  "n_docs_with_pdfs": 2502,
+  "n_docs_with_text": 2476,
+  "n_docs_with_tabular": 1826,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-20",
   "langs": [
     "und"
   ],
-  "dataset_size": 676146713
+  "dataset_size": 676359398
 }
