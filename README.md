@@ -50,17 +50,17 @@ These numbers come from the published data branches. Click a dataset name to bro
 
 | Reports | Original PDFs | Extracted text | AI analyzed | With tables |
 |:---:|:---:|:---:|:---:|:---:|
-| **8,206** | **8,205** | **8,177** | **0** | **6,904** |
+| **8,208** | **8,207** | **8,179** | **0** | **6,905** |
 
-**Report files:** 4145.4 MiB · **Latest summary:** 2026-09-20 16:24 UTC · **Sources reporting:** 4/4
+**Report files:** 4145.9 MiB · **Latest summary:** 2026-09-20 19:00 UTC · **Sources reporting:** 4/4
 
 ### Dataset monitor
 
 | Dataset | Reports | PDFs | Text | AI | Newest report | Collection |
 |---|---:|---:|---:|---:|---|---|
 | [Situation reports](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) | 2,785 | 2,784 | 2,783 | 0 | 2026-09-19 | Needs attention |
-| [Weather forecasts](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) | 2,118 | 2,118 | 2,118 | 0 | 2026-09-20 | Needs attention |
-| [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,501 | 2,501 | 2,475 | 0 | 2026-09-20 | Needs attention |
+| [Weather forecasts](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) | 2,119 | 2,119 | 2,119 | 0 | 2026-09-20 | Needs attention |
+| [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,502 | 2,502 | 2,476 | 0 | 2026-09-20 | Needs attention |
 | [Landslide warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) | 802 | 802 | 801 | 0 | 2026-09-20 | Needs attention |
 
 Counts describe archived files. AI counts include only validated results matching the current source text. **Bounded run** means a collection limit was reached; it does not mean the full source history is archived.
@@ -69,14 +69,14 @@ Counts describe archived files. AI counts include only validated results matchin
 
 | Report date | Dataset | Report | Source | AI |
 |---|---|---|---|---|
+| 2026-09-20 | River and flood warnings | Water Level | [PDF](https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789921394.pdf) | Pending |
 | 2026-09-20 | River and flood warnings | Water Level | [PDF](https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789918604.pdf) | Pending |
+| 2026-09-20 | Weather forecasts | Weather Advisory for Strong winds and Rough Seas | [PDF](https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_1700hrs_on_20__1789923331.pdf) | Pending |
 | 2026-09-20 | Weather forecasts | Weather Forecast | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1789900578.pdf) | Pending |
 | 2026-09-20 | River and flood warnings | Water level &amp; Rainfall | [PDF](https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789898749.pdf) | Pending |
 | 2026-09-20 | Weather forecasts | Weather Report | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1789897288.pdf) | Pending |
 | 2026-09-20 | Weather forecasts | Weather Forecast (Tamil Language) | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789898460.pdf) | Pending |
 | 2026-09-20 | Landslide warnings | Landslide EW Report | [PDF](https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_1400hrs_on_2026__1789894283.pdf) | Pending |
-| 2026-09-20 | Weather forecasts | Advisory for Strong Winds and Rough Seas | [PDF](https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_1300hrs_on_20__1789892946.pdf) | Pending |
-| 2026-09-20 | River and flood warnings | Flood Warning for Mahaweli River Minor Flood - No 03 | [PDF](https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Mahaweli_River_Minor_Flood_-_No_03_-_2026__1789892562.pdf) | Pending |
 
 This section refreshes after pipeline completion and on the scheduled dashboard refresh. Workflow badges show the latest workflow result, not real-time service health.
 
