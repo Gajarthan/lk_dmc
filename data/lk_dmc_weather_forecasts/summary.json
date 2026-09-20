@@ -1,11 +1,19 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-20T16:24:34.647609+00:00",
-  "n_docs": 2118,
+  "time_updated": "2026-09-20T19:00:58.991775+00:00",
+  "n_docs": 2119,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-20-17-00-weather-advisory--ccaaa97a",
+      "description": "Weather Advisory for Strong winds and Rough Seas",
+      "date_str": "2026-09-20",
+      "time_str": "17:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_1700hrs_on_20__1789923331.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-20-16-00-weather-forecast",
       "description": "Weather Forecast",
@@ -61,23 +69,15 @@
       "time_str": "05:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1789875601.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-05-30-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-20",
-      "time_str": "05:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_orecast_at_0530hrs__1789866050.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2118,
-  "n_docs_with_text": 2118,
+  "n_docs_with_pdfs": 2119,
+  "n_docs_with_text": 2119,
   "n_docs_with_tabular": 1599,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-09-20",
   "langs": [
     "und"
   ],
-  "dataset_size": 1730120239
+  "dataset_size": 1730370424
 }
