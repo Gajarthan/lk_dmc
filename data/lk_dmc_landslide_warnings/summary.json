@@ -1,11 +1,27 @@
 {
   "doc_class_label": "lk_dmc_landslide_warnings",
   "doc_class_description": "Landslide early warnings and locations at risk.",
-  "time_updated": "2026-09-20T00:13:37.221928+00:00",
-  "n_docs": 799,
+  "time_updated": "2026-09-20T05:06:01.754375+00:00",
+  "n_docs": 801,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-20-10-00-landslide-ew-report",
+      "description": "Landslide EW Report",
+      "date_str": "2026-09-20",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_1000hrs_on_2026__1789879344.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-20-07-00-landslide-ew-report",
+      "description": "Landslide EW Report",
+      "date_str": "2026-09-20",
+      "time_str": "07:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_0700hrs_on_2026__1789870835.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-16-10-00-landslide-ew-report",
       "description": "Landslide EW Report",
@@ -53,31 +69,15 @@
       "time_str": "09:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_0900hrs_on_2026__1785988143.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-08-05-09-00-landslide-ew-report",
-      "description": "Landslide EW Report",
-      "date_str": "2026-08-05",
-      "time_str": "09:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_09__1785902381.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-08-04-09-00-landslide-ew-report",
-      "description": "Landslide Ew Report",
-      "date_str": "2026-08-04",
-      "time_str": "09:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_09__1785816590.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 799,
-  "n_docs_with_text": 798,
-  "n_docs_with_tabular": 700,
+  "n_docs_with_pdfs": 801,
+  "n_docs_with_text": 800,
+  "n_docs_with_tabular": 702,
   "date_str_min": "2018-05-20",
-  "date_str_max": "2026-09-16",
+  "date_str_max": "2026-09-20",
   "langs": [
     "und"
   ],
-  "dataset_size": 711491606
+  "dataset_size": 712751925
 }
