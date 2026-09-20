@@ -1,0 +1,116 @@
+නායයෑම් පිළිබඳ පෙර අනතුරු ඇඟවීම First warning issued date: 20-09-2026
+kz;rhpT Kd;ndr;rhpfi; f
+Landslide Early Warning
+Message ID: LEWM-20-09-2026-1400-02
+Update: 2nd update
+Validity Period: From 14:00 hrs on 20.09.2026 To 14:00 hrs on 21.09.2026
+
+Locations for Potential Risk
+නායයෑමේ අවදානම පැවතිය හැකි ප්‍රමේශ fdjpahd mghaKs;s ,lq;fs;
+District Level 1 (Yellow) Level 2 (Amber) Level 3 (Red)
+Seethawaka Padukka
+Colombo Divisional Secretariat Divisional Secretariat
+Division(s) (DSD) and Division(s) (DSD) and
+surrounding areas. surrounding areas.
+Nagoda,
+Niyagama and
+Thawalama and
+Baddegama
+Neluwa
+Galle
+Divisional Secretariat
+Divisional Secretariat
+Division(s) (DSD) and
+Division(s) (DSD) and
+surrounding areas.
+surrounding areas.
+Mirigama
+Gampaha Divisional Secretariat
+Division(s) (DSD) and
+surrounding areas.
+Bulathsinhala,
+Palindanuwara,
+Ingiriya
+Walallawita and
+Agalawatta
+Kalutara Divisional Secretariat
+Division(s) (DSD) and
+Divisional Secretariat
+surrounding areas.
+Division(s) (DSD) and
+surrounding areas.
+Udapalatha and
+↑ Ganga Ihala Korale ↑ Pasbage Korale
+Yatinuwara
+Kandy Divisional Secretariat Divisional Secretariat
+Divisional Secretariat
+Division(s) (DSD) and Division(s) (DSD) and
+Division(s) (DSD) and
+surrounding areas. surrounding areas.
+surrounding areas.
+↑ Dehiowita,
+* Galigamuwa, ↑↑ Aranayake,
+↑ Bulathkohupitiya and
+Warakapola and ↑ Deraniyagala,
+Kegalle
+Ruwanwella ↑↑ Mawanella and
+Kegalle ↑ Yatiyanthota
+Divisional Secretariat
+Divisional Secretariat
+Division(s) (DSD) and
+Division(s) (DSD) and Divisional Secretariat
+surrounding areas.
+surrounding areas. Division(s) (DSD) and
+surrounding areas.
+Kotapola,
+Akuressa and
+* Pasgoda and
+Pitabeddara
+Athuraliya
+Matara
+Divisional Secretariat
+Divisional Secretariat
+Division(s) (DSD) and
+Division(s) (DSD) and
+surrounding areas.
+surrounding areas.
+
+↑ Kothmale West, ↑Kotmale East,
+↑ Ambagamuwa and ↑Norwood
+Thalawakele Divisional Secretariat
+Nuwara Eliya Division(s) (DSD) and
+Divisional Secretariat
+surrounding areas.
+Division(s) (DSD) and
+surrounding areas.
+Pelmadulla,
+Eheliyagoda, Ratnapura-Ratnapura,
+Kalawana and Ayagama,
+Elapatha Kuruwita and
+Ratnapura Ratnapura
+Divisional Secretariat
+Division(s) (DSD) and Divisional Secretariat
+surrounding areas. Division(s) (DSD) and
+surrounding areas.
+Note: ↑shifted one level up, ↑↑shifted two levels up, ↓shifted one level down, ↓↓shifted two levels down.
+*Newly added with the last update
+Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas
+and given weather forecast by meteorological department of Sri Lanka
+Areas and places which need special attention
+Steep slopes, valleys, man-made cut slopes, roads located in hazardous areas, and people living in or
+adjacent to these areas within the relevant Divisional Secretariat (DS) divisions.
+අදාල ප්‍රාදේශීය දේකම් දකාට්ඨාශයන් තුළ පිහිටි ත්‍රිවි බෑවුම්, මිටියාවත් / නිමින , නිරීමිත කන්ි (cut slopes),
+අනතුරුදායක ප්‍රදේශ හරහා ගමන් කරන මහාමාගග හා ඒවාට ආසන්නව දහෝ ඒවා තුළ ජීවත්වන ජනතාව.
+gpuNjr nrayf gphptpDs;shd rfy kiyg;ghq;fhd gFjpfs;; kw;Wk; ntl;lg;gl;l epyr; rha;Tfs
+Specially: All the landslide susceptible areas previously identified by NBRO.
+විප ේෂ: ජාතික දගාඩනැගිලි පදයගේෂණ සංවිධානය විසින් නායයෑදම් අවදානමක් ඇති දලස පුවගදයන් හදුනාදගන
+ඇති ප්‍රදේශ
+tpNrlkhf: NBROtpdhy; Kd;dh; milahsg;gLj;jg;gl;l kz;rhpTf;fhd VjepiyAs;s rfy gpuNjrq;fs.;
+
+Previous Message ID: LEWM-20-09-2026-1000-01
+Issued by: Approved by:
+20-09-2026, 14:00 hrs
+Date and time issued
+Duty Officer Director - LRRMD
+Landslide Research and Risk Management Division
+National Building Research Organisation
