@@ -1,11 +1,35 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-20T00:17:16.420711+00:00",
-  "n_docs": 2110,
+  "time_updated": "2026-09-20T05:09:40.904972+00:00",
+  "n_docs": 2113,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-20-06-00-advisory-for-heavy-rain",
+      "description": "Advisory for Heavy Rain",
+      "date_str": "2026-09-20",
+      "time_str": "06:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0600hrs_on_20__1789870698.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-20-05-30-weather-forecast--16b07aaa",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-09-20",
+      "time_str": "05:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1789875601.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-20-05-30-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-20",
+      "time_str": "05:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_orecast_at_0530hrs__1789866050.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-19-18-00-advisory-for-roug-fb2ee614",
       "description": "Advisory for Rough Seas (Tamil Language)",
@@ -45,39 +69,15 @@
       "time_str": "14:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789808003.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-19-14-00-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-19",
-      "time_str": "14:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1789807403.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-19-13-00-advisory-for-stro-7eb3bb3e",
-      "description": "Advisory for Strong Winds and Rough Seas",
-      "date_str": "2026-09-19",
-      "time_str": "13:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas__1789804220.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-19-11-00-advisory-for-seve-7cff27c1",
-      "description": "Advisory for Severe Lightning",
-      "date_str": "2026-09-19",
-      "time_str": "11:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1100hrs_on_19__1789797527.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2110,
-  "n_docs_with_text": 2110,
-  "n_docs_with_tabular": 1593,
+  "n_docs_with_pdfs": 2113,
+  "n_docs_with_text": 2113,
+  "n_docs_with_tabular": 1596,
   "date_str_min": "2025-12-08",
-  "date_str_max": "2026-09-19",
+  "date_str_max": "2026-09-20",
   "langs": [
     "und"
   ],
-  "dataset_size": 1722166115
+  "dataset_size": 1724836228
 }
