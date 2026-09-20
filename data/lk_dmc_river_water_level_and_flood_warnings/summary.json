@@ -1,11 +1,19 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-20T19:00:48.029868+00:00",
-  "n_docs": 2502,
+  "time_updated": "2026-09-20T22:39:33.703688+00:00",
+  "n_docs": 2503,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-21-00-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-21",
+      "time_str": "00:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789931917.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-20-21-30-water-level",
       "description": "Water Level",
@@ -61,23 +69,15 @@
       "time_str": "10:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_for_Mahaweli_River_-_No_02_-_2026__1789883542.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-09-30-water-level--rainfall",
-      "description": "Water level & Rainfall",
-      "date_str": "2026-09-20",
-      "time_str": "09:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789879291.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2502,
-  "n_docs_with_text": 2476,
-  "n_docs_with_tabular": 1826,
+  "n_docs_with_pdfs": 2503,
+  "n_docs_with_text": 2477,
+  "n_docs_with_tabular": 1827,
   "date_str_min": "2018-05-21",
-  "date_str_max": "2026-09-20",
+  "date_str_max": "2026-09-21",
   "langs": [
     "und"
   ],
-  "dataset_size": 676359398
+  "dataset_size": 676572308
 }
