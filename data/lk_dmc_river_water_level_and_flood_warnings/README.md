@@ -2,9 +2,9 @@
 
 River water levels and flood warnings for Sri Lanka.
 
-Documents: **2,490**
+Documents: **2,495**
 
-Date range: 2018-05-21 to 2026-09-19
+Date range: 2018-05-21 to 2026-09-20
 
 Source: [Disaster Management Centre](https://www.dmc.gov.lk).
 

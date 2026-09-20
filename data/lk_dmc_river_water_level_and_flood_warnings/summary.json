@@ -1,11 +1,51 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-20T00:17:16.444985+00:00",
-  "n_docs": 2490,
+  "time_updated": "2026-09-20T05:09:31.451071+00:00",
+  "n_docs": 2495,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-20-09-30-water-level--rainfall",
+      "description": "Water level & Rainfall",
+      "date_str": "2026-09-20",
+      "time_str": "09:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789879291.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-20-09-30-flood-warning-for-9815c119",
+      "description": "Flood Warning for Kuda Ganga Sub Basin of Kalu River - NO 01",
+      "date_str": "2026-09-20",
+      "time_str": "09:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Kuda_Ganga_SubBasin_Of_Kalu_River_-_NO_01_(2026__1789878586.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-20-08-00-flood-warning-for-e2d74528",
+      "description": "Flood Warning for Mahaweli River - No 01",
+      "date_str": "2026-09-20",
+      "time_str": "08:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Mahaweli_River_-_No_01_-_2026__1789874571.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-20-08-00-flood-warning-for-a9a37453",
+      "description": "Flood Warning for Mahaweli River - No 01 (Tamil Language)",
+      "date_str": "2026-09-20",
+      "time_str": "08:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Mahaweli_River_-_No_01_-_2026__1789874663.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-20-06-30-water-level--rainfall",
+      "description": "Water level & Rainfall",
+      "date_str": "2026-09-20",
+      "time_str": "06:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789869575.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-19-18-00-water-level",
       "description": "Water Level",
@@ -29,55 +69,15 @@
       "time_str": "09:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789791467.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-19-06-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-19",
-      "time_str": "06:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789780369.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-19-00-00-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-19",
-      "time_str": "00:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789760264.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-18-18-00-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-18",
-      "time_str": "18:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789737128.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-18-12-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-18",
-      "time_str": "12:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789715613.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-18-09-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-18",
-      "time_str": "09:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789705848.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2490,
-  "n_docs_with_text": 2464,
-  "n_docs_with_tabular": 1820,
+  "n_docs_with_pdfs": 2495,
+  "n_docs_with_text": 2469,
+  "n_docs_with_tabular": 1822,
   "date_str_min": "2018-05-21",
-  "date_str_max": "2026-09-19",
+  "date_str_max": "2026-09-20",
   "langs": [
     "und"
   ],
-  "dataset_size": 672033115
+  "dataset_size": 673986737
 }

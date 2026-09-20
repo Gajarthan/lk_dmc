@@ -1,17 +1,21 @@
 {
-  "pages": 245,
-  "discovered": 2126,
-  "processed": 0,
-  "attempted": 0,
-  "limited": true,
+  "pages": 285,
+  "discovered": 2496,
+  "processed": 5,
+  "attempted": 5,
+  "limited": false,
   "errors": [
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=670 row 11: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=1190 row 8: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=1950 row 10: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2220 row 11: time data '2022-02-13 ' does not match format '%Y-%m-%d %H:%M'",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2300 row 2: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2350 row 10: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1622835789.xlsx",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2370 row 4: time data '2021-05-28 ' does not match format '%Y-%m-%d %H:%M'",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2410 row 11: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1620947554.xlsx"
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=680 row 6: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=1200 row 3: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=1960 row 5: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2230 row 6: time data '2022-02-13 ' does not match format '%Y-%m-%d %H:%M'",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2300 row 7: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2360 row 5: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1622835789.xlsx",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2370 row 9: time data '2021-05-28 ' does not match format '%Y-%m-%d %H:%M'",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2420 row 6: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1620947554.xlsx",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2660 row 5: time data '2019-08-16 ' does not match format '%Y-%m-%d %H:%M'",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2820 row 3: time data '0000-00-00 18:30' does not match format '%Y-%m-%d %H:%M'",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2830 row 2: Expected 4 cells, found 1",
+    "Collection failed: Repeated report page at https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2840"
   ]
 }
