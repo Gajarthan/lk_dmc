@@ -1,11 +1,35 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-20T22:39:33.703688+00:00",
-  "n_docs": 2503,
+  "time_updated": "2026-09-21T05:15:30.285356+00:00",
+  "n_docs": 2506,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-21-09-30-water-level--rainfall",
+      "description": "Water level & Rainfall",
+      "date_str": "2026-09-21",
+      "time_str": "09:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789964775.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-21-06-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-21",
+      "time_str": "06:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789953277.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-21-03-00-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-21",
+      "time_str": "03:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789944257.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-21-00-30-water-level",
       "description": "Water Level",
@@ -45,39 +69,15 @@
       "time_str": "13:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Mahaweli_River_Minor_Flood_-_No_03_-_2026__1789892562.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-12-30-water-level--rainfall",
-      "description": "Water level & Rainfall",
-      "date_str": "2026-09-20",
-      "time_str": "12:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789889008.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-12-30-flood-warning-for-08a68f59",
-      "description": "Flood warning for Gin River Basin - NO 01",
-      "date_str": "2026-09-20",
-      "time_str": "12:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Gin_River_Basin_-_NO_01_(2026__1789889081.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-10-30-flood-warning-for-20912264",
-      "description": "Flood Warning for Mahaweli River - No 02",
-      "date_str": "2026-09-20",
-      "time_str": "10:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_for_Mahaweli_River_-_No_02_-_2026__1789883542.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2503,
-  "n_docs_with_text": 2477,
-  "n_docs_with_tabular": 1827,
+  "n_docs_with_pdfs": 2506,
+  "n_docs_with_text": 2480,
+  "n_docs_with_tabular": 1830,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-21",
   "langs": [
     "und"
   ],
-  "dataset_size": 676572308
+  "dataset_size": 677284275
 }
