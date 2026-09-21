@@ -1,11 +1,27 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-21T13:10:20.965095+00:00",
-  "n_docs": 2130,
+  "time_updated": "2026-09-21T19:42:22.294417+00:00",
+  "n_docs": 2132,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-21-22-30-warning-for-stron-c61af1b1",
+      "description": "Warning for Strong Winds and Rough Seas (Tamil Language)",
+      "date_str": "2026-09-21",
+      "time_str": "22:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_High_wind_and_Rough_Seas_at_2200hrs_on_2026__1790010494.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-21-22-00-warning-for-stron-ddc75b79",
+      "description": "Warning for Strong winds & Rough Seas for Multiday Boats",
+      "date_str": "2026-09-21",
+      "time_str": "22:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_For_Multi-day_boats_in_the_Bay_of_Bengal_deep_sea_areas_at_2200hrs_on_2026__1790009275.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-21-16-00-weather-forecast",
       "description": "Weather Forecast",
@@ -53,31 +69,15 @@
       "time_str": "09:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_0900_on_21__1789963485.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-21-09-00-the-warning-for-s-cf0f3a1a",
-      "description": "The Warning for strong winds and rough seas - Tamil Language",
-      "date_str": "2026-09-21",
-      "time_str": "09:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_0900_on_21__1789971253.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-21-07-45-advisory-for-heavy-rain",
-      "description": "Advisory for Heavy Rain",
-      "date_str": "2026-09-21",
-      "time_str": "07:45",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0745_hrs_on_2026__1789957913.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2130,
-  "n_docs_with_text": 2130,
+  "n_docs_with_pdfs": 2132,
+  "n_docs_with_text": 2132,
   "n_docs_with_tabular": 1606,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-09-21",
   "langs": [
     "und"
   ],
-  "dataset_size": 1739605245
+  "dataset_size": 1741662383
 }
