@@ -1,11 +1,43 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-21T05:15:19.760681+00:00",
-  "n_docs": 2124,
+  "time_updated": "2026-09-21T13:10:20.965095+00:00",
+  "n_docs": 2130,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-21-16-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-21",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_21__1789989860.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-21-14-00-weather-forecast--eb2ff5a1",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-09-21",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789982572.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-21-14-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-21",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789980885.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-21-10-00-warning-for-stron-9d48ecd6",
+      "description": "Warning for strong winds and rough seas (Tamil Language)",
+      "date_str": "2026-09-21",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1000hrs_on_21__1789971455.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-21-10-00-warning-for-stron-8c5a5cd7",
       "description": "Warning for strong winds and rough seas",
@@ -23,61 +55,29 @@
       "analyzed": false
     },
     {
+      "doc_id": "2026-09-21-09-00-the-warning-for-s-cf0f3a1a",
+      "description": "The Warning for strong winds and rough seas - Tamil Language",
+      "date_str": "2026-09-21",
+      "time_str": "09:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_0900_on_21__1789971253.pdf",
+      "analyzed": false
+    },
+    {
       "doc_id": "2026-09-21-07-45-advisory-for-heavy-rain",
       "description": "Advisory for Heavy Rain",
       "date_str": "2026-09-21",
       "time_str": "07:45",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0745_hrs_on_2026__1789957913.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-21-06-00-weather-forecast--754de3ff",
-      "description": "Weather Forecast (Tamil Language)",
-      "date_str": "2026-09-21",
-      "time_str": "06:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1789951957.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-21-05-30-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-21",
-      "time_str": "05:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1789950183.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-17-00-weather-advisory--ccaaa97a",
-      "description": "Weather Advisory for Strong winds and Rough Seas",
-      "date_str": "2026-09-20",
-      "time_str": "17:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_1700hrs_on_20__1789923331.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-16-00-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-20",
-      "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1789900578.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-20-14-00-weather-report",
-      "description": "Weather Report",
-      "date_str": "2026-09-20",
-      "time_str": "14:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1789897288.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2124,
-  "n_docs_with_text": 2124,
-  "n_docs_with_tabular": 1602,
+  "n_docs_with_pdfs": 2130,
+  "n_docs_with_text": 2130,
+  "n_docs_with_tabular": 1606,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-09-21",
   "langs": [
     "und"
   ],
-  "dataset_size": 1736509070
+  "dataset_size": 1739605245
 }
