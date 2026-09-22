@@ -1,8 +1,8 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-21T23:29:44.154504+00:00",
-  "n_docs": 2513,
+  "time_updated": "2026-09-22T05:16:35.137403+00:00",
+  "n_docs": 2515,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
@@ -12,6 +12,22 @@
       "date_str": "2026-09-22",
       "time_str": "12:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790018459.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-22-09-30-water-level--rainfall",
+      "description": "Water level & Rainfall",
+      "date_str": "2026-09-22",
+      "time_str": "09:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790050027.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-22-06-30-river-water-level",
+      "description": "River Water Level",
+      "date_str": "2026-09-22",
+      "time_str": "06:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790040644.pdf",
       "analyzed": false
     },
     {
@@ -53,31 +69,15 @@
       "time_str": "13:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_for_Gin_River_Basin_-_NO_02_(2026__1789976288.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-21-12-30-water-level--rainfall",
-      "description": "Water level & Rainfall",
-      "date_str": "2026-09-21",
-      "time_str": "12:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789975634.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-21-09-30-water-level--rainfall",
-      "description": "Water level & Rainfall",
-      "date_str": "2026-09-21",
-      "time_str": "09:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789964775.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2513,
-  "n_docs_with_text": 2487,
-  "n_docs_with_tabular": 1836,
+  "n_docs_with_pdfs": 2515,
+  "n_docs_with_text": 2489,
+  "n_docs_with_tabular": 1838,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-22",
   "langs": [
     "und"
   ],
-  "dataset_size": 679132099
+  "dataset_size": 679628910
 }
