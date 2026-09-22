@@ -1,11 +1,27 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-22T17:11:03.003517+00:00",
-  "n_docs": 2144,
+  "time_updated": "2026-09-22T21:36:41.992047+00:00",
+  "n_docs": 2146,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-22-22-45-advisory-for-stro-7c4262a0",
+      "description": "Advisory for Strong Winds & Rough Seas (Tamil Language)",
+      "date_str": "2026-09-22",
+      "time_str": "22:45",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_&_Rough_Seas_(Tamil)__1790097270.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-22-22-30-advisory-for-stro-bc1b2410",
+      "description": "Advisory for Strong Winds & Rough Seas",
+      "date_str": "2026-09-22",
+      "time_str": "22:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_2215hrs_on_2026__1790097013.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-22-16-00-weather-forecast--e6297509",
       "description": "Weather forecast at 1600hrs",
@@ -53,31 +69,15 @@
       "time_str": "13:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_&_Rough_Seas_at_1300hrs_on_2026__1790064378.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-22-13-00-advisoruy-for-sev-2cb1d980",
-      "description": "Advisoruy for severy lightning (Tamil Language)",
-      "date_str": "2026-09-22",
-      "time_str": "13:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1200hrs_on_2026__1790063490.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-22-12-00-advisory-for-seve-8f4c0da7",
-      "description": "Advisory for Severe Lightning",
-      "date_str": "2026-09-22",
-      "time_str": "12:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1200noon_on_2026__1790060301.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2144,
-  "n_docs_with_text": 2144,
+  "n_docs_with_pdfs": 2146,
+  "n_docs_with_text": 2146,
   "n_docs_with_tabular": 1612,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-09-22",
   "langs": [
     "und"
   ],
-  "dataset_size": 1754376232
+  "dataset_size": 1756347592
 }
