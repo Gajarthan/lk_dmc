@@ -1,11 +1,27 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-22T11:59:27.011904+00:00",
-  "n_docs": 2517,
+  "time_updated": "2026-09-22T17:10:56.280701+00:00",
+  "n_docs": 2519,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-22-21-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-22",
+      "time_str": "21:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790093650.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-22-18-30-water-level-report",
+      "description": "Water Level report",
+      "date_str": "2026-09-22",
+      "time_str": "18:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790086667.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-22-15-30-water-level",
       "description": "Water Level",
@@ -53,31 +69,15 @@
       "time_str": "03:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790032093.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-21-21-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-21",
-      "time_str": "21:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790008467.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-21-18-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-21",
-      "time_str": "18:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789996060.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2517,
-  "n_docs_with_text": 2491,
-  "n_docs_with_tabular": 1840,
+  "n_docs_with_pdfs": 2519,
+  "n_docs_with_text": 2493,
+  "n_docs_with_tabular": 1842,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-22",
   "langs": [
     "und"
   ],
-  "dataset_size": 680051093
+  "dataset_size": 680468153
 }
