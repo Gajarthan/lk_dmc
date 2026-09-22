@@ -1,11 +1,19 @@
 {
   "doc_class_label": "lk_dmc_landslide_warnings",
   "doc_class_description": "Landslide early warnings and locations at risk.",
-  "time_updated": "2026-09-22T05:12:49.934819+00:00",
-  "n_docs": 804,
+  "time_updated": "2026-09-22T11:55:34.530676+00:00",
+  "n_docs": 805,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-22-16-00-landslide-ew-report",
+      "description": "Landslide EW Report",
+      "date_str": "2026-09-22",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_1600hrs_on_2026__1790075641.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-21-16-00-landslide-ew-report",
       "description": "Landslide EW Report",
@@ -61,23 +69,15 @@
       "time_str": "10:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_1000hrs_on_2026__1789448963.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-08-09-09-30-landslide-ew-report",
-      "description": "Landslide EW Report",
-      "date_str": "2026-08-09",
-      "time_str": "09:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_0900hrs_on_2026__1786251019.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 804,
-  "n_docs_with_text": 803,
-  "n_docs_with_tabular": 705,
+  "n_docs_with_pdfs": 805,
+  "n_docs_with_text": 804,
+  "n_docs_with_tabular": 706,
   "date_str_min": "2018-05-20",
-  "date_str_max": "2026-09-21",
+  "date_str_max": "2026-09-22",
   "langs": [
     "und"
   ],
-  "dataset_size": 714433060
+  "dataset_size": 714944319
 }

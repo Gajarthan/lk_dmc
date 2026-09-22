@@ -2,9 +2,9 @@
 
 Landslide early warnings and locations at risk.
 
-Documents: **804**
+Documents: **805**
 
-Date range: 2018-05-20 to 2026-09-21
+Date range: 2018-05-20 to 2026-09-22
 
 Source: [Disaster Management Centre](https://www.dmc.gov.lk).
 
