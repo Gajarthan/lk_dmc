@@ -1,8 +1,8 @@
 {
   "pages": 83,
   "discovered": 806,
-  "processed": 1,
-  "attempted": 1,
+  "processed": 0,
+  "attempted": 0,
   "limited": false,
   "errors": [
     "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=760 row 11: Unsupported download link: /images/dmcreports/",
