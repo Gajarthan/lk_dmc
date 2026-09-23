@@ -1,11 +1,59 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-23T07:57:11.624173+00:00",
-  "n_docs": 2151,
+  "time_updated": "2026-09-23T13:50:02.731013+00:00",
+  "n_docs": 2157,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-23-16-00-weather-forecast--2c3f4dc6",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-09-23",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790160451.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-23-16-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-23",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790159924.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-23-15-00-advisory-for-stro-c62bfdfe",
+      "description": "Advisory for Strong Winds and Rough Seas",
+      "date_str": "2026-09-23",
+      "time_str": "15:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1400hrs_on_23__1790158843.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-23-14-00-weather-forecast--eb2ff5a1",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-09-23",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1790156083.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-23-14-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-23",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1790155069.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-23-14-00-advisory-for-stro-b3879791",
+      "description": "Advisory for Strong Winds and Rough Seas",
+      "date_str": "2026-09-23",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_1400hrs_on_23__1790156582.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-23-10-00-warning-for-stron-9d48ecd6",
       "description": "Warning for strong winds and rough seas (Tamil Language)",
@@ -21,63 +69,15 @@
       "time_str": "10:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1000hrs_on_23__1790142336.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-23-07-00-weather-forecast--d2f5a9e4",
-      "description": "Weather forecast for Multiday boats at 0700hrs",
-      "date_str": "2026-09-23",
-      "time_str": "07:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_For_the_sea_areas___1790131761.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-23-07-00-advisory-for-heavy-rain",
-      "description": "Advisory for Heavy Rain",
-      "date_str": "2026-09-23",
-      "time_str": "07:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0700hrs_on_23__1790131508.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-23-05-30-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-23",
-      "time_str": "05:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_tat_0530hrs__1790125385.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-22-22-45-advisory-for-stro-7c4262a0",
-      "description": "Advisory for Strong Winds & Rough Seas (Tamil Language)",
-      "date_str": "2026-09-22",
-      "time_str": "22:45",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_&_Rough_Seas_(Tamil)__1790097270.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-22-22-30-advisory-for-stro-bc1b2410",
-      "description": "Advisory for Strong Winds & Rough Seas",
-      "date_str": "2026-09-22",
-      "time_str": "22:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_2215hrs_on_2026__1790097013.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-22-16-00-weather-forecast--e6297509",
-      "description": "Weather forecast at 1600hrs",
-      "date_str": "2026-09-22",
-      "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_1600hrs__1790087320.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2151,
-  "n_docs_with_text": 2151,
-  "n_docs_with_tabular": 1614,
+  "n_docs_with_pdfs": 2157,
+  "n_docs_with_text": 2157,
+  "n_docs_with_tabular": 1618,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-09-23",
   "langs": [
     "und"
   ],
-  "dataset_size": 1762919575
+  "dataset_size": 1767502809
 }
