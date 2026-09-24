@@ -5,14 +5,14 @@
   "attempted": 1,
   "limited": true,
   "errors": [
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=720 row 4: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=1230 row 11: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2000 row 3: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2270 row 4: time data '2022-02-13 ' does not match format '%Y-%m-%d %H:%M'",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2340 row 5: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2400 row 3: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1622835789.xlsx",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2410 row 7: time data '2021-05-28 ' does not match format '%Y-%m-%d %H:%M'",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2460 row 4: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1620947554.xlsx",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2700 row 3: time data '2019-08-16 ' does not match format '%Y-%m-%d %H:%M'"
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=720 row 5: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=1240 row 2: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2000 row 4: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2270 row 5: time data '2022-02-13 ' does not match format '%Y-%m-%d %H:%M'",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2340 row 6: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2400 row 4: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1622835789.xlsx",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2410 row 8: time data '2021-05-28 ' does not match format '%Y-%m-%d %H:%M'",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2460 row 5: Unsupported download link: /images/dmcreports/Water_Level_&_Rainfall_2021__1620947554.xlsx",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=2700 row 4: time data '2019-08-16 ' does not match format '%Y-%m-%d %H:%M'"
   ]
 }
