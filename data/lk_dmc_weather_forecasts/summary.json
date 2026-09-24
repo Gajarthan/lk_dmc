@@ -1,11 +1,51 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-09-24T07:47:15.092241+00:00",
-  "n_docs": 2163,
+  "time_updated": "2026-09-24T13:44:12.104441+00:00",
+  "n_docs": 2168,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-24-16-00-weather-forecast--2c3f4dc6",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-09-24",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790248835.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-24-16-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-24",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790247317.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-24-14-00-weather-forecast--eb2ff5a1",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-09-24",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1790243536.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-24-14-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-09-24",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1790243512.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-24-14-00-advisory-for-stro-e69e3c3a",
+      "description": "Advisory for Strong Winds and Rough Seas at 1400hrs on 24.09.2026",
+      "date_str": "2026-09-24",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_1400hrs_on_24__1790242118.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-24-10-00-warning-for-stron-9d48ecd6",
       "description": "Warning for strong winds and rough seas (Tamil Language)",
@@ -29,55 +69,15 @@
       "time_str": "07:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0700hrs_on_24__1790215087.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-24-07-00-advisory-for-heav-a2ef61a9",
-      "description": "Advisory for Heavy Rain (Tamil Language)",
-      "date_str": "2026-09-24",
-      "time_str": "07:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0700hrs_on_24__1790215900.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-24-05-30-weather-forecast--16b07aaa",
-      "description": "Weather Forecast (Tamil Language)",
-      "date_str": "2026-09-24",
-      "time_str": "05:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1790216046.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-24-05-30-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-24",
-      "time_str": "05:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1790209087.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-23-16-00-weather-forecast--2c3f4dc6",
-      "description": "Weather Forecast (Tamil Language)",
-      "date_str": "2026-09-23",
-      "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790160451.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-23-16-00-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-09-23",
-      "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790159924.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2163,
-  "n_docs_with_text": 2163,
-  "n_docs_with_tabular": 1620,
+  "n_docs_with_pdfs": 2168,
+  "n_docs_with_text": 2168,
+  "n_docs_with_tabular": 1624,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-09-24",
   "langs": [
     "und"
   ],
-  "dataset_size": 1772547166
+  "dataset_size": 1776417043
 }
