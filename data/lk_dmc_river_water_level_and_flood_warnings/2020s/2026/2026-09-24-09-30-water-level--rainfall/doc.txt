@@ -1,0 +1,125 @@
+0
+Islandwide Water Level & Rainfall Situation in Major Rivers
+DATE : 24-Sep-2026 TIME : 9:30 AM
+Gauging Station Water
+Water Water 24 Hr RF
+Minor Major Level
+River Basin Tributory/River Alert Level at Level at Remarks in mm at
+Station Unit Flood Flood Rising or
+Level 8:00 AM 9:00 AM 8:30 AM
+Level Level Falling
+Kelani Ganga Nagalagam Street ft 4.00 5.00 7.00 2.10 2.20 Normal -
+Kelani Ganga Hanwella m 6.50 7.50 9.50 4.73 4.76 Normal 34.8
+Kelani Ganga Glencourse m 15.00 15.50 19.00 12.88 12.95 Normal 25.2
+Kelani Ganga
+Kelani Ganga Kithulgala m 3.00 4.00 6.00 2.58 2.56 Normal 42.4
+(RB 01)
+Gurugoda Oya Holombuwa m 3.00 4.00 6.00 1.67 1.71 Normal 35.8
+Seethawaka Ganga Deraniyagala m 4.80 5.80 7.00 1.92 1.89 Normal 48.4
+Kehelgamu Oya Norwood m 1.50 3.00 4.50 1.25 1.28 Normal 53.7
+Kalu Ganga Putupaula m 3.00 4.00 5.00 2.61 2.60 Normal 26.8
+Kalu Ganga Ellagawa m 10.00 10.70 12.20 7.82 7.83 Normal 35.3
+Kalu Ganga
+Kalu Ganga Rathnapura m 5.20 7.50 9.50 5.20 5.35 Alert Rising 42.6
+(RB 03)
+Maguru Ganga Magura m 4.00 6.00 7.50 4.60 4.65 Alert Rising 26.4
+Kalawellawa
+Kuda Ganga m 5.00 6.50 8.00 6.65 6.65 Minor Flood 44.8
+(Millakanda)
+Gin Ganga Baddegama m 3.50 4.00 5.00 4.17 4.21 Minor Flood Rising 108.0
+Gin Ganga
+(RB 09)
+Gin Ganga Thawalama m 4.00 6.00 7.50 5.18 5.22 Alert Rising 128.9
+Nilwala Ganga Thalgahagoda m 1.40 1.70 2.80 1.51 1.55 Alert Rising 21.5
+Nilwala Ganga Panadugama m 5.00 6.00 7.50 6.51 6.57 Minor Flood Rising 54.2
+Nilwala Ganga
+(RB 12)
+Nilwala Ganga Pitabeddara m 4.00 5.00 6.50 4.74 4.83 Alert Rising 123.3
+Urubokka Ganga Urawa m 2.50 4.00 6.00 2.93 2.78 Alert Falling 147.1
+Walawe Ganga
+Walawe Ganga Moraketiya m 3.00 5.00 7.00 1.43 1.43 Normal 46.9
+(RB 18)
+Kirindi Oya Thanamalwila m 4.00 5.00 5.50 1.10 1.10 Normal 21.4
+Kirindi Oya
+Kirindi Oya Wellawaya m 4.40 5.40 5.90 0.90 0.90 Normal 12.1
+(RB 22)
+Kuda Oya Kuda Oya m 6.90 8.40 8.80 1.01 1.01 Normal 12.3
+Menik Ganga
+Menik Ganga Katharagama m 4.00 4.60 6.50 -0.24 -0.24 Normal 41.5
+(RB 26)
+Kumbukkan Oya
+Kumbukkan Oya Nakkala m 5.00 6.00 7.50 0.54 0.54 Normal 0.0
+(RB 31)
+Heda Oya
+Heda Oya Siyambalanduwa m 4.50 6.00 7.00 0.13 0.13 Normal 0.2
+(RB 36)
+Maduru Oya
+Maduru Oya Padiyathalawa m 4.00 4.50 6.00 0.08 0.08 Normal 0.8
+(RB 54)
+Mahaweli Ganga Manampitiya m 3.00 4.30 6.00 -0.22 -0.23 Normal 0.0
+Mahaweli Ganga Weraganthota m 5.00 6.00 8.00 -3.12 -3.14 Normal 0.0
+Mahaweli Ganga
+Mahaweli Ganga Peradeniya m 5.00 7.00 9.00 3.71 3.95 Normal 43.5
+(RB 60)
+Mahaweli Ganga Nawalapitiya m 3.50 5.00 6.00 2.79 2.65 Normal 44.0
+Badulu Oya Thaldena m 3.00 4.00 5.00 0.13 0.16 Normal 0.0
+Yan Oya
+Yan Oya Horowpothana m 6.00 7.50 10.50 1.65 1.65 Normal 0.0
+(RB 67)
+Maa Oya (RB 69) Mukunu Oya Yaka Wewa m 4.00 5.00 6.00 0.41 0.41 Normal 0.0
+Malwathu Oya
+Malwathu Oya Thanthirimale m 5.00 6.80 7.80 0.42 0.42 Normal 0.0
+(RB 90)
+Mee Oya
+Mee Oya Galgamuwa m 4.84 5.94 8.00 0.03 0.03 Normal 0.7
+(RB 95)
+Deduru Oya
+Deduru Oya Moragaswewa m 4.75 6.00 7.00 0.39 0.39 Normal 16.0
+(RB 99)
+Maha Oya Badalgama m 5.00 6.20 9.60 2.65 2.67 Normal 38.2
+Maha Oya
+(RB 102)
+Maha Oya Giriulla m 5.50 6.50 7.50 1.54 1.66 Normal 43.0
+Attanagalu Oya
+Attanagalu Oya Dunamale m 3.30 4.40 5.50 2.54 2.54 Normal 21.2
+(RB 103)
+Prepared by : K.K.C.U.Dilshan (H.A)
+Checked by : Aravinda Gunasekara (Snr.H.A.)
+Eng.L.S. Sooriyabandara `
+Director (Hydrology and Disaster Management)
+
+Daily Rainfall
+Units in mm
+DATE : 23-Sep-2026
+( 24 hrs ending at 8:30 AM on 24-Sep-2026 )
+Kelani Ganga Basin (RB 01)
+Gal Oya (RB 44) Daduru Oya (RB 99)
+Castlereigh(CEB) 54.5
+Norton(CEB) 61.8 Ampara 0.0 Masspotha 16.5
+Maussakalle(CEB) 60.0 Inginiyagala(CEB) 0.0 Amunugama 32.9
+Canyon(CEB) 49.6 Ethiliyagala NA
+Laxapana(CEB) 45.0 Mahaweli Ganga Basin (RB 60) Ma Eliya NA
+Colombo 24.5 Daisy Valley 21.8
+Kotmale(CEB) 25.4 Diniminiyathanna 0.0
+Kalu Ganga (RB 03) Victoria(CEB) 1.0
+Randenigala(CEB) 0.0
+Kukulegama(CEB) 39.0 Rantembe(CEB) 0.0
+Bowatenna(CEB) 7.2
+Walawe Ganga (RB 18) Ukuwela(CEB) 19.0 Max. Rainfall (CEB)
+U.Kothmale(CEB) 39.0 Norton(CEB) 61.8
+Samanalawewa(CEB)(cid:9) 12.0
+Attanagalu Oya (RB 103) Max. Rainfall (ID)
+Urawa 147.1
+Aththanagalla 12.2
+Notation
+Tr :- Traced Rainfall
+RB :- River Basin
+MET :- Department of Meteorology
+ID :- Irrigation Department
+CEB :- Ceylon Electricity Board
+Res :- Reservoir
+NA :- Not Available
+Prepared by : K.K.C.U.Dilshan (H.A)
+Checked by : Aravinda Gunasekara (Snr.H.A.)
+Eng.L.S. Sooriyabandara
+Director (Hydrology and Disaster Management)
