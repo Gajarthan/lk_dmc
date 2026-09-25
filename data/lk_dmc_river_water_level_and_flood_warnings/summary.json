@@ -1,11 +1,35 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-25T00:43:22.583462+00:00",
-  "n_docs": 2538,
+  "time_updated": "2026-09-25T08:05:13.987745+00:00",
+  "n_docs": 2541,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-25-12-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-25",
+      "time_str": "12:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790319687.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-25-09-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-25",
+      "time_str": "09:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790310904.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-25-06-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-25",
+      "time_str": "06:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790298780.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-25-03-30-water-level",
       "description": "Water Level",
@@ -45,39 +69,15 @@
       "time_str": "21:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790266999.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-24-15-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-24",
-      "time_str": "15:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790244886.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-24-12-30-water-level--rainfall",
-      "description": "Water level & Rainfall",
-      "date_str": "2026-09-24",
-      "time_str": "12:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790233491.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-24-11-00-flood-warning-for-afc06b6f",
-      "description": "Flood Warning for Kuda Ganga SubBasin Of Kalu River - NO 03 (2026.09.24)_Extended",
-      "date_str": "2026-09-24",
-      "time_str": "11:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Kuda_Ganga_SubBasin_Of_Kalu_River_-_NO_03_(2026__1790231378.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2538,
-  "n_docs_with_text": 2512,
-  "n_docs_with_tabular": 1856,
+  "n_docs_with_pdfs": 2541,
+  "n_docs_with_text": 2515,
+  "n_docs_with_tabular": 1859,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-25",
   "langs": [
     "und"
   ],
-  "dataset_size": 688200763
+  "dataset_size": 688908328
 }
