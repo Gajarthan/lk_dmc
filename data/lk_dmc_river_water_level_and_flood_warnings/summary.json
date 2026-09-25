@@ -1,11 +1,19 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-25T14:03:21.208939+00:00",
-  "n_docs": 2542,
+  "time_updated": "2026-09-25T18:50:56.928296+00:00",
+  "n_docs": 2544,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-25-22-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-25",
+      "time_str": "22:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790359243.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-25-12-30-water-level",
       "description": "Water Level",
@@ -20,6 +28,14 @@
       "date_str": "2026-09-25",
       "time_str": "09:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790310904.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-25-06-30-water-level-b713c4b37088",
+      "description": "Water Level",
+      "date_str": "2026-09-25",
+      "time_str": "06:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790345278.pdf",
       "analyzed": false
     },
     {
@@ -53,31 +69,15 @@
       "time_str": "02:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Nilwala_River_Basin_-_NO_02_(2026__1790282202.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-25-00-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-25",
-      "time_str": "00:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790281277.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-24-21-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-24",
-      "time_str": "21:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790266999.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2542,
-  "n_docs_with_text": 2516,
-  "n_docs_with_tabular": 1860,
+  "n_docs_with_pdfs": 2544,
+  "n_docs_with_text": 2518,
+  "n_docs_with_tabular": 1862,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-25",
   "langs": [
     "und"
   ],
-  "dataset_size": 689118772
+  "dataset_size": 689543322
 }
