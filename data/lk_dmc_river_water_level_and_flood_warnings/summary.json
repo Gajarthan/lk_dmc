@@ -1,11 +1,43 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-25T18:50:56.928296+00:00",
-  "n_docs": 2544,
+  "time_updated": "2026-09-25T23:27:30.735579+00:00",
+  "n_docs": 2548,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-26-03-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-26",
+      "time_str": "03:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790375537.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-26-02-30-flood-warning-for-b6fb2342",
+      "description": "Flood warning for Gin River Basin - NO 05",
+      "date_str": "2026-09-26",
+      "time_str": "02:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_for_Gin_River_Basin_-_NO_05_(2026__1790371997.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-26-02-30-flood-warning-for-2cc7a566",
+      "description": "Flood warning for Nilwala River Basin - NO 03",
+      "date_str": "2026-09-26",
+      "time_str": "02:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Nilwala_River_Basin_-_NO_03_(2026__1790369885.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-26-01-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-26",
+      "time_str": "01:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790365671.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-25-22-30-water-level",
       "description": "Water Level",
@@ -37,47 +69,15 @@
       "time_str": "06:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790345278.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-25-06-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-25",
-      "time_str": "06:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790298780.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-25-03-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-25",
-      "time_str": "03:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790288033.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-25-02-30-flood-warning-for-c419626e",
-      "description": "Flood Warning for Gin River Basin - NO 04",
-      "date_str": "2026-09-25",
-      "time_str": "02:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_for_Gin_River_Basin_-_NO_04_(2026__1790284306.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-25-02-00-flood-warning-for-dad39121",
-      "description": "Flood warning for Nilwala River Basin - NO 02",
-      "date_str": "2026-09-25",
-      "time_str": "02:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Nilwala_River_Basin_-_NO_02_(2026__1790282202.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2544,
-  "n_docs_with_text": 2518,
-  "n_docs_with_tabular": 1862,
+  "n_docs_with_pdfs": 2548,
+  "n_docs_with_text": 2522,
+  "n_docs_with_tabular": 1864,
   "date_str_min": "2018-05-21",
-  "date_str_max": "2026-09-25",
+  "date_str_max": "2026-09-26",
   "langs": [
     "und"
   ],
-  "dataset_size": 689543322
+  "dataset_size": 692111610
 }
