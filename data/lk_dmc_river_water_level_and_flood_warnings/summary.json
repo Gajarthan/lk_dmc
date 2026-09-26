@@ -1,8 +1,8 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-26T11:41:36.896302+00:00",
-  "n_docs": 2552,
+  "time_updated": "2026-09-26T16:38:34.255117+00:00",
+  "n_docs": 2553,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
@@ -20,6 +20,14 @@
       "date_str": "2026-09-26",
       "time_str": "12:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790406700.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-26-09-30-water-level-4dae02c60e4a",
+      "description": "Water Level",
+      "date_str": "2026-09-26",
+      "time_str": "09:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790439509.pdf",
       "analyzed": false
     },
     {
@@ -61,23 +69,15 @@
       "time_str": "02:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Nilwala_River_Basin_-_NO_03_(2026__1790369885.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-26-01-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-26",
-      "time_str": "01:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790365671.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2552,
-  "n_docs_with_text": 2526,
-  "n_docs_with_tabular": 1868,
+  "n_docs_with_pdfs": 2553,
+  "n_docs_with_text": 2527,
+  "n_docs_with_tabular": 1869,
   "date_str_min": "2018-05-21",
   "date_str_max": "2026-09-26",
   "langs": [
     "und"
   ],
-  "dataset_size": 693034168
+  "dataset_size": 693245850
 }
