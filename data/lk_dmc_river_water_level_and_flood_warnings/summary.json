@@ -1,11 +1,27 @@
 {
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_description": "River water levels and flood warnings for Sri Lanka.",
-  "time_updated": "2026-09-27T18:37:47.321652+00:00",
-  "n_docs": 2561,
+  "time_updated": "2026-09-27T23:16:09.100801+00:00",
+  "n_docs": 2563,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-09-28-03-00-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-28",
+      "time_str": "03:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790547135.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-09-28-00-30-water-level",
+      "description": "Water Level",
+      "date_str": "2026-09-28",
+      "time_str": "00:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790536211.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-09-27-12-30-water-level-bdf2af957c05",
       "description": "Water Level",
@@ -53,31 +69,15 @@
       "time_str": "02:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Gin_River_Basin_-_NO_06_(2026__1790457172.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-27-02-30-flood-warning-for-a69dc50c",
-      "description": "Flood warning for Nilwala River Basin",
-      "date_str": "2026-09-27",
-      "time_str": "02:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Nilwala_River_Basin_-_NO_04_(2026__1790457212.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-27-00-30-water-level",
-      "description": "Water Level",
-      "date_str": "2026-09-27",
-      "time_str": "00:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1790453774.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2561,
-  "n_docs_with_text": 2535,
-  "n_docs_with_tabular": 1875,
+  "n_docs_with_pdfs": 2563,
+  "n_docs_with_text": 2537,
+  "n_docs_with_tabular": 1877,
   "date_str_min": "2018-05-21",
-  "date_str_max": "2026-09-27",
+  "date_str_max": "2026-09-28",
   "langs": [
     "und"
   ],
-  "dataset_size": 696734547
+  "dataset_size": 697156695
 }
