@@ -1,11 +1,27 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-10-01T22:53:42.790282+00:00",
-  "n_docs": 2218,
+  "time_updated": "2026-10-02T06:00:54.653465+00:00",
+  "n_docs": 2220,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-10-02-07-00-weather-forecast--bfbc3c2a",
+      "description": "Weather Forecast (Tamil Language)",
+      "date_str": "2026-10-02",
+      "time_str": "07:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1790904865.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-10-02-05-30-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-10-02",
+      "time_str": "05:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1790900145.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-10-01-16-00-weather-forecast--2c3f4dc6",
       "description": "Weather Forecast (Tamil Language)",
@@ -53,31 +69,15 @@
       "time_str": "14:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1790846905.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-10-01-14-00-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-10-01",
-      "time_str": "14:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1790846831.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-10-01-11-45-advisory-for-seve-9c22792b",
-      "description": "Advisory for Severe Lightning (Tamil Language)",
-      "date_str": "2026-10-01",
-      "time_str": "11:45",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1030hrs_on_01__1790835488.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2218,
-  "n_docs_with_text": 2218,
-  "n_docs_with_tabular": 1662,
+  "n_docs_with_pdfs": 2220,
+  "n_docs_with_text": 2220,
+  "n_docs_with_tabular": 1664,
   "date_str_min": "2025-12-08",
-  "date_str_max": "2026-10-01",
+  "date_str_max": "2026-10-02",
   "langs": [
     "und"
   ],
-  "dataset_size": 1814259777
+  "dataset_size": 1815573720
 }
