@@ -1,4 +1,4 @@
 {
   "status": "error",
-  "error": "500 Server Error: Internal Server Error for url: https://www.dmc.gov.lk/index.php?lang=en"
+  "error": "Response is not a PDF: https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2020__1580216347.pdf"
 }
