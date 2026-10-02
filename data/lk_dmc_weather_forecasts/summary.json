@@ -1,83 +1,83 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-10-02T06:00:54.653465+00:00",
-  "n_docs": 2220,
+  "time_updated": "2026-10-02T13:00:05.431237+00:00",
+  "n_docs": 2229,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
     {
-      "doc_id": "2026-10-02-07-00-weather-forecast--bfbc3c2a",
+      "doc_id": "2026-10-02-16-00-weather-forecast--2c3f4dc6",
       "description": "Weather Forecast (Tamil Language)",
       "date_str": "2026-10-02",
-      "time_str": "07:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1790904865.pdf",
+      "time_str": "16:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790940374.pdf",
       "analyzed": false
     },
     {
-      "doc_id": "2026-10-02-05-30-weather-forecast",
+      "doc_id": "2026-10-02-16-00-weather-forecast",
       "description": "Weather Forecast",
       "date_str": "2026-10-02",
-      "time_str": "05:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1790900145.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-10-01-16-00-weather-forecast--2c3f4dc6",
-      "description": "Weather Forecast (Tamil Language)",
-      "date_str": "2026-10-01",
       "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790851731.pdf",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790937601.pdf",
       "analyzed": false
     },
     {
-      "doc_id": "2026-10-01-16-00-weather-forecast",
-      "description": "Weather Forecast",
-      "date_str": "2026-10-01",
-      "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790850960.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-10-01-16-00-warm-weather-advisory",
+      "doc_id": "2026-10-02-16-00-warm-weather-advisory",
       "description": "Warm Weather Advisory",
-      "date_str": "2026-10-01",
+      "date_str": "2026-10-02",
       "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_01__1790852310.pdf",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_02__1790937758.pdf",
       "analyzed": false
     },
     {
-      "doc_id": "2026-10-01-16-00-warm-weather-advi-527ccc1e",
+      "doc_id": "2026-10-02-16-00-warm-weather-advi-527ccc1e",
       "description": "Warm Weather Advisory (Tamil Language)",
-      "date_str": "2026-10-01",
+      "date_str": "2026-10-02",
       "time_str": "16:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_01__1790853079.pdf",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_02__1790940572.pdf",
       "analyzed": false
     },
     {
-      "doc_id": "2026-10-01-14-00-weather-report",
-      "description": "Weather Report",
-      "date_str": "2026-10-01",
-      "time_str": "14:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1790844505.pdf",
+      "doc_id": "2026-10-02-15-30-fisherman-bulletin",
+      "description": "Fisherman Bulletin",
+      "date_str": "2026-10-02",
+      "time_str": "15:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Fisherman_Bulletin__1790937006.pdf",
       "analyzed": false
     },
     {
-      "doc_id": "2026-10-01-14-00-weather-forecast--eb2ff5a1",
+      "doc_id": "2026-10-02-14-00-weather-forecast--eb2ff5a1",
       "description": "Weather Forecast (Tamil Language)",
-      "date_str": "2026-10-01",
+      "date_str": "2026-10-02",
       "time_str": "14:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1790846905.pdf",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1400_hrs__TM__1790931635.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-10-02-14-00-weather-forecast",
+      "description": "Weather Forecast",
+      "date_str": "2026-10-02",
+      "time_str": "14:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_at_1400hrs__1790931332.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-10-02-11-30-advisory-for-seve-b072b97b",
+      "description": "Advisory for Severe Lightning (Tamil Language)",
+      "date_str": "2026-10-02",
+      "time_str": "11:30",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1130hrs_on_02__1790925650.pdf",
       "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2220,
-  "n_docs_with_text": 2220,
-  "n_docs_with_tabular": 1664,
+  "n_docs_with_pdfs": 2229,
+  "n_docs_with_text": 2229,
+  "n_docs_with_tabular": 1670,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-10-02",
   "langs": [
     "und"
   ],
-  "dataset_size": 1815573720
+  "dataset_size": 1822999282
 }
