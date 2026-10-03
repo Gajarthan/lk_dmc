@@ -1,11 +1,19 @@
 {
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_description": "Weather forecasts for Sri Lanka.",
-  "time_updated": "2026-10-03T11:56:39.510377+00:00",
-  "n_docs": 2240,
+  "time_updated": "2026-10-03T16:38:29.164566+00:00",
+  "n_docs": 2241,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-10-03-18-45-advisory-for-stro-ba658fb7",
+      "description": "Advisory for Strong Winds and Rough Seas",
+      "date_str": "2026-10-03",
+      "time_str": "18:45",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Rough_Seas_at_1845hrs_on_2026__1791034055.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-10-03-16-00-weather-forecast--2c3f4dc6",
       "description": "Weather Forecast (Tamil Language)",
@@ -61,23 +69,15 @@
       "time_str": "12:30",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1130hrs_on_03__1791011065.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-10-03-11-30-advisory-for-seve-914a1dbb",
-      "description": "Advisory for Severe Lightning",
-      "date_str": "2026-10-03",
-      "time_str": "11:30",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1130hrs_on_03__1791009404.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2240,
-  "n_docs_with_text": 2240,
+  "n_docs_with_pdfs": 2241,
+  "n_docs_with_text": 2241,
   "n_docs_with_tabular": 1678,
   "date_str_min": "2025-12-08",
   "date_str_max": "2026-10-03",
   "langs": [
     "und"
   ],
-  "dataset_size": 1832333377
+  "dataset_size": 1833367155
 }
