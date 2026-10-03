@@ -50,17 +50,17 @@ These numbers come from the published data branches. Click a dataset name to bro
 
 | Reports | Original PDFs | Extracted text | AI analyzed | With tables |
 |:---:|:---:|:---:|:---:|:---:|
-| **8,418** | **8,417** | **8,389** | **0** | **7,065** |
+| **8,424** | **8,423** | **8,395** | **0** | **7,071** |
 
-**Report files:** 4273.9 MiB · **Latest summary:** 2026-10-02 23:58 UTC · **Sources reporting:** 4/4
+**Report files:** 4278.2 MiB · **Latest summary:** 2026-10-03 05:36 UTC · **Sources reporting:** 4/4
 
 ### Dataset monitor
 
 | Dataset | Reports | PDFs | Text | AI | Newest report | Collection |
 |---|---:|---:|---:|---:|---|---|
-| [Situation reports](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) | 2,801 | 2,800 | 2,799 | 0 | 2026-09-30 | Needs attention |
-| [Weather forecasts](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) | 2,229 | 2,229 | 2,229 | 0 | 2026-10-02 | Needs attention |
-| [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,575 | 2,575 | 2,549 | 0 | 2026-10-02 | Needs attention |
+| [Situation reports](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) | 2,803 | 2,802 | 2,801 | 0 | 2026-10-03 | Needs attention |
+| [Weather forecasts](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) | 2,232 | 2,232 | 2,232 | 0 | 2026-10-03 | Needs attention |
+| [River and flood warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) | 2,576 | 2,576 | 2,550 | 0 | 2026-10-03 | Needs attention |
 | [Landslide warnings](https://github.com/Gajarthan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) | 813 | 813 | 812 | 0 | 2026-09-27 | Needs attention |
 
 Counts describe archived files. AI counts include only validated results matching the current source text. **Bounded run** means a collection limit was reached; it does not mean the full source history is archived.
@@ -69,14 +69,14 @@ Counts describe archived files. AI counts include only validated results matchin
 
 | Report date | Dataset | Report | Source | AI |
 |---|---|---|---|---|
+| 2026-10-03 | River and flood warnings | Water level &amp; Rainfall | [PDF](https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1791003781.pdf) | Pending |
+| 2026-10-03 | Situation reports | Situation Report | [PDF](https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1791003670.pdf) | Pending |
+| 2026-10-03 | Situation reports | Drought Situation Report | [PDF](https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1791003705.pdf) | Pending |
+| 2026-10-03 | Weather forecasts | Weather forecast for Multiday boats at 0700hrs | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_for_Multiday_Boats___1790991865.pdf) | Pending |
+| 2026-10-03 | Weather forecasts | Weather Forecast(Tamil Language) | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_%28Tamil_Language%29__1790991223.pdf) | Pending |
+| 2026-10-03 | Weather forecasts | Weather Forecast | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs__1790987920.pdf) | Pending |
 | 2026-10-02 | Weather forecasts | Weather Forecast (Tamil Language) | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790940374.pdf) | Pending |
 | 2026-10-02 | Weather forecasts | Weather Forecast | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1790937601.pdf) | Pending |
-| 2026-10-02 | Weather forecasts | Warm Weather Advisory | [PDF](https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_02__1790937758.pdf) | Pending |
-| 2026-10-02 | Weather forecasts | Warm Weather Advisory (Tamil Language) | [PDF](https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_02__1790940572.pdf) | Pending |
-| 2026-10-02 | Weather forecasts | Fisherman Bulletin | [PDF](https://www.dmc.gov.lk/images/dmcreports/Fisherman_Bulletin__1790937006.pdf) | Pending |
-| 2026-10-02 | Weather forecasts | Weather Forecast (Tamil Language) | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1400_hrs__TM__1790931635.pdf) | Pending |
-| 2026-10-02 | Weather forecasts | Weather Forecast | [PDF](https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_at_1400hrs__1790931332.pdf) | Pending |
-| 2026-10-02 | Weather forecasts | Advisory for Severe Lightning (Tamil Language) | [PDF](https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1130hrs_on_02__1790925650.pdf) | Pending |
 
 This section refreshes after pipeline completion and on the scheduled dashboard refresh. Workflow badges show the latest workflow result, not real-time service health.
 
