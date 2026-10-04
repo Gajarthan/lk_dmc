@@ -52,7 +52,7 @@ These numbers come from the published data branches. Click a dataset name to bro
 |:---:|:---:|:---:|:---:|:---:|
 | **8,449** | **8,448** | **8,420** | **0** | **7,087** |
 
-**Report files:** 4295.2 MiB · **Latest summary:** 2026-10-04 19:49 UTC · **Sources reporting:** 4/4
+**Report files:** 4295.2 MiB · **Latest summary:** 2026-10-04 23:25 UTC · **Sources reporting:** 4/4
 
 ### Dataset monitor
 
