@@ -1,13 +1,13 @@
 {
   "pages": 203,
   "discovered": 2025,
-  "processed": 0,
-  "attempted": 0,
+  "processed": 4,
+  "attempted": 4,
   "limited": true,
   "errors": [
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=480 row 10: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1050 row 5: Unsupported download link: /images/dmcreports/",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1280 row 11: time data '2026-05-08 ' does not match format '%Y-%m-%d %H:%M'",
-    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1350 row 7: Unsupported download link: /images/dmcreports/"
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=490 row 4: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1050 row 9: Unsupported download link: /images/dmcreports/",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1290 row 5: time data '2026-05-08 ' does not match format '%Y-%m-%d %H:%M'",
+    "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1350 row 11: Unsupported download link: /images/dmcreports/"
   ]
 }
