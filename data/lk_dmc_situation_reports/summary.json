@@ -1,11 +1,27 @@
 {
   "doc_class_label": "lk_dmc_situation_reports",
   "doc_class_description": "Reports on heavy rain, wind, lightning, and other disaster impacts.",
-  "time_updated": "2026-10-04T23:25:11.541240+00:00",
-  "n_docs": 2805,
+  "time_updated": "2026-10-05T06:03:07.153132+00:00",
+  "n_docs": 2807,
   "n_docs_with_analysis": 0,
   "collection_status": "Needs attention",
   "latest_reports": [
+    {
+      "doc_id": "2026-10-05-10-00-situation-report",
+      "description": "Situation Report",
+      "date_str": "2026-10-05",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1791178519.pdf",
+      "analyzed": false
+    },
+    {
+      "doc_id": "2026-10-05-10-00-drought-situation-report",
+      "description": "Drought Situation Report",
+      "date_str": "2026-10-05",
+      "time_str": "10:00",
+      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1791178541.pdf",
+      "analyzed": false
+    },
     {
       "doc_id": "2026-10-04-10-00-situation-report",
       "description": "Situation Report",
@@ -53,31 +69,15 @@
       "time_str": "10:00",
       "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1790745384.pdf",
       "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-29-10-00-situation-report",
-      "description": "Situation Report",
-      "date_str": "2026-09-29",
-      "time_str": "10:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1790750768.pdf",
-      "analyzed": false
-    },
-    {
-      "doc_id": "2026-09-29-10-00-drought-situation-report",
-      "description": "Drought Situation Report",
-      "date_str": "2026-09-29",
-      "time_str": "10:00",
-      "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1790750792.pdf",
-      "analyzed": false
     }
   ],
-  "n_docs_with_pdfs": 2804,
-  "n_docs_with_text": 2803,
-  "n_docs_with_tabular": 2797,
+  "n_docs_with_pdfs": 2806,
+  "n_docs_with_text": 2805,
+  "n_docs_with_tabular": 2799,
   "date_str_min": "2019-12-04",
-  "date_str_max": "2026-10-04",
+  "date_str_max": "2026-10-05",
   "langs": [
     "und"
   ],
-  "dataset_size": 1240086665
+  "dataset_size": 1241007693
 }
